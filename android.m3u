@@ -261,8 +261,12 @@ http://mediaserver.mad.tv:8000/stream
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
 http://loveradio.live24.gr:80/loveradio-1000
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.star888.gr/wp-content/uploads/2015/10/logo.png",STARFM
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.star888.gr/wp-content/uploads/2015/10/logo.png",STAR FM
 http://s1.onweb.gr:8800
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.star888.gr/wp-content/uploads/2015/10/logo.png",lovetest FM
+http://s1.onweb.gr:8800
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.star888.gr/wp-content/uploads/2015/10/logo.png",star FM
+http://s1.onweb.gr:8820/
 #EXTM3U
 
 
