@@ -177,6 +177,8 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
 https://www.youtube.com/watch?v=KbOs5_FDB4E&feature=youtu.be
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://1.bp.blogspot.com/-JMS1P3urvIM/VubKHy8lxSI/AAAAAAAAA0Y/LK4cwOQPZjMZJJrCDJnxF64DMrk5zStOQ/s300/lychnostv_Logo.png",LYXNOS TV
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cNYqOQ3.png",FITNESS CHANNEL
 http://web.onair-radio.eu:1935/fitnesschannel/fitnesschannel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9EeQo7F.png",YOLO CHANNEL
