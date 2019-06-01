@@ -259,10 +259,10 @@ http://shoutcast.24radio.gr:8056/;s1.mp3
 http://shoutcast.24radio.gr:8052/;s4.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
 http://mediaserver.mad.tv:8000/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",corfutv
-https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
 http://loveradio.live24.gr:80/loveradio-1000
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kissfm3/images/logo.png",KISS FM
+http://kissfm.live24.gr:80/kissfmathens
 #EXTM3U
 
 
