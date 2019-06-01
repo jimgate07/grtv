@@ -265,7 +265,7 @@ http://s1.onweb.gr:8800
 http://loveradio.live24.gr:80/loveradio-1000
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/kiss929.png",KISS FM
 http://kissfm.live24.gr:80/kissfmathens
-#EXTINF:-1 group-title="RADIO" tvg-logo="http://resources.live24.gr/resources/images/stations/641896bb-0f33-419d-b235-2b6bc3a1e596.png",KISS EXTRA
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://kiisextra.gr/player/logo350.png",KISS EXTRA
 http://streams2.onairsolution.gr:48500/kiis958.mp3
 
 #EXTM3U
