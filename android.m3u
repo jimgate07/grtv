@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://www.youtube.com/watch?v=SbZQY3UYw_Y
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
 https://www.youtube.com/watch?v=Rrpmhd-U7WM
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
 https://www.youtube.com/watch?v=AOVVjaLbGEk
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 WORLDWIDE
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 WORLDWIDE
 https://www.youtube.com/watch?v=qBxbnSwOrxE
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
 https://www.youtube.com/watch?v=x3IIDO6C-kc
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 WORLDWIDE
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 WORLDWIDE
 https://www.youtube.com/watch?v=5r5iftFbASw
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/mZKxIBA.jpg",ERT SPORTS HD
 https://www.youtube.com/watch?v=MP8Htwny-T4
@@ -23,9 +23,9 @@ https://www.youtube.com/watch?v=bAyzQwA_pfU
 https://www.youtube.com/watch?v=DNEd_p3qOrY
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 4
 https://www.youtube.com/watch?v=S6Jnwa0VMsY
-#EXTINF:-1 group-title="DIETHNI" tvg-name="ERT World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
+#EXTINF:-1 group-title="DIETHNI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
 http://bit.ly/2FztDWl
-#EXTINF:-1 group-title="DIETHNI" tvg-name="ERT World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
+#EXTINF:-1 group-title="DIETHNI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
@@ -43,10 +43,12 @@ https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 http://master.cystreams.com:25461/live/greek/macedonia/43.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI 
 http://master.cystreams.com:25461/live/greek/macedonia/42.ts
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 https://www.youtube.com/watch?v=4U8YMAfDFGg
-#EXTINF:-1 group-title="DIETHNI" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/CORFU_TV.png",CORFU TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
@@ -155,8 +157,6 @@ https://live.streams.ovh/Superb/Superb/playlist.m3u8
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
 http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
-#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/CORFU_TV.png",CORFU TV
-https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",MESOGEIOS TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/ITV.png",ITV
