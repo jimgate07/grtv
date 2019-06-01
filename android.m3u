@@ -252,13 +252,13 @@ http://s4.onweb.gr:8470/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/neoradiofono.png",NEO RADIOFONO
 http://s1.onweb.gr:8820/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.thewebradio.gr/wp-content/uploads/2018/01/fresh-station.png",FRESH WEB RADIO
-http://shoutcast.24radio.gr:8056/;s1.mp3
+https://bit.ly/2WDBvOr
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.thewebradio.gr/wp-content/uploads/2018/01/greeks-station.png",GREEKS WEB RADIO
 http://shoutcast.24radio.gr:8052/;s4.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
 http://mediaserver.mad.tv:8000/stream
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",STAP FM
-http://streams2.onairsolution.gr:48500/kiis958.mp3
+https://bit.ly/2JRfBBh
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
 http://loveradio.live24.gr:80/loveradio-1000
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/kiss929.png",KISS FM
