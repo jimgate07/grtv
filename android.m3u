@@ -231,7 +231,7 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917Vthq511L._SX466_.jpg",STAR FM
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917Vthq511L._SX466_.jpg",STAR FM RADIO
 http://s1.onweb.gr:8800/;
 #EXTM3U
 
