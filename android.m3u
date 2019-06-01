@@ -259,7 +259,7 @@ https://bit.ly/2WDBvOr
 http://shoutcast.24radio.gr:8052/;s4.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
 http://mediaserver.mad.tv:8000/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",STAP FM
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87089q.png",STAR
 https://bit.ly/2JRfBBh
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
 http://loveradio.live24.gr:80/loveradio-1000
