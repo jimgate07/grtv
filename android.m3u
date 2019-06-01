@@ -233,9 +233,9 @@ http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.m3u8
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.star888.gr/wp-content/uploads/2015/10/logo.png",STAR FM 88.8
 http://s1.onweb.gr:8800/
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png",RADIO DEE JAY 97.5
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png",RADIO DEE JAY 97
 http://s4.onweb.gr:8470/
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/neoradiofono.png",NEO PADIOFWNO 97.9
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/neoradiofono.png",NEO PADIOFWNO 97
 http://s1.onweb.gr:8820/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.thewebradio.gr/wp-content/uploads/2018/01/fresh-station.png",FRESH WEB RADIO
 http://shoutcast.24radio.gr:8056/;s1.mp3
@@ -243,6 +243,8 @@ http://shoutcast.24radio.gr:8056/;s1.mp3
 http://shoutcast.24radio.gr:8052/;s4.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
 http://mediaserver.mad.tv:8000/stream
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",corfutv
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
 http://loveradio.live24.gr:80/loveradio-1000
 #EXTM3U
