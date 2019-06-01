@@ -264,9 +264,10 @@ http://mediaserver.mad.tv:8000/stream
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://greeksradios.com/sites/default/files/radio/logos/logo-kiss-fm.jpg",KISS FM
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
-http://s1.onweb.gr:8800
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
 http://loveradio.live24.gr:80/loveradio-1000
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87089q.png",STAR FM
+http://s1.onweb.gr:8800
+
 #EXTM3U
 
 
