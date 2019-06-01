@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://www.youtube.com/watch?v=SbZQY3UYw_Y
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 BUP
+https://master.cystreams.com:443/live/l-ert/apocalypto/139.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
 https://www.youtube.com/watch?v=Rrpmhd-U7WM
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
