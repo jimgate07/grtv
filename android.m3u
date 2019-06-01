@@ -120,7 +120,7 @@ http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/CORFU_TV.png",CORFU TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/CORFU_TV.png",CORFU
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
@@ -259,10 +259,12 @@ http://shoutcast.24radio.gr:8056/;s1.mp3
 http://shoutcast.24radio.gr:8052/;s4.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
 http://mediaserver.mad.tv:8000/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
-http://loveradio.live24.gr:80/loveradio-1000
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
+http://s1.onweb.gr:8800
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",STAR FM
 http://s1.onweb.gr:8800
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
+http://loveradio.live24.gr:80/loveradio-1000
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/kiss929.png",KISS FM
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://resources.live24.gr/resources/images/stations/641896bb-0f33-419d-b235-2b6bc3a1e596.png",KISS EXTRA
