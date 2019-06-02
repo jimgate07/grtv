@@ -195,6 +195,8 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
 https://www.youtube.com/watch?v=KbOs5_FDB4E&feature=youtu.be
+EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://3.bp.blogspot.com/-J79ExcOCc7g/XAhCMjE-DxI/AAAAAAAA3tY/G7T1FKU5MIYSRfUJHj3t7ZipIYbm6IqdACLcBGAs/s320/diontv.png",DION TV
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cr8DOxhB-fluXFKGr9eh41xWPWneboM8rooq_ol3wfy_M4IsjGj7GLLG-z5C_cnz9-9Aqr5bbyt1EUGqYw10OyOeOs0dKmCtOBXq8Ncm-UzncqYP1tmUvF2K_T9GomD4RzLFW-Vv_MPkz4Mrtr4PndS_y5Me8GAlanlaf-YQwkY6NrwfCcxIJLC3lbzEaP5kKaiPyuQf2LO7m12VL11DUktcbjUqf2C4k_gm-YqHuOLRSBAAbzvVVenC60naQ6AJBmMbP4a2CqYjjC8WoWQo0hfMxavJuaGY5NYuoWiqs6pQND6Z5Gn62Tt7a2pH0boJ-yU1zevI6XoTJlKJk5XQO4loK3WySN4haMX5iv0shhWkm76RbX6jCHlXNEGSo1i7pAiMPwJfDUxBrWy6U-3gcf7vq-fsR75hbEKyFNVSfnuBIy94nsv1UBMyIx85jbaIwqYvWGRKcy_uGTEk05yjorYF8f8iHAzNzhcJMA65Mm0NKpAq9Ektd1iE8Gl1hJaCeGUtlfqgqYx5ANYHdKI0lh-bS-WeNchP2Hu07bQV_cGKD4ctaOLFVTCYT24gP2ALTJjYPwXsvoIuV4yMHf5SG5eBEhBi0kMFZ9d_63VerZ-ohHSFGgwRJdFHmNt_nraStRc.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cNYqOQ3.png",FITNESS CHANNEL
 http://web.onair-radio.eu:1935/fitnesschannel/fitnesschannel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9EeQo7F.png",YOLO CHANNEL
