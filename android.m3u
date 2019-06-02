@@ -197,6 +197,8 @@ https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 https://www.youtube.com/watch?v=KbOs5_FDB4E&feature=youtu.be
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://tv-greek.com/wp-content/uploads/2012/10/dion-tv-1.jpg",DION TV
 https://urlzs.com/LFrJv
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://www.verginatv.gr/wp-content/uploads/2019/02/LOGO1.png",VERGINA TV
+https://urlzs.com/VKf3F
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cNYqOQ3.png",FITNESS CHANNEL
 http://web.onair-radio.eu:1935/fitnesschannel/fitnesschannel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9EeQo7F.png",YOLO CHANNEL
