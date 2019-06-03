@@ -1,20 +1,12 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://www.youtube.com/watch?v=SbZQY3UYw_Y
-#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
-https://www.youtube.com/watch?v=Rrpmhd-U7WM
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
 https://www.youtube.com/watch?v=AOVVjaLbGEk
-#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 WORLDWIDE
-https://www.youtube.com/watch?v=qBxbnSwOrxE
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
 https://www.youtube.com/watch?v=x3IIDO6C-kc
-#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 WORLDWIDE
-https://www.youtube.com/watch?v=5r5iftFbASw
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/mZKxIBA.jpg",ERT SPORTS HD
 https://www.youtube.com/watch?v=MP8Htwny-T4
-#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/mZKxIBA.jpg",ERT SPORTS WORLDWIDE
-https://www.youtube.com/watch?v=M0InlvUsshM
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/GlXdH4E.jpg",ERT PLAY 1
 https://www.youtube.com/watch?v=dupGV_GjnOQ
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/9AmRrmF.jpg",ERT PLAY 2
@@ -103,9 +95,9 @@ http://bit.ly/2Hi50i0
 http://master.cystreams.com:25461/live/greek/macedonia/14.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
 http://bit.ly/2CzHBDH
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",PLUS TV CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/13.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",PLUS TV CY BUP
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY BUP
 http://bit.ly/2KoO5vy
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
 http://master.cystreams.com:25461/live/greek/macedonia/15.ts
@@ -195,8 +187,14 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
 https://www.youtube.com/watch?v=KbOs5_FDB4E&feature=youtu.be
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://pbs.twimg.com/profile_images/702136272685572097/kogFrH85_400x400.png",ALFA TV
+https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://www.kanalia.eu/upload/channel/irida-tv.jpg",IRIDA TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://www.plptv.gr/plp.png",PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://tv-greek.com/wp-content/uploads/2012/10/dion-tv-1.jpg",DION TV
-https://urlzs.com/LFrJv
+https://bit.ly/2W8UUCP
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://www.verginatv.gr/wp-content/uploads/2019/02/LOGO1.png",VERGINA TV
 https://urlzs.com/VKf3F
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cNYqOQ3.png",FITNESS CHANNEL
