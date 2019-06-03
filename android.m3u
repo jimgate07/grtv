@@ -195,6 +195,8 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://tv-greek.com/wp-content/uploads/2012/10/dion-tv-1.jpg",DION TV
 https://bit.ly/2W8UUCP
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://4.bp.blogspot.com/-hK_mfy43Z2c/V5-Xgc6AfwI/AAAAAAABIqI/fkNYLf7cJCAFQCiGnaCn_eruVIbge3APQCLcB/s400/star-dramas.png",STAR DRAMAS
+https://bit.ly/2XmGakV
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://www.verginatv.gr/wp-content/uploads/2019/02/LOGO1.png",VERGINA TV
 https://urlzs.com/VKf3F
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cNYqOQ3.png",FITNESS CHANNEL
