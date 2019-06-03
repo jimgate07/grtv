@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=4U8YMAfDFGg
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
-#EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="ONE Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/RISE_FINAL_LOGO-1.png/240px-RISE_FINAL_LOGO-1.png",RISE TV
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/RISE_FINAL_LOGO-1.png/240px-RISE_FINAL_LOGO-1.png",RISE TV
 https://live.vimeocdn.com/1559602639-0x71fb766cda9e8b1ef04b618ca27ba207139185ee/720fde5a-8388-4e6c-8e19-0c3cae7dbac7/chunklist_b2756000.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
