@@ -124,7 +124,7 @@ http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=atyGc3tDHf8&feature=youtu.be
+https://www.youtube.com/watch?v=o6dxYtV8QSY&feature=youtu.be
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-id="4Ε" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-id="4Ε" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E BUP
@@ -196,7 +196,7 @@ https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://tv-greek.com/wp-content/uploads/2012/10/dion-tv-1.jpg",DION TV
 https://bit.ly/2W8UUCP
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://4.bp.blogspot.com/-hK_mfy43Z2c/V5-Xgc6AfwI/AAAAAAABIqI/fkNYLf7cJCAFQCiGnaCn_eruVIbge3APQCLcB/s400/star-dramas.png",STAR DRAMAS
-https://bit.ly/2XmGakV
+https://bit.ly/317iy6g
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://www.verginatv.gr/wp-content/uploads/2019/02/LOGO1.png",VERGINA TV
 https://urlzs.com/VKf3F
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cNYqOQ3.png",FITNESS CHANNEL
@@ -263,7 +263,7 @@ https://bit.ly/2WDBvOr
 http://shoutcast.24radio.gr:8052/;s4.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
 http://mediaserver.mad.tv:8000/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87089q.png",STAR
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87089q.png",STAR FM
 http://s1.onweb.gr:8800
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/38/Love_Radio_97.5.png",LOVE RADIO
 http://loveradio.live24.gr:80/loveradio-1000
