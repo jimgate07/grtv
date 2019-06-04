@@ -114,7 +114,7 @@ http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/RISE_FINAL_LOGO-1.png/240px-RISE_FINAL_LOGO-1.png",RISE TV
-https://live.vimeocdn.com/1559602639-0x71fb766cda9e8b1ef04b618ca27ba207139185ee/720fde5a-8388-4e6c-8e19-0c3cae7dbac7/chunklist_b2756000.m3u8
+https://live.vimeocdn.com/1559650064-0x58b88f371786d9cff12bb7de8d13f908be5bfff7/d390002d-e64d-4b7d-ba27-448a9ae86df2/chunklist_b2756000.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/CORFU_TV.png",CORFU TV
