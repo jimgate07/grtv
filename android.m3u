@@ -114,7 +114,7 @@ http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/RISE_FINAL_LOGO-1.png/240px-RISE_FINAL_LOGO-1.png",RISE TV
-https://live.vimeocdn.com/1559650064-0x58b88f371786d9cff12bb7de8d13f908be5bfff7/d390002d-e64d-4b7d-ba27-448a9ae86df2/chunklist_b2756000.m3u8
+https://live.vimeocdn.com/1559674172-0x95c9d1f62329cd7e23e04b0094da3933e787b2c1/d390002d-e64d-4b7d-ba27-448a9ae86df2/chunklist_b2756000.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/CORFU_TV.png",CORFU TV
@@ -130,7 +130,7 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://action24.gr/wp-content/uploads/2019/03/Action24_logo_without_bg.png",ACTION 24
 https://stream-09.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybHbvpxkDLevn0xAmg7YxQKk)/dm/3/x61fbhs/s/live-1.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://www.thomaisoikonomou.gr/wp-content/uploads/2018/08/star-kentrikis-elladas-logo.jpg",STAR K.E.
-https://stream-06.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvKIWfpeqLwPmfuCfOsd89Nc)/dm/3/xqjey2/s/live-3.m3u8
+https://stream-04.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvCDfQeL93QF1VjI-M9wPgjk)/dm/3/xqjey2/s/live-3.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
