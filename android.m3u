@@ -201,6 +201,8 @@ https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 https://www.youtube.com/watch?v=mt2sAPwqXQA
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://pbs.twimg.com/profile_images/702136272685572097/kogFrH85_400x400.png",ALFA TV
 https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://mediadraseis.files.wordpress.com/2016/01/volcano-tv.jpg",VOLCANO TV
+http://176.9.123.140:1935/santorini/santorini/chunklist_w183862911.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://www.kanalia.eu/upload/channel/irida-tv.jpg",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://www.plptv.gr/plp.png",PLP
