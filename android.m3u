@@ -147,7 +147,7 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 http://94.156.174.52:25461/live/live/live/1.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
-#EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Start" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="START TV" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="TRT" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT TV
 http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
