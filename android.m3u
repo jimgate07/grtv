@@ -15,9 +15,9 @@ https://www.youtube.com/watch?v=bAyzQwA_pfU
 https://www.youtube.com/watch?v=DNEd_p3qOrY
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 4
 https://www.youtube.com/watch?v=S6Jnwa0VMsY
-#EXTINF:-1 group-title="DIETHNI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
+#EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
+#EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
