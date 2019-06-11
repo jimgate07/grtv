@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/ert11701062200.jpg",ERT1
 https://www.youtube.com/watch?v=SbZQY3UYw_Y
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5f8388ad3b94cb594483eddf15f04769_XL.jpg",ERT2
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5f8388ad3b94cb594483eddf15f04769_XL.jpg",ERT2
 https://www.youtube.com/watch?v=AOVVjaLbGEk
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ3" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/65e362a6bee0fcc6eec83519a5994526_XL.jpg",ERT3
+#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/65e362a6bee0fcc6eec83519a5994526_XL.jpg",ERT3
 https://www.youtube.com/watch?v=x3IIDO6C-kc&feature=youtu.be
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT SPORTS" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5ef8e65321fbd3e13cf909a39eb6909a_XL.jpg",ERT SPORTS HD
 https://www.youtube.com/watch?v=MP8Htwny-T4
@@ -39,7 +39,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/42.ts
 https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
