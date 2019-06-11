@@ -3,8 +3,8 @@
 https://www.youtube.com/watch?v=SbZQY3UYw_Y
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT2" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5f8388ad3b94cb594483eddf15f04769_XL.jpg",ERT2
 https://www.youtube.com/watch?v=AOVVjaLbGEk
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT 3" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/65e362a6bee0fcc6eec83519a5994526_XL.jpg",ERT3
-https://youtu.be/x3IIDO6C-kc
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT3" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/65e362a6bee0fcc6eec83519a5994526_XL.jpg",ERT3
+https://www.youtube.com/watch?v=x3IIDO6C-kc&feature=youtu.be
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT SPORTS" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5ef8e65321fbd3e13cf909a39eb6909a_XL.jpg",ERT SPORTS HD
 https://www.youtube.com/watch?v=MP8Htwny-T4
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/GlXdH4E.jpg",ERT PLAY 1
@@ -15,9 +15,9 @@ https://www.youtube.com/watch?v=bAyzQwA_pfU
 https://www.youtube.com/watch?v=DNEd_p3qOrY
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 4
 https://www.youtube.com/watch?v=S6Jnwa0VMsY
-#EXTINF:-1 group-title="DIETHNI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
-http://bit.ly/2FztDWl
 #EXTINF:-1 group-title="DIETHNI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
