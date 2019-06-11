@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/ert11701062200.jpg",ERT1
-https://youtu.be/SbZQY3UYw_Y
-#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://www.typologies.gr/wp-content/uploads/2015/06/2-logo-.jpg",ERT2
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
+https://www.youtube.com/watch?v=SbZQY3UYw_Y
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
 https://www.youtube.com/watch?v=AOVVjaLbGEk
-#EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/65e362a6bee0fcc6eec83519a5994526_XL.jpg",ERT3
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
 https://www.youtube.com/watch?v=x3IIDO6C-kc
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT SPORTS" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5ef8e65321fbd3e13cf909a39eb6909a_XL.jpg",ERT SPORTS HD
 https://www.youtube.com/watch?v=MP8Htwny-T4
