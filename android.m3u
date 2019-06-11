@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/ert11701062200.jpg",ERT1
-https://www.youtube.com/watch?v=SbZQY3UYw_Y
+https://youtu.be/SbZQY3UYw_Y
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://www.typologies.gr/wp-content/uploads/2015/06/2-logo-.jpg",ERT2
 https://www.youtube.com/watch?v=AOVVjaLbGEk
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/65e362a6bee0fcc6eec83519a5994526_XL.jpg",ERT3
