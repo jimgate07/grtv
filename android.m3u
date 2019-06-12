@@ -116,7 +116,7 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://action24.gr/wp-content/uploads/2019/03/Action24_logo_without_bg.png",ACTION 24
-https://stream-04.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybMxleK0W6sGyBcgfcbM2nM4)/dm/3/x61fbhs/s/live-1.m3u8
+https://www.dailymotion.com/video/x61fbhs
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Star Κεντρικης Ελλαδας" tvg-logo="https://www.thomaisoikonomou.gr/wp-content/uploads/2018/08/star-kentrikis-elladas-logo.jpg",STAR K.E.
 https://stream-04.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvCDfQeL93QF1VjI-M9wPgjk)/dm/3/xqjey2/s/live-3.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
