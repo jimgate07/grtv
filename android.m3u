@@ -84,7 +84,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/12.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/7.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY BUP
-http://bit.ly/2Hi50i0
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY
 http://master.cystreams.com:25461/live/greek/macedonia/14.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
