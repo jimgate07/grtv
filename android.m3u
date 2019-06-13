@@ -89,9 +89,9 @@ http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4
 http://master.cystreams.com:25461/live/greek/macedonia/14.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
 http://bit.ly/2CzHBDH
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/13.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY BUP
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY BUP
 http://bit.ly/2KoO5vy
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
 http://master.cystreams.com:25461/live/greek/macedonia/15.ts
