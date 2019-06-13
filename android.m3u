@@ -67,7 +67,7 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://master.cystreams.com:25461/live/greek/macedonia/3.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 1" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK 1 CY BUP
 http://master.cystreams.com:25461/live/greek/macedonia/18.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_RIK2.png",RIK 2 CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="ANT1 Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_RIK2.png",RIK 2 CY
 http://master.cystreams.com:25461/live/greek/macedonia/5.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
@@ -81,9 +81,9 @@ http://master.cystreams.com:25461/live/greek/macedonia/8.ts
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Sigma TV" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
 http://master.cystreams.com:25461/live/greek/macedonia/12.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/7.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY BUP
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY BUP
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY
 http://master.cystreams.com:25461/live/greek/macedonia/14.ts
