@@ -67,7 +67,7 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://master.cystreams.com:25461/live/greek/macedonia/3.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 1" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK 1 CY BUP
 http://master.cystreams.com:25461/live/greek/macedonia/18.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_RIK2.png",RIK 2 CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="ANT1 Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_RIK2.png",RIK 2 CY
 http://master.cystreams.com:25461/live/greek/macedonia/5.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
