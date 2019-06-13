@@ -73,7 +73,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/5.ts
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY BUP
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="ALPHA CYPRUS" tvg-logo="http://www.nomisma.com.cy/uploads/news/wp/2019/40/alpha-kyprou.jpg",Alpha TV CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="http://www.nomisma.com.cy/uploads/news/wp/2019/40/alpha-kyprou.jpg",Alpha TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/1822.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Plus TV" tvg-logo="https://i37.servimg.com/u/f37/16/92/15/82/ant1_c10.jpg",ANT1 CY
 http://master.cystreams.com:25461/live/greek/macedonia/8.ts
@@ -93,7 +93,7 @@ http://bit.ly/2CzHBDH
 http://master.cystreams.com:25461/live/greek/macedonia/13.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY BUP
 http://bit.ly/2KoO5vy
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="ALPHA CYPRUS" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
 http://master.cystreams.com:25461/live/greek/macedonia/15.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
