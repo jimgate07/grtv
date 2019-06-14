@@ -67,7 +67,7 @@ https://euronews-el-b10-cdn.hexaglobe.net/79132eae962c5d04c25067c15a7c12c7/5d00b
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="novasports1 HD" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK 1 CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="novasports2" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK 1 CY
 http://master.cystreams.com:25461/live/greek/macedonia/3.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="ANT1 Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_RIK2.png",RIK 2 CY
 http://master.cystreams.com:25461/live/greek/macedonia/5.ts
