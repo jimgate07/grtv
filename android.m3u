@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=MP8Htwny-T4
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-hellenic-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP 2
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-teleasty-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP 3
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
@@ -81,6 +85,8 @@ http://master.cystreams.com:25461/live/greek/macedonia/8.ts
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
 http://master.cystreams.com:25461/live/greek/macedonia/12.ts
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP 2
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-sigma-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/7.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY BUP
@@ -88,7 +94,7 @@ http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY
 http://master.cystreams.com:25461/live/greek/macedonia/14.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
-http://bit.ly/2CzHBDH
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-hellenic-capital-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/13.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY BUP
