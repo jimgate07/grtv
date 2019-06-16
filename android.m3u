@@ -32,7 +32,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/43.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI 
 http://master.cystreams.com:25461/live/greek/macedonia/42.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI HD
-https://www.youtube.com/watch?v=zeyREPaxOnQ
+https://www.youtube.com/embed/HjXorNFwlJ0
 #EXTINF:-1 group-title="PANELLADIKA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Cosmos" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
@@ -62,7 +62,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
-https://euronews-el-b10-cdn.hexaglobe.net/79132eae962c5d04c25067c15a7c12c7/5d00b153/euronews/euronews-euronews-website-web-responsive-2/ewnsabrelbkp_gre.smil/ewnsabrelbkp_gre_720p.m3u8
+https://euronews-el-b-cdn.hexaglobe.net/ee8ed421270d83991d37d1419df2f60f/5d05fae7/euronews/euronews-euronews-website-web-responsive-2/ewnsabrelbkp_gre.smil/ewnsabrelbkp_gre_720p.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
