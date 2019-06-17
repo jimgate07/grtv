@@ -37,19 +37,19 @@ https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-name="SKY NEWS" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
+#EXTINF:-1 group-title="DIETHNI" tvg-name="Sky News" tvg-id="SkyNews.uk" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
 https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="France 2" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
+#EXTINF:-1 group-title="DIETHNI" tvg-id="france24" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English (Opt-2)
+#EXTINF:-1 group-title="DIETHNI" tvg-id="AlJazeeraEnglish.es" tvg-name="Al Jazeera English" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/abc-news-logo.jpg",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="" tvg-logo="https://img2.gratispng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,ANIMAL PLANET AMERICA
+#EXTINF:-1 group-title="DIETHNI" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://img2.gratispng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,ANIMAL PLANET AMERICA
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-logo="https://www.loudandclearvoices.com/lac/wp-content/uploads/2016/12/bbc_one.png",BBC One
 http://bit.ly/2Vk1aaV?.m3u8
