@@ -44,7 +44,7 @@ https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="france24" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="AlJazeeraEnglish.es" tvg-name="Al Jazeera English" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English (Opt-2)
-http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/abc-news-logo.jpg",ABC News
