@@ -17,13 +17,13 @@ http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-teleasty-hsslive-2
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="DIETHNI" tvg-name="SKY NEWS" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="News",RT UK
+#EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
 https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="France 2" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="UK",France 24 English 
+#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="France 2" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="UK",Al Jazeera English (Opt-2)
+#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
+#EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
