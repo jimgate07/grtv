@@ -27,7 +27,7 @@ http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",ANIMAL PLANET AMERICA
+#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="" tvg-logo="" ,ANIMAL PLANET AMERICA
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-logo="https://www.loudandclearvoices.com/lac/wp-content/uploads/2016/12/bbc_one.png",BBC One
 http://bit.ly/2Vk1aaV?.m3u8
