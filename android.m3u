@@ -16,7 +16,7 @@ http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-teleasty-hsslive-2
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP 3
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="DIETHNI" tvg-name="SKY NEWS" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
 https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="France 2" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
@@ -25,6 +25,14 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="" group-title="News",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",ANIMAL PLANET AMERICA
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-logo="https://www.loudandclearvoices.com/lac/wp-content/uploads/2016/12/bbc_one.png",BBC One
+http://bit.ly/2Vk1aaV?.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/BBC_Two_2001.png",BBC Two
+http://bit.ly/2OO68KQ?.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
@@ -265,6 +273,8 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://www.youtube.com/watch?v=bddxP6-P_eY
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg",RADIO PRINGIPESA
 https://itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png",VH1
+http://85.244.70.140:7000/play/a012
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL GREEK TV
