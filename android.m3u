@@ -267,8 +267,6 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/reboot.jpg",REBOOT TV
-http://web.onair-radio.eu:1935/video/video/chunklist_w2125283625.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/chunks.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
