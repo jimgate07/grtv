@@ -220,7 +220,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
-https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
+https://5d00db0e0fcd5.streamlock.net/7322/7322/chunklist_w1636332636.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
 https://www.youtube.com/watch?v=mt2sAPwqXQA
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://pbs.twimg.com/profile_images/702136272685572097/kogFrH85_400x400.png",ALFA TV
