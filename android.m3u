@@ -287,7 +287,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Play_TV.jpg/220px-Play_TV.jpg",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MOUSIKA",Box Hits
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MOYSIKA",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/WSuMBgI.jpg",HEAVEN TV
 https://www.youtube.com/watch?v=bddxP6-P_eY
