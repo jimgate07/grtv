@@ -47,6 +47,8 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="DIETHNI" tvg-id="CNN.us",CNN International (US)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/abc-news-logo.jpg",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://img2.gratispng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,ANIMAL PLANET AMERICA
@@ -285,6 +287,8 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Play_TV.jpg/220px-Play_TV.jpg",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MOUSIKA",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/WSuMBgI.jpg",HEAVEN TV
 https://www.youtube.com/watch?v=bddxP6-P_eY
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg",RADIO PRINGIPESA
