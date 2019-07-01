@@ -77,6 +77,18 @@ http://78.31.67.124/Cinema2/mpegts
 http://78.31.67.124/Cinema3/mpegts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 4
 http://78.31.67.124/Cinema4/mpegts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 5
+http://78.31.67.124/Cinema5/mpegts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 6
+http://78.31.67.124/Cinema6/mpegts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 7
+http://78.31.67.124/Cinema7/mpegts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 8
+http://78.31.67.124/Cinema8/mpegts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 9
+http://78.31.67.124/Cinema9/mpegts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 10
+http://78.31.67.124/Cinema10/mpegts
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9YajV4V.jpg",MR BEAN TV
 https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/X2YEo4b9Vkg/maxresdefault.jpg",ANTE GEIA
@@ -94,7 +106,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
-https://euronews-el-b-cdn.hexaglobe.net/ee8ed421270d83991d37d1419df2f60f/5d05fae7/euronews/euronews-euronews-website-web-responsive-2/ewnsabrelbkp_gre.smil/ewnsabrelbkp_gre_720p.m3u8
+https://www.youtube.com/watch?v=XBvhq7ynROQ
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
