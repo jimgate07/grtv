@@ -41,9 +41,9 @@ http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 http://194.67.220.30/hls/102.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 2
 http://194.67.220.30/hls/101.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 2
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 3
 http://194.67.220.30/hls/103.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 2
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 4
 http://194.67.220.30/hls/104.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Sky News" tvg-id="SkyNews.uk" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
