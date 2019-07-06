@@ -5,8 +5,6 @@ https://www.youtube.com/watch?v=XB5EniQqFT4
 https://www.youtube.com/watch?v=H8cREgvj1oU
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
 https://www.youtube.com/watch?v=x3IIDO6C-kc
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
-https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΔΤ HD" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5ef8e65321fbd3e13cf909a39eb6909a_XL.jpg",ERT SPORTS HD
 https://www.youtube.com/watch?v=ykRc-EJm148
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD
@@ -129,8 +127,6 @@ http://master.cystreams.com:25461/live/greek/macedonia/3.ts
 http://master.cystreams.com:25461/live/greek/macedonia/5.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY BUP
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY BUP 2
 http://master.cystreams.com:25461/live/greek/macedonia/18.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="SIGMA TV" tvg-logo="http://www.nomisma.com.cy/uploads/news/wp/2019/40/alpha-kyprou.jpg",Alpha TV CY
@@ -189,8 +185,6 @@ http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="4E" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="4E" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E BUP
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-hellenic-e4-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="TV100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
