@@ -37,13 +37,17 @@ https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 1
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://cdn.canadasatellite.ca/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/t/s/tsn_2.jpg",TSN 2
+http://us.nocdn.net/NBA/tsn2b/chunks.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://cdn.canadasatellite.ca/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/t/s/tsn_3.jpg",TSN 3
+http://us.nocdn.net/NBA/tsn3b/chunks.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 1
 http://194.67.220.30/hls/102.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 2
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 2
 http://194.67.220.30/hls/101.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 3
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 3
 http://194.67.220.30/hls/103.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 4
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 4
 http://194.67.220.30/hls/104.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Sky News" tvg-id="SkyNews.uk" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
