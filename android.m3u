@@ -76,9 +76,13 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9YajV4V.jpg",MR BEAN TV
-https://www.youtube.com/watch?v=zS4C3yUzIK4
+https://www.youtube.com/watch?v=_p9VEKecHKI
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9YajV4V.jpg",MR BEAN TV 2
+https://www.youtube.com/watch?v=1CqLLfpvWR0
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/kEpOa1MF7eE/maxresdefault.jpg",MR BEAN CARTOON TV
 https://www.youtube.com/watch?v=zS4C3yUzIK4
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/kEpOa1MF7eE/maxresdefault.jpg",MR BEAN CARTOON TV 2
+https://www.youtube.com/watch?v=W3GzHLQsiqo
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/X2YEo4b9Vkg/maxresdefault.jpg",ANTE GEIA
 https://www.youtube.com/channel/UCrAOuO8iYCDqemWDkm1pDmg/live
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (New!)
@@ -97,8 +101,6 @@ http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
 https://www.youtube.com/watch?v=q69qjiF-Z5w
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 1" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK 1 CY
@@ -117,20 +119,14 @@ http://master.cystreams.com:25461/live/greek/macedonia/8.ts
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
 http://master.cystreams.com:25461/live/greek/macedonia/12.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP 2
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-sigma-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="SIGMA TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/7.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="SIGMA TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY BUP
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY
 http://master.cystreams.com:25461/live/greek/macedonia/14.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-hellenic-capital-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/13.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY BUP
-http://bit.ly/2KoO5vy
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="ALPHA CYPRUS" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
 http://master.cystreams.com:25461/live/greek/macedonia/15.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
@@ -224,7 +220,7 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://www.plptv.gr/plp.png",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greek-movies.com/icon/astratv.jpg",ASTRA TV
-https://www.youtube.com/watch?v=mtutyIJ3qe4
+https://www.youtube.com/watch?v=pauN243hJnw
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://mediadraseis.files.wordpress.com/2016/01/volcano-tv.jpg",VOLCANO TV
 http://176.9.123.140:1935/santorini/santorini/chunklist_w183862911.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://tv-greek.com/wp-content/uploads/2012/10/dion-tv-1.jpg",DION TV
@@ -234,7 +230,7 @@ https://www.twitch.tv/startvfm
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://www.verginatv.gr/wp-content/uploads/2019/02/LOGO1.png",VERGINA TV
 https://www.twitch.tv/verginachannel
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Rise" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/RISE_FINAL_LOGO-1.png/240px-RISE_FINAL_LOGO-1.png",RISE TV
-https://player.vimeo.com/video/344615902
+https://player.vimeo.com/video/347047400
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://action24.gr/wp-content/uploads/2019/03/Action24_logo_without_bg.png",ACTION 24
 https://www.dailymotion.com/video/x61fbhs
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Star Κεντρικης Ελλαδας" tvg-logo="https://www.thomaisoikonomou.gr/wp-content/uploads/2018/08/star-kentrikis-elladas-logo.jpg",STAR K.E.
