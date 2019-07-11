@@ -23,6 +23,10 @@ https://starlivegr-a.akamaized.net/dc-0/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t
 http://master.cystreams.com:25461/live/greek/macedonia/40.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Open TV" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Open TV" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD TEST
+https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/res0/playlist_res0.m3u8
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Open TV" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV SD TEST
+https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/res1/playlist_res1.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Open TV" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV
 http://master.cystreams.com:25461/live/greek/macedonia/43.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI 
