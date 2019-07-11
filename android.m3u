@@ -155,7 +155,7 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
-#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Channel 9" tvg-id="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="4E" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
