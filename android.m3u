@@ -47,6 +47,16 @@ http://194.67.220.30/hls/101.m3u8
 http://194.67.220.30/hls/103.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 4
 http://194.67.220.30/hls/104.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/115.png",BT SPORTS 2 HD
+http://televizija.club:25461/R0focFQ5Pc/mmoRjBRcgw/454
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="ATHLITIKA",TSN 1
+http://eir3.pikaflik.co.uk:80/live.ts?channelId=217&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="ATHLITIKA",TSN 2
+http://eir3.pikaflik.co.uk:80/live.ts?channelId=218&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="ATHLITIKA",TSN 3
+http://eir3.pikaflik.co.uk:80/live.ts?channelId=219&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="ATHLITIKA",TSN 4
+http://eir3.pikaflik.co.uk:80/live.ts?channelId=220&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Sky News" tvg-id="SkyNews.uk" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
@@ -64,9 +74,11 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://img2.gratispng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,ANIMAL PLANET AMERICA
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-logo="https://www.loudandclearvoices.com/lac/wp-content/uploads/2016/12/bbc_one.png",BBC One
-http://bit.ly/2Vk1aaV?.m3u8
+https://live2.hoolatv.com/live/bbcone_hi/chunks.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/BBC_Two_2001.png",BBC Two
-http://bit.ly/2OO68KQ?.m3u8
+https://live2.hoolatv.com/live/bbctwo_hi/chunks.m3u8
+#EXTINF:-1 group-title="DIETHNI" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU2MDc2MTgyMTAwNTE4NjQw/discovery-channel-logo_resized_bc.png",Discovery Channel US
+http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
@@ -285,6 +297,8 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png",4 Music
+https://live2.hoolatv.com/live/4music_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.ytimg.com/vi/Wl2mrlhE5Ww/maxresdefault.jpg",TROPICAL HOUSE RADIO
 https://www.youtube.com/watch?v=Wl2mrlhE5Ww
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://musicboxy.net/wp-content/uploads/2018/10/1540548407_maxresdefault_live.jpg",The Good Life Radio
