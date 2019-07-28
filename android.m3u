@@ -34,7 +34,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/42.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI HD
 https://www.youtube.com/watch?v=ivQT75jj89c
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Channel" tvg-id="mega.gr" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
-https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
+https://www.youtube.com/watch?v=-qRwgdXK7G8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Cosmos" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
@@ -305,6 +305,8 @@ https://www.youtube.com/watch?v=Wl2mrlhE5Ww
 https://www.youtube.com/watch?v=taD9hqwCb1o
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://musicboxy.net/wp-content/uploads/2018/09/1538084772_maxresdefault_live.jpg",ChillYourMind Radio
 https://www.youtube.com/watch?v=taD9hqwCb1o
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.ytimg.com/vi/SoIWIJiz5uo/maxresdefault.jpg",Tomorrowland Main Stage
+https://www.youtube.com/watch?v=UlcDANCJ9Jo
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.ytimg.com/vi/SoIWIJiz5uo/maxresdefault.jpg",Tomorrowland – One World Radio
 https://www.youtube.com/watch?v=SoIWIJiz5uo
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Play_TV.jpg/220px-Play_TV.jpg",PLAY TV
