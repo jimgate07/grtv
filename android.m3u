@@ -118,7 +118,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
-https://www.youtube.com/watch?v=z6Zb2I5hhkQ
+https://www.youtube.com/watch?v=cweJCW96Y9E
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 1" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK 1 CY
