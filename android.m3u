@@ -43,6 +43,8 @@ http://194.67.220.30/hls/101.m3u8
 http://194.67.220.30/hls/103.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 4
 http://194.67.220.30/hls/104.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 5
+http://194.67.208.149/hls/107.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/115.png",BT SPORTS 2 HD
 http://televizija.club:25461/R0focFQ5Pc/mmoRjBRcgw/454
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="ATHLITIKA",TSN 1
