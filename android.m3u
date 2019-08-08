@@ -22,7 +22,7 @@ https://starlivegr-a.akamaized.net/dc-0/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
 http://master.cystreams.com:25461/live/greek/macedonia/40.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
-https://opentvlive.siliconweb.com/openTvLive/stream1a/playlist.m3u8
+https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV
 http://master.cystreams.com:25461/live/greek/macedonia/43.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI 
