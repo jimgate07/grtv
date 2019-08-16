@@ -30,7 +30,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/42.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI HD
 https://www.youtube.com/watch?v=ivQT75jj89c
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Channel" tvg-id="mega.gr" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
-https://www.youtube.com/watch?v=hfGfmalnsaY
+https://vermantia.secure2.footprint.net/egress/bhandler/telmacortmp/vermantia/manifest.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Cosmos" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
