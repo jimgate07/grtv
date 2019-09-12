@@ -213,6 +213,8 @@ https://54627d4fc5996.streamlock.net/tvrodopi/tvrodopi/playlist.m3u8
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://cdn.greektvlive.info/wp-content/uploads/2014/10/lepanto.png",LEPANTO TV
 https://5cc309e93b721.streamlock.net/8398/8398/playlist.m3u8
+#EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://i2.wp.com/www.astratv.gr/wp-content/uploads/2015/06/astratvpng.png",ASTRA TV
+https://live.gointernet.gr:7342/hls/astratv/astratv.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
 https://live.streams.ovh/Superb/Superb/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
@@ -238,7 +240,7 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/chunklist_w1636332636.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
-https://www.youtube.com/channel/UCJmgSX50r0Q0kFXFcKHp4Kg/live
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://pbs.twimg.com/profile_images/702136272685572097/kogFrH85_400x400.png",ALFA TV
 https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://www.kanalia.eu/upload/channel/irida-tv.jpg",IRIDA TV
