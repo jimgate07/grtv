@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
-https://www.youtube.com/watch?v=XB5EniQqFT4
+https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
-https://www.youtube.com/watch?v=H8cREgvj1oU
+https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
-https://www.youtube.com/watch?v=x3IIDO6C-kc
+https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΔΤ HD" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/5ef8e65321fbd3e13cf909a39eb6909a_XL.jpg",ERT SPORTS HD
-https://www.youtube.com/watch?v=ykRc-EJm148
+https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
@@ -153,6 +153,10 @@ http://master.cystreams.com:25461/live/greek/macedonia/14.ts
 http://master.cystreams.com:25461/live/greek/macedonia/13.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="ALPHA CYPRUS" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
 http://master.cystreams.com:25461/live/greek/macedonia/15.ts
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/WHBDKha.jpg",CITY CHANNEL
+https://l11.cloudskep.com/cityc/cctv/playlist.m3u8
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT CY
+https://l7.cloudskep.com/alsports/alsports/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
@@ -270,9 +274,9 @@ https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w874066058.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/f/fa/Cosmtvmed.png",COSMOTE TV LIVE
 https://www.youtube.com/channel/UCgMUmr7uLDalwVk63Sf6pBw/live
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/GlXdH4E.jpg",ERT PLAY 1
-https://www.youtube.com/watch?v=8hPJexRiYWU
+https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9AmRrmF.jpg",ERT PLAY 2
-https://www.youtube.com/watch?v=mQXiXN_u8LA
+https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 3
 https://www.youtube.com/watch?v=6XK4g0lXfro
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 4
