@@ -172,7 +172,7 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=l8bzPVRuY9I
+https://www.youtube.com/watch?v=GNEgYn4XMdU
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
@@ -278,9 +278,9 @@ https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9AmRrmF.jpg",ERT PLAY 2
 https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 3
-https://www.youtube.com/watch?v=6XK4g0lXfro
+https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 4
-https://www.youtube.com/watch?v=5V78sjH66b0
+https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/br722T6.jpg",ORASI TV
 http://orasi.tv:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPhfPyp2q9O-JCFH_HKDuya-HDvub7Px814cN_tIxkP9g38o6",MAD TV
