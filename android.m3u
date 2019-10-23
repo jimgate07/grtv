@@ -120,7 +120,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/12
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://img1.wsimg.com/isteam/ip/c5b6da01-267d-421f-92ad-29fa1accd214/logo/c7c39756-2fa8-4038-919d-287e2c170926.png",DIASPORA TV
 https://itv.streams.ovh/diasporatv/diasporatv/chunklist_w362486970.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE TV CY
-http://master.cystreams.com:25461/live/greek/macedonia/119.ts
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
@@ -158,9 +158,9 @@ https://l11.cloudskep.com/cityc/cctv/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT CY
 https://l7.cloudskep.com/alsports/alsports/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
-http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
+https://s1.cystream.net/live/cycinema/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
-http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
+https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
@@ -326,9 +326,9 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV
-http://master.cystreams.com:25461/live/faros/farostv/154.m3u8
+https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV2
-http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
+https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
@@ -336,7 +336,7 @@ rtmp://tv3.streampulse.eu:1935/tilesport/movie1
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/AZteACJ.jpg",RADIO EPISTROFI
-http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.m3u8
+https://s1.cystream.net/live/epistrofi/playlist.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png",RADIO DEE JAY 
