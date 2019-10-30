@@ -10,19 +10,15 @@ https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
-https://www.youtube.com/watch?v=bxJIXgqbxkI
+https://www.youtube.com/watch?v=9ZUfOVfcE0M
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 https://starlivegr-a.akamaized.net/dc-0/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/zU1DgUiAbwqZs-azHg7gRg/index-s36.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
-http://master.cystreams.com:25461/live/greek/macedonia/40.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV
-http://master.cystreams.com:25461/live/greek/macedonia/43.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI 
 http://master.cystreams.com:25461/live/greek/macedonia/42.ts
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://gsee.gr/wp-content/uploads/2018/12/092d8c64349443bc802c69e426c5c800.jpg",SKAI HD
@@ -74,15 +70,15 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 group-title="DIETHNI" tvg-id="france24" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
-https://www.youtube.com/watch?v=Af_7Gyfp8qI
+https://www.youtube.com/watch?v=0fKyrdQ15gs
 #EXTINF:-1 group-title="DIETHNI" tvg-id="AlJazeeraEnglish.es" tvg-name="Al Jazeera English" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English (Opt-2)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="DIETHNI" tvg-id="CNN.us",CNN International (US)
-http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/abc-news-logo.jpg",ABC News
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://img2.gratispng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,ANIMAL PLANET AMERICA
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-logo="https://www.loudandclearvoices.com/lac/wp-content/uploads/2016/12/bbc_one.png",BBC One
