@@ -129,26 +129,8 @@ http://master.cystreams.com:25461/live/greek/macedonia/3.ts
 http://master.cystreams.com:25461/live/greek/macedonia/5.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY BUP
-http://master.cystreams.com:25461/live/greek/macedonia/18.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="SIGMA TV" tvg-logo="http://www.nomisma.com.cy/uploads/news/wp/2019/40/alpha-kyprou.jpg",Alpha TV CY
-http://master.cystreams.com:25461/live/greek/macedonia/1822.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="TV One Cyprus" tvg-logo="https://i37.servimg.com/u/f37/16/92/15/82/ant1_c10.jpg",ANT1 CY
-http://master.cystreams.com:25461/live/greek/macedonia/8.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
-http://master.cystreams.com:25461/live/greek/macedonia/12.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="SIGMA TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY
-http://master.cystreams.com:25461/live/greek/macedonia/7.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="SIGMA TV" tvg-logo="https://i.imgur.com/bCyy8DX.jpg",OMEGA TV CY BUP
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY
-http://master.cystreams.com:25461/live/greek/macedonia/14.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/60/Pluscyelo.jpeg",PLUS TV CY
-http://master.cystreams.com:25461/live/greek/macedonia/13.ts
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="ALPHA CYPRUS" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
-http://master.cystreams.com:25461/live/greek/macedonia/15.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/WHBDKha.jpg",CITY CHANNEL
 https://l11.cloudskep.com/cityc/cctv/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT CY
@@ -267,6 +249,8 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIPYTd0.png",EOE TV
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://alivegr.net/logos/tc/BCI_24_News.png",BCI 24 News
+https://eco.streams.ovh/netmedia/netmedia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.notioi.gr/wp-content/uploads/2017/05/SmallLogo-300x181.png",NOTIOI TV
 https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w874066058.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/f/fa/Cosmtvmed.png",COSMOTE TV LIVE
@@ -281,6 +265,8 @@ https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
 https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/br722T6.jpg",ORASI TV
 http://orasi.tv:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPhfPyp2q9O-JCFH_HKDuya-HDvub7Px814cN_tIxkP9g38o6",MAD TV
 http://84.20.255.141:25461/live/tvhellas/tvhellas/1347.m3u8?token=HhYNAkZQFgoaBgBQUwwLBAZWCFZSAwBTUFNSBVQMBAMEUQFbVlkCVlwST0ZBTEBUU1lmDVIRDAYGAwEcQ0wRVRdrDAcXAhYCChJPRkZRX1QQDglIFENfUxcNFAFZDVoARxhHBk1MUUJWUQ87Vl1EWFFRG15YRlpbGRVZXj5dB10EWgFBDxoEEhQSChdCGggTfUBcClNHFBsXVV9EE1gWVUcOR1UMChYcGlMMEVxMQEgQDhsjZBEaFVBPQlUPSgtfCxZfQVgLQQgaHEENQWdAVEFASwFXXlNFFw0UAEMVQF0ETDoAWlZaVVtECgtcSxALEAQbSBReWVlcQ1lCPkkLVEcOR1ECCAIIGk0=
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i0.wp.com/mad.tv/wp-content/uploads/2016/11/madhitschartbacking-1000x600.jpg",MAD HITS
