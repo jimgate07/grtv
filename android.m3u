@@ -150,7 +150,7 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=WlK5WHS7KuM
+https://www.youtube.com/watch?v=35V5o6AD6OU&feature=emb_title
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
@@ -184,9 +184,9 @@ http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="https://i.imgur.com/ASNgEZI.jpg",E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png",TOP CHANNEL
-https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
+https://itv.streams.ovh:443/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://i.imgur.com/xAKXNn1.png",FLASH TV
-https://edge.hls.hitbox.tv/hls/flashgr/index.m3u8?st=0LbSgKSqB_QqSqbRSF-wCg;ci=-Vz57eeU5jGHdFoV_8hXmw
+http://ad.mysisli.com/live/flashtvwm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Δέλτα TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png",DELTA TV
 http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET
