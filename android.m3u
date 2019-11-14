@@ -125,6 +125,8 @@ http://wpso.com:1936/hls/kidshd.m3u8
 https://www.youtube.com/watch?v=F-dLwahTnO8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="KYPRIAKA" tvg-logo="https://i.imgur.com/tJ7hLlt.png",VOULI TV CY
+https://l8.cloudskep.com/voulitv/vtv/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Rik 1" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK 1 CY
 http://master.cystreams.com:25461/live/greek/macedonia/3.ts
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="ANT1 Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_RIK2.png",RIK 2 CY
@@ -152,7 +154,7 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=35V5o6AD6OU&feature=emb_title
+https://www.youtube.com/watch?v=cR0aHfcq8AU&feature=emb_title
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="PERIFEREIAKA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
@@ -280,7 +282,7 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
-https://zouglacam-mdc-secure.akamaized.net/zouglalive/mainnew2/chunks.m3u8
+https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup5/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",XALASTRA TV
