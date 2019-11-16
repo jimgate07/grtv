@@ -105,7 +105,7 @@ https://54627d4fc5996.streamlock.net/tvrodopi/tvrodopi/playlist.m3u8
 https://www.twitch.tv/startvfm
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET
 http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="PER. AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="4E" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
