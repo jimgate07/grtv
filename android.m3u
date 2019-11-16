@@ -53,8 +53,20 @@ http://194.67.208.149/hls/108.m3u8
 http://194.67.208.149/hls/109.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 13
 http://194.67.208.149/hls/110.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT SPORTS 1 HD
+https://sportbar.biz/lba/123/g2/btuk1.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/115.png",BT SPORTS 2 HD
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="ATHLITIKA",SPORTKLUB1
+https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="ATHLITIKA",SPORTKLUB
+https://sportbar.biz/lba/123/g3/sk2serbia.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="ATHLITIKA",SPORTKLUB3
+https://sportbar.biz/lba/123/g8/rs3sk.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4u8HqijESS-AJ24n4YuIESmDPFxtRq3G3HOZe-SJ236zhY4A8" group-title="ATHLITIKA", SPORT TV 1
+https://sportbar.biz/lba/123/g6/tv1pt.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4u8HqijESS-AJ24n4YuIESmDPFxtRq3G3HOZe-SJ236zhY4A8" group-title="ATHLITIKA", SPORT TV 2
+https://sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Sky News" tvg-id="SkyNews.uk" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
