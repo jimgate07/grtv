@@ -240,7 +240,7 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
-rtmp://tv3.streampulse.eu:1935/tilesport/movie1
+http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/AZteACJ.jpg",RADIO EPISTROFI
@@ -313,6 +313,8 @@ https://5cc309e93b721.streamlock.net:443/8490/8490/playlist.m3u8
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg",RADIO PRINGIPESA
 https://itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/ellinikos.jpg",ELLINIKOS FM
+https://itv.streams.ovh:443/ellinikosfm/ellinikosfm/playlist.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png",RADIO DEE JAY 
 http://s4.onweb.gr:8470/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/neoradiofono.png",NEO RADIOFONO
