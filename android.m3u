@@ -61,11 +61,11 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 group-title="DIETHNI" tvg-id="france24" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
 https://www.youtube.com/watch?v=is6Mv1U2hvw
-#EXTINF:-1 group-title="DIETHNI" tvg-id="AlJazeeraEnglish.es" tvg-name="Al Jazeera English" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English (Opt-2)
+#EXTINF:-1 group-title="DIETHNI" tvg-id="AlJazeeraEnglish.es" tvg-name="Al Jazeera English" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="DIETHNI" tvg-id="CNN.us",CNN International (US)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="DIETHNI" tvg-id="CNN.us",CNN International
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/abc-news-logo.jpg",ABC News
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
@@ -285,6 +285,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 https://www.youtube.com/watch?v=Dhj7Voqg4tE
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/l8dDtCp.png",BARAZA TV GREEK
 https://5cc309e93b721.streamlock.net:443/8452/8452/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/l8dDtCp.png" group-title="MOYSIKA",BARAZA TV POP & DANCE
+https://5cc309e93b721.streamlock.net:443/8490/8490/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg",RADIO PRINGIPESA
