@@ -57,20 +57,56 @@ http://194.67.208.149/hls/110.m3u8
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="http://www.canlisportv.com//media/images/tvlogo/9674ee00-34cf-461a-b49c-2abebf0af5b7_eurosport-2-tv.png",EUROSPORT 2 HD
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT SPORTS 1 HD
-https://sportbar.biz/lba/123/g2/btuk1.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/115.png",BT SPORTS 2 HD
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="ATHLITIKA",SPORTKLUB1
-https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="ATHLITIKA",SPORTKLUB2
-https://sportbar.biz/lba/123/g3/sk2serbia.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="ATHLITIKA",SPORTKLUB3
-https://sportbar.biz/lba/123/g8/rs3sk.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4u8HqijESS-AJ24n4YuIESmDPFxtRq3G3HOZe-SJ236zhY4A8" group-title="ATHLITIKA", SPORT TV 1
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="http://www.digiturk.com.az/slide-img/56104beIN%20SPORT%201.png",BEIN SPORT2 1 (TURKEY)
+https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://static.iptv-epg.com/ca/beINSports2.ca.png",BEIN SPORT2 2 (TURKEY)
+https://sportbar.biz/lba/123/g9/turbein2sport.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://static.iptv-epg.com/ca/beINSports3.ca.png",BEIN SPORT2 3 (TURKEY)
+https://sportbar.biz/lba/123/g6/bein3turkey.m3u8
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="ATHLITIKA", SPORT TV 1 (PORTUGAL)
 https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4u8HqijESS-AJ24n4YuIESmDPFxtRq3G3HOZe-SJ236zhY4A8" group-title="ATHLITIKA", SPORT TV 2
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="ATHLITIKA", SPORT TV 2 (PORTUGAL)
 https://sportbar.biz/lba/123/g1/sport2port.m3u8
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="ATHLITIKA", SPORT TV 3 (PORTUGAL)
+https://sportbar.biz/lba/123/g2/pt3sport.m3u8
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="ATHLITIKA", SPORT TV 4 (PORTUGAL)
+https://sportbar.biz/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv5.png" group-title="ATHLITIKA", SPORT TV 5 (PORTUGAL)
+https://sportbar.biz/lba/123/g8/ptsport5.m3u8
+#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="ATHLITIKA", DIGI SPORT 1 (ROMANIA)
+https://sportbar.biz/lba/123/g4/ds1ro.m3u8
+#EXTINF:-1 tvg-logo="https://mpng.pngfly.com/20180616/jf/kisspng-digi-sport-3-hd-sport1-digi-tv-sport1-5b254769457ec4.6432603415291697692847.jpg" group-title="ATHLITIKA", DIGI SPORT 2 (ROMANIA)
+https://sportbar.biz/lba/123/g7/digisport2ro.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT SPORTS 1 HD (UK)
+https://sportbar.biz/lba/123/g2/btuk1.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/115.png",BT SPORTS 2 HD (UK)
+https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png",BT SPORTS ESPN HD (UK)
+https://sportbar.biz/lba/123/g7/btse.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="ATHLITIKA",SPORTKLUB 1 (SERBIA)
+https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="ATHLITIKA",SPORTKLUB 2 (SERBIA)
+https://sportbar.biz/lba/123/g3/sk2serbia.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="ATHLITIKA",SPORTKLUB 3 (SERBIA)
+https://sportbar.biz/lba/123/g8/rs3sk.m3u8
+#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA1-big.png" group-title="ATHLITIKA",ARENA SPORT 1 (SERBIA)
+https://sportbar.biz/lba/123/g6/arena1rs.m3u8
+#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA2-big.png" group-title="ATHLITIKA",ARENA SPORT 2 (SERBIA)
+https://sportbar.biz/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA3-big.png" group-title="ATHLITIKA",ARENA SPORT 3 (SERBIA)
+https://sportbar.biz/lba/123/g9/sportarena3rs.m3u8
+#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA4-big.png" group-title="ATHLITIKA",ARENA SPORT 4 (SERBIA)
+https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA5-big.png" group-title="ATHLITIKA",ARENA SPORT 5 (SERBIA)
+https://sportbar.biz/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2017/09/Match-futbol-1.png" group-title="ATHLITIKA",MATCH FUDBOL 1 (UKRAINE)
+https://sportbar.biz/lba/123/g6/mfootball1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2017/09/Match-futbol-2.png" group-title="ATHLITIKA",MATCH FUDBOL 2 (UKRAINE)
+https://sportbar.biz/lba/123/g2/rumatchf2.m3u8
+#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA5-big.png" group-title="ATHLITIKA",FOOTBALL 1 (UKRAINE)
+https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
+#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA5-big.png" group-title="ATHLITIKA",FOOTBALL 2 (UKRAINE)
+https://sportbar.biz/lba/123/g1/football2ukraine.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/fox-sports.jpg",FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://www.paulickreport.com/wp-content/uploads/2019/01/Fox-Sports-2-logo.png",FOX SPORT 2
