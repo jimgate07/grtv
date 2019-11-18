@@ -53,9 +53,9 @@ http://194.67.208.149/hls/108.m3u8
 http://194.67.208.149/hls/109.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pbs.twimg.com/profile_images/983766490364153856/zI1u0kJs.jpg",Sport Tv 13
 http://194.67.208.149/hls/110.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://eu1-prod-images.disco-api.com/2019/04/09/channel-60-2247230584701412.jpg",EUROSPORT 1 HD
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://eu1-prod-images.disco-api.com/2019/04/09/channel-60-2247230584701412.jpg",EUROSPORT 1 HD (UK)
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="http://www.canlisportv.com//media/images/tvlogo/9674ee00-34cf-461a-b49c-2abebf0af5b7_eurosport-2-tv.png",EUROSPORT 2 HD
+#EXTINF:-1 group-title="ATHLITIKA" tvg-logo="http://www.canlisportv.com//media/images/tvlogo/9674ee00-34cf-461a-b49c-2abebf0af5b7_eurosport-2-tv.png",EUROSPORT 2 HD (UK)
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="http://www.digiturk.com.az/slide-img/56104beIN%20SPORT%201.png",BEIN SPORT2 1 (TURKEY)
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
