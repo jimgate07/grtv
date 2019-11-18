@@ -354,7 +354,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI 2
-http://wpso.com:200/music
+mmsh://wpso.com:200/music
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png",4 Music
 https://live2.hoolatv.com/live/4music_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Play_TV.jpg/220px-Play_TV.jpg",PLAY TV
