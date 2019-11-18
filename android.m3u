@@ -121,7 +121,7 @@ https://sportbar.biz/lba/123/g1/football2ukraine.m3u8
 http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d_250x250c.jpg" group-title="ATHLITIKA",SETANTA SPORTS 2 (RUSSIA)
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" tvg-name="SonyESPN.in" group-title="ATHLITIKA", SONY ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" tvg-name="SonyESPNHD.in" group-title="ATHLITIKA", SONY ESPN
 http://cdn.joovox.xyz/hls293/Sony_ESPN_HD.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-name="FOXSports1.us" tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/fox-sports.jpg",FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
