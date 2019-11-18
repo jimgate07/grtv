@@ -127,6 +127,10 @@ http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png",FOX SPORT 3
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u
+#EXTINF:-1 tvg-logo="https://usa.goltv.tv/images/misc/goltv_logo.png" group-title="ATHLITIKA", GOL TV (AMERICA)
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="ATHLITIKA",TRT SPOR (TURKEY)
+http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Sky News" tvg-id="SkyNews.uk" tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1",SKY NEWS UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
