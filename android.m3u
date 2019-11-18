@@ -113,13 +113,13 @@ https://sportbar.biz/lba/123/g7/ar5sport.m3u8
 https://sportbar.biz/lba/123/g6/mfootball1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2017/09/Match-futbol-2.png" group-title="ATHLITIKA",MATCH FUDBOL 2 (UKRAINE)
 https://sportbar.biz/lba/123/g2/rumatchf2.m3u8
-#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA5-big.png" group-title="ATHLITIKA",FOOTBALL 1 (UKRAINE)
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/futbol-1-ua.jpg" group-title="ATHLITIKA",FOOTBALL 1 (UKRAINE)
 https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
-#EXTINF:-1 tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/logo-arenaA5-big.png" group-title="ATHLITIKA",FOOTBALL 2 (UKRAINE)
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/futbol-2-ua.jpg" group-title="ATHLITIKA",FOOTBALL 2 (UKRAINE)
 https://sportbar.biz/lba/123/g1/football2ukraine.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="ATHLITIKA",SETANTA SPORTS 1 (RUSSIA)
+#EXTINF:-1 tvg-logo="http://kinomir.uz/uploads/posts/2019-09/1568011647_6b8e3119c068f5bab170_250x250c.jpg" group-title="ATHLITIKA",SETANTA SPORTS 1 (RUSSIA)
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="ATHLITIKA",SETANTA SPORTS 2 (RUSSIA)
+#EXTINF:-1 tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d_250x250c.jpg" group-title="ATHLITIKA",SETANTA SPORTS 2 (RUSSIA)
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/fox-sports.jpg",FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
