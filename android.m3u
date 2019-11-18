@@ -57,21 +57,21 @@ http://194.67.208.149/hls/110.m3u8
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-name="Eurosport2.uk" tvg-logo="http://www.canlisportv.com//media/images/tvlogo/9674ee00-34cf-461a-b49c-2abebf0af5b7_eurosport-2-tv.png",EUROSPORT 2 HD (UK)
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV.tr" tvg-logo="http://www.digiturk.com.az/slide-img/56104beIN%20SPORT%201.png",BEIN SPORT 1 (TURKEY)
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV.tr" tvg-logo="http://www.digiturk.com.az/slide-img/56104beIN%20SPORT%201.png",BEIN SPORT 1 (TURKEY)
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV.tr" tvg-logo="http://www.digiturk.com.az/slide-img/56104beIN%20SPORT%201.png",BEIN SPORT 1 (TURKEY) BUP
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV.tr" tvg-logo="http://www.digiturk.com.az/slide-img/56104beIN%20SPORT%201.png",BEIN SPORT 1 (TURKEY) BUP
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV2.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports2.ca.png",BEIN SPORT 2 (TURKEY)
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV2.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports2.ca.png",BEIN SPORT 2 (TURKEY)
 https://sportbar.biz/lba/123/g9/turbein2sport.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV2.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports2.ca.png",BEIN SPORT 2 (TURKEY)BUP
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV2.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports2.ca.png",BEIN SPORT 2 (TURKEY)BUP
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV3.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports3.ca.png",BEIN SPORT 3 (TURKEY)
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV3.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports3.ca.png",BEIN SPORT 3 (TURKEY)
 https://sportbar.biz/lba/123/g6/bein3turkey.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV3.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports3.ca.png",BEIN SPORT 3 (TURKEY)
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV3.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports3.ca.png",BEIN SPORT 3 (TURKEY)
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV4.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports4.ca.png",BEIN SPORT 4 (TURKEY)
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV4.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports4.ca.png",BEIN SPORT 4 (TURKEY)
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1 group-title="ATHLITIKA" "LIGTV5.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports5.ca.png",BEIN SPORT 5 (TURKEY)
+#EXTINF:-1 group-title="ATHLITIKA" tvg-name="LIGTV5.tr" tvg-logo="https://static.iptv-epg.com/ca/beINSports5.ca.png",BEIN SPORT 5 (TURKEY)
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" tvg-name="sporttv1.pt" group-title="ATHLITIKA", SPORT TV 1 (PORTUGAL)
 https://sportbar.biz/lba/123/g6/tv1pt.m3u8
