@@ -93,6 +93,8 @@ https://sportbar.biz/lba/123/g2/btuk1.m3u8
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 #EXTINF:-1 group-title="ATHLITIKA" tvg-name="BTSportESPN.uk" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png",BT SPORTS ESPN HD (UK)
 https://sportbar.biz/lba/123/g7/btse.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" tvg-name="ESPNHD.us" group-title="ATHLITIKA",ESPN (USA)
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" tvg-name="SportKlub1.rs" group-title="ATHLITIKA",SPORTKLUB 1 (SERBIA)
 https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" tvg-name="SportKlub2.rs" group-title="ATHLITIKA",SPORTKLUB 2 (SERBIA)
