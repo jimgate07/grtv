@@ -349,8 +349,6 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI 2
 mmsh://wpso.com:200/music
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png",4 Music
-https://live2.hoolatv.com/live/4music_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Play_TV.jpg/220px-Play_TV.jpg",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MOYSIKA",Box Hits
@@ -367,6 +365,12 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 https://itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/ellinikos.jpg",ELLINIKOS FM
 https://itv.streams.ovh:443/ellinikosfm/ellinikosfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="MOYSIKA", V2BEAT TV
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MOYSIKA",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.deluxemusic.tv/fileadmin/Resources/Public/Images/logo.png" group-title="MOYSIKA",Deluxe Music
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png",RADIO DEE JAY 
 http://s4.onweb.gr:8470/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/neoradiofono.png",NEO RADIOFONO
