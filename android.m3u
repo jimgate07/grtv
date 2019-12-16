@@ -329,6 +329,8 @@ https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
 https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 4
 https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PzabKkj.jpg",ERT PLAY 5
+https://ert-live.siliconweb.com/media/ert_play_5/ert_play_5.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/br722T6.jpg",ORASI TV
 http://orasi.tv:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
