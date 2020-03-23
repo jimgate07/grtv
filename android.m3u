@@ -31,20 +31,8 @@ http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 https://www.youtube.com/watch?v=9FC3OUc_G74
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
 https://liveopen.siliconweb.com/openTvLive/opennews/playlist.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="RTUK.ru" tvg-name="RT UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png",RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF:-1 group-title="DIETHNI" tvg-id="france24" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 English 
-https://www.youtube.com/watch?v=is6Mv1U2hvw
-#EXTINF:-1 group-title="DIETHNI" tvg-id="AlJazeeraEnglish.es" tvg-name="Al Jazeera English" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="DIETHNI" tvg-id="CNN.us",CNN International
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-id="ABS-CBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/abc-news-logo.jpg",ABC News
-https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
-https://www.youtube.com/watch?v=DyDlz7IZwuM
+https://www.youtube.com/watch?v=z6_2GgbF6Mw
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
