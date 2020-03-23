@@ -39,12 +39,6 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-logo="https://i.imgur.com/tJ7hLlt.png",VOULI TV CY
-https://l8.cloudskep.com/voulitv/vtv/playlist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/WHBDKha.jpg",CITY CHANNEL
-https://l11.cloudskep.com/cityc/cctv/playlist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT CY
-https://l7.cloudskep.com/alsports/alsports/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
 https://s1.cystream.net/live/cycinema/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
@@ -66,7 +60,7 @@ https://5d00db0e0fcd5.streamlock.net/7322/7322/chunklist_w1636332636.m3u8
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",R CHANNEL
-https://54627d4fc5996.streamlock.net/tvrodopi/tvrodopi/playlist.m3u8
+https://video2.connect4.gr/live/tvrodopi/playlist.m3u8
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="https://4.bp.blogspot.com/-hK_mfy43Z2c/V5-Xgc6AfwI/AAAAAAABIqI/fkNYLf7cJCAFQCiGnaCn_eruVIbge3APQCLcB/s400/star-dramas.png",STAR DRAMAS
 https://www.twitch.tv/startvfm
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET
@@ -104,7 +98,7 @@ http://151.236.29.177:5080/LiveApp/streams/290753187776060101360453.m3u8
 #EXTINF:-1 group-title="PELOPONNISOS" tvg-name="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="PELOPONNISOS" tvg-logo="https://cdn.greektvlive.info/wp-content/uploads/2014/10/lepanto.png",LEPANTO TV
-https://5cc309e93b721.streamlock.net/8398/8398/playlist.m3u8
+https://video1.getstreamhosting.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 group-title="PELOPONNISOS" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="PELOPONNISOS" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",MESOGEIOS TV
@@ -148,7 +142,7 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="KRITI" tvg-name="Νέα Τηλεόραση Κρήτης" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 group-title="DODEKANISOU, SAMOU" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
-http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
+https://usb1.ninacdn.com/ssh101/aigaiotvonline/aigaiotvonline/playlist.m3u8
 #EXTINF:-1 group-title="DODEKANISOU, SAMOU" tvg-logo="http://www.kanalia.eu/upload/channel/irida-tv.jpg",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 group-title="DODEKANISOU, SAMOU" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
