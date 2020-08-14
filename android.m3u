@@ -67,6 +67,8 @@ https://video.connect4.gr/live/tvrodopi/playlist.m3u8
 https://www.twitch.tv/startvfm
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="ena.gr"tvg-logo="https://i.imgur.com/T4yeVjJ.png",CENTER TV
+https://video.streams.ovh:1936/CENTER_TELEVISION/CENTER_TELEVISION/master.m3u8
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="4E" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
@@ -275,6 +277,8 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Gold Greek Hits
 http://hdmusivtv.flashmediacast.com:1935/hdmusivtv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Nostalgie
+https://tna5.bozztv.com/deep/index.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg",RADIO PRINGIPESA
