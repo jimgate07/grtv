@@ -16,11 +16,11 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
-https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
+http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
-https://www.youtube.com/watch?v=CmqbY_Gzsdo&feature=emb_title
+https://skai-live.siliconweb.com/media/cambria2/index.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Channel" tvg-id="mega.gr" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
