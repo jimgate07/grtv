@@ -177,6 +177,8 @@ https://usb.bozztv.com/ssh101/mngr/mngr/playlist.m3u8
 https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://lh3.googleusercontent.com/Tstnc5ivV3W5DbIrKh3xqIOZPjPrQqfE-Lr9y3B76Lpb_ZYXHOUEC07W1IeDw6Jc9PAL=s85",AVANTI TV
 https://www.youtube.com/watch?v=-HXyc9TP7Oo
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ctoGtiR.jpg",BIG BROTHER GREECE
+https://skai-live-gr-bb.siliconweb.com/media/cambria3/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL GREEK TV
