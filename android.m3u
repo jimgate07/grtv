@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA http://www.omegatv.com.cy/live/|agentnodown$$start="src": "$$end="}$$replace="src": "$$replacewith=$$add=
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/5p0JRPi.png",ERT1
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/ek99XBT.png",ERT2
