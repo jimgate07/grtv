@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=9FC3OUc_G74
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
 https://liveopen.siliconweb.com/openTvLive/opennews/playlist.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
-https://stream-10.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa1Iv8c0hfIPBsGGaeLdYJNs)/dm/3/x2j7kha/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+https://stream-15.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9Y9EMDLV3So89cZnyywrhk)/dm/3/x2j7kha/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
@@ -283,8 +283,8 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Gold Greek Hits
 http://hdmusivtv.flashmediacast.com:1935/hdmusivtv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Nostalgie
-https://tna5.bozztv.com/deep/index.m3u8
+#EXTINF:-1 group-title="MOUSIKA" tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg",RADIO PRINGIPESA
