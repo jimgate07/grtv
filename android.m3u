@@ -172,7 +172,7 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
-https://usb.bozztv.com/ssh101/TV34100/TV34100/playlist.m3u8
+https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/q8prcgh.jpg",MINNESOTA GR
 https://usb.bozztv.com/ssh101/mngr/mngr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/uhYtvsJ.png",GALAXY GR
@@ -284,7 +284,7 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Music classic hits 
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Gold Greek Hits
-http://hdmusivtv.flashmediacast.com:1935/hdmusivtv/livestream/playlist.m3u8
+http://deep.flashmediacast.com:1935/deep/livestream/playlist.m3u8
 #EXTINF:-1 group-title="MOUSIKA" tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
