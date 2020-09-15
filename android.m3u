@@ -258,7 +258,7 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="MOUSIKI" tvg-logo="https://i.imgur.com/uSghZKH.jpg",ANALOG TV
 https://usb.bozztv.com/ssh101/analog/analog/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
-https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup11/playlist.m3u8
+https://vermmd.mmdlive.lldns.net/vermmd/eaf457c2f751497ea510298cb1685b8f/manifest.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",XALASTRA TV
