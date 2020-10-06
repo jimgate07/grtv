@@ -327,6 +327,8 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://online-serije.com/img/webtv/arena-sport-4-hr-9.png",ARENASPORT 4
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
+#EXTINF:-1 Eurosport
+http://zigfreed.ru/Y3O/285.m3u8
 #EXTM3U
 
 
