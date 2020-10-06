@@ -283,7 +283,7 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Gold Greek Hits
 http://deep.flashmediacast.com:1935/deep/livestream/playlist.m3u8
-#EXTINF:-1 group-title="MOUSIKA" tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/nrj-hits.jpg" ,NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
