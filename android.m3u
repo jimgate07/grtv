@@ -713,6 +713,180 @@ http://zigfreed.ru/Y3O/1847.m3u8
 http://zigfreed.ru/Y3O/1848.m3u8
 #EXTINF:-1, Yas Sports
 http://zigfreed.ru/Y3O/1849.m3u8
+#EXTINF:0 ,Eurosport 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:0 ,Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:0 ,Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8
+#EXTINF:0 ,(GR) Nova Sport 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/20768.ts
+#EXTINF:0 ,(GR) EPT Sports HD
+http://p.dtv.sx:80/live/visiontv/775142/19812.ts
+#EXTINF:0 ,Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:0 ,BEIN 1 TURKISH
+http://stream-e30453a4b.nmbs.top/m3u/Turkish/a891f2a8ae.m3u8
+#EXTINF:0 ,BEIN 2 TURKISH
+http://stream-e30453a4b.nmbs.top/m3u/Turkish/d355cdebc8.m3u8
+#EXTINF:0 ,BEIN 3 TURKISH
+http://stream-e30453a4b.nmbs.top/m3u/Turkish/6b2ffb0339.m3u8
+#EXTINF:0 ,BEIN TURK
+http://stream-e30453a4b.nmbs.top/m3u/Turkish/77d210ac4c.m3u8
+#EXTINF:0 ,BEIN SPORTS HABER [SD]
+http://94.46.195.170:9000/bein-sports-haber/live.m3u8
+#EXTINF:0 ,SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+#EXTINF:0 ,ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/898
+#EXTINF:0 ,ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
+#EXTINF:0 ,ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897
+#EXTINF:0 ,ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
+#EXTINF:0 ,ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896
+#EXTINF:0 ,ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
+#EXTINF:0 ,ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895
+#EXTINF:0 ,ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
+#EXTINF:0 t,ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/898
+#EXTINF:0 t,ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/896
+#EXTINF:0 t,ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/895
+#EXTINF:0 t,ARENA SPORT1 HR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/893
+#EXTINF:0 ,Setanta Sports +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:0 ,Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+#EXTINF:0 ,DAZN 01 HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18033.m3u8
+#EXTINF:0 ,DAZN 02 HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18034.m3u8
+#EXTINF:0 ,DAZN 1
+http://201.87.232.214:25461/marcondes/101010/15248
+#EXTINF:0 ,FOX SPORTS 2 HD [2]
+http://brasiltv.pro:8080/conceicao/conceicao/23118
+#EXTINF:0 ,FOX SPORTS 2 HD²
+http://4tv.site:80/live/douglas1155/4187731155/34954.m3u8
+#EXTINF:0 ,FOX SPORTS 2 HD²
+http://4tv.site:80/live/douglas1155/4187731155/34480.m3u8
+#EXTINF:0 ,FOX SPORTS HD
+http://brasiltv.pro:8080/304050/304050/5360
+#EXTINF:0 ,FOX SPORTS HD²
+http://4tv.site:80/live/douglas1155/4187731155/34955.m3u8
+#EXTINF:0 ,FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 ,Sky Sport HD 2
+http://stariptv.top:2086/87025/87025/25637
+#EXTINF:0 ,Eurosport HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8269
+#EXTINF:0 ,CBC SPORT,CBS SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:0 ,Viasat Sport HD
+http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8
+#EXTINF:0 ,CBS SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8&checkedby:iptvcat.com
+#EXTINF:0 ,Polsat Sport HD
+http://188.35.9.11:21161/udp/172r
+#EXTINF:0 ,NBC,Sport HD 720
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0 ,Viasat Sport HD
+http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8&checkedby:iptvcat.com
+#EXTINF:0 t,CBC SPORT HD
+http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:0 ,BEIN SPORTS
+http://hdonline.ml:80/rana/rana/2224
+#EXTINF:0 ,Gol TV  (P)
+http://hdonline.ml:80/rana/rana/13095
+#EXTINF:0 ,Gol TV HD  (P)
+http://hdonline.ml:80/rana/rana/13094
+#EXTINF:0 ,Sky Sport 1 HD+
+http://top-quality.net:80/alibaba/alibaba/86194
+#EXTINF:0 ,Sky Sport 2 HD+
+http://top-quality.net:80/alibaba/alibaba/86195
+#EXTINF:0 ,Sky Sport Bundesliga 1 HD
+http://top-quality.net:80/alibaba/alibaba/86174
+#EXTINF:0 ,Sky Sport Bundesliga 2 HD
+http://top-quality.net:80/alibaba/alibaba/86175
+#EXTINF:0 ,Sky Sport Bundesliga 3 HD
+http://top-quality.net:80/alibaba/alibaba/86176
+#EXTINF:0 ,Sky Sport Bundesliga 4 HD
+http://top-quality.net:80/alibaba/alibaba/86177
+#EXTINF:0 ,Sky Sport Bundesliga 5 HD
+http://top-quality.net:80/alibaba/alibaba/86178
+#EXTINF:0 ,Sky Sport Bundesliga 6 HD
+http://top-quality.net:80/alibaba/alibaba/86179
+#EXTINF:0 ,DIGI Sport 3 HU
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8274
+#EXTINF:0 ,Digi Sport 1 HD HU
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8276
+#EXTINF:0 ,Digi Sport 2 HD HU
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8275
+#EXTINF:0 ,BT Sport 1
+http://kobraiptv.com:80/live/darkosp/SjE8EaR8Ng/474.m3u8
+#EXTINF:0 ,BT Sport 2
+http://kobraiptv.com:80/live/darkosp/SjE8EaR8Ng/473.m3u8
+#EXTINF:0 ,BT Sport 3
+http://kobraiptv.com:80/live/darkosp/SjE8EaR8Ng/472.m3u8
+#EXTINF:0 t,BT Sport 1
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/474
+#EXTINF:0 t,BT Sport 2
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/473
+#EXTINF:0 t,BT Sport 3
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/472
+#EXTINF:0 ,DAZN #1
+http://rtrmsrv22.gq:80/bandeira1/123456/1032873
+#EXTINF:0 ,DAZN #2
+http://rtrmsrv22.gq:80/bandeira1/123456/1032889
+#EXTINF:0 ,DAZN
+http://hdonline.ml:80/rana/rana/4411
+#EXTINF:0 ,DAZN 1 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/5541
+#EXTINF:0 ,DAZN 2 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/5542
+#EXTINF:0 ,DAZN 1 HD
+http://kobraiptv.com:80/live/darkosp/SjE8EaR8Ng/5541.m3u8
+#EXTINF:0 ,DAZN 2 HD
+http://kobraiptv.com:80/live/darkosp/SjE8EaR8Ng/5542.m3u8
+#EXTINF:0 ,BEIN 1 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/79682fd11f.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 1 SD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/e3bd6ad94b.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 2 SD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/7f433a1c10.m3u8
+#EXTINF:0 ,BEIN 2 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/624beefbc7.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 3 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/ba015d8bf1.m3u8
+#EXTINF:0 ,BEIN 3 SD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/915461b83a.m3u8
+#EXTINF:0 ,BEIN 4 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/74ac526fff.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 5 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/57e9a1c12c.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 6 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/7090081cef.m3u8
+#EXTINF:0 ,BEIN 6 SD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/e9d1f956b0.m3u8
+#EXTINF:0 ,BEIN 7 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/bb5c759926.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 7 SD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/f06271f891.m3u8
+#EXTINF:0 ,BEIN 8 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/c8258ea7d8.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 8 SD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/7c2d86352c.m3u8
+#EXTINF:0 ,BEIN 9 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/ecc4c38e47.m3u8?by?dailyfreeiptv.?blogspot.?com&checkedby:iptvcat.com
+#EXTINF:0 ,BEIN 9 SD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/16a88ce00f.m3u8
 #EXTM3U
 
 
