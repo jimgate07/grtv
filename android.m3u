@@ -315,9 +315,9 @@ http://loveradio.live24.gr:80/loveradio-1000
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.easy972.gr/ImageGen.ashx?width=175&Constrain=True&image=/media/4330/easynewgetbigthumbnail.jpg",EASY 97.2
 http://ample-02.radiojar.com/cthtwxk5yvduv
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT 1 UK
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT 1 RU
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://discovery-assets-production.s3.eu-west-1.amazonaws.com/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg",EUROSPORT 2 UK
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://discovery-assets-production.s3.eu-west-1.amazonaws.com/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg",EUROSPORT 2 RU
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/arena-sport-1-logo.png",ARENASPORT 1
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/898
@@ -327,9 +327,9 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://online-serije.com/img/webtv/arena-sport-4-hr-9.png",ARENASPORT 4
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
-#EXTINF:-1, Eurosport
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT 1
 http://zigfreed.ru/Y3O/285.m3u8
-#EXTINF:-1, Eurosport HD
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT HD
 http://zigfreed.ru/Y3O/286.m3u8
 #EXTINF:-1, Eurosport 2
 http://zigfreed.ru/Y3O/287.m3u8
