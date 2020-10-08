@@ -337,9 +337,17 @@ http://brasiltv.pro:8080/304050/304050/5360
 http://brasiltv.pro:8080/304050/304050/23118
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://banner2.cleanpng.com/20180518/pci/kisspng-nbc-sports-network-nbcuniversal-nbc-sports-group-n-5afeb4f4c7b119.309920111526641908818.jpg",NBC SPORT
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.viasatworld.com/media/1070/sportlogo.png",VIASAT SPORT
+http://nl.cdntv.online/high/7ew3y2gnpc/0460.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/1280px-Sky_Sport_1_HD_-_Logo_2015.svg.png",SKY SPORT 1 UK
+http://nl.cdntv.online/high/7ew3y2gnpc/1010.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/1280px-Sky_Sport_1_HD_-_Logo_2015.svg.png",SKY SPORT 1 DE
+http://nl.cdntv.online/high/7ew3y2gnpc/1074.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sky_Sport_2_Corner_2011.svg/2000px-Sky_Sport_2_Corner_2011.svg.png",SKY SPORT 2 DE
+http://nl.cdntv.online/high/7ew3y2gnpc/1073.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT 1
 http://zigfreed.ru/Y3O/285.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT HD
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://img.favpng.com/7/6/6/bundesliga-sky-sports-news-streaming-media-png-favpng-Y69arzrgSm3ir4eZkXWSQ9aaR_t.jpg",EUROSPORT HD
 http://zigfreed.ru/Y3O/286.m3u8
 #EXTINF:-1, Eurosport 2
 http://zigfreed.ru/Y3O/287.m3u8
