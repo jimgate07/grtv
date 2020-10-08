@@ -327,6 +327,16 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://online-serije.com/img/webtv/arena-sport-4-hr-9.png",ARENASPORT 4
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://russellmoverley.com/wp-content/uploads/2018/05/SSPlus01.jpg",Setanta Sports +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.doriforikanea.gr/wp-content/uploads/2017/07/FOX-Sports-HD-Logo-3.jpg",FOX SPORTS HD
+http://brasiltv.pro:8080/304050/304050/5360
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2 HD
+http://brasiltv.pro:8080/304050/304050/23118
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://banner2.cleanpng.com/20180518/pci/kisspng-nbc-sports-network-nbcuniversal-nbc-sports-group-n-5afeb4f4c7b119.309920111526641908818.jpg",NBC SPORT
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT 1
 http://zigfreed.ru/Y3O/285.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://icdb.tv/images/61cb913c031872ed746377e7e4e44167.jpg",EUROSPORT HD
