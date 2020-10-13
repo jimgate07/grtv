@@ -37,6 +37,8 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 group-title="KYPRIAKA" tvg-logo="https://i.imgur.com/sEi6Ohw.png",DIGITAL TV CY
+https://l8.cloudskep.com/digital/dtv/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
 https://s1.cystream.net/live/cycinema/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
@@ -177,8 +179,10 @@ https://usb.bozztv.com/ssh101/mngr/mngr/playlist.m3u8
 https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://lh3.googleusercontent.com/Tstnc5ivV3W5DbIrKh3xqIOZPjPrQqfE-Lr9y3B76Lpb_ZYXHOUEC07W1IeDw6Jc9PAL=s85",AVANTI TV
 https://www.youtube.com/watch?v=-HXyc9TP7Oo
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/MaAys0D.png",DIAVATA TV 
+https://video.streams.ovh:2000/tunein/DiavataTV/v/m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ctoGtiR.jpg",BIG BROTHER GREECE
-https://skai-live-gr-bb.siliconweb.com/media/cambria3/index.m3u8
+https://www.youtube.com/watch?v=7DneunLCaxs
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL GREEK TV
