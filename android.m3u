@@ -43,7 +43,7 @@ https://stream-01.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa5phtNFwKWR8inWoiu
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Extra Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="Sigma Cyprus" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-logo="https://i.imgur.com/sEi6Ohw.png",DIGITAL TV CY
 https://l8.cloudskep.com/digital/dtv/playlist.m3u8
