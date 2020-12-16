@@ -125,7 +125,7 @@ http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="THESSALIA" tvg-logo="https://i2.wp.com/www.astratv.gr/wp-content/uploads/2015/06/astratvpng.png",ASTRA TV
 https://usb.bozztv.com/ssh101/astratv/astratv/playlist.m3u8
-#EXTINF:-1 group-title="THESSALIA" tvg-name="TRT" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT
+#EXTINF:-1 group-title="THESSALIA" tvg-name="TRT.gr" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT
 http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
 #EXTINF:-1 group-title="STEREA ELLADA" tvg-logo="https://i.imgur.com/ASNgEZI.jpg",E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
