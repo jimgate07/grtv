@@ -189,8 +189,6 @@ https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/playlist.m3u8
 https://www.youtube.com/watch?v=-HXyc9TP7Oo
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/MaAys0D.png",DIAVATA TV 
 https://video.streams.ovh:2000/tunein/DiavataTV/v/m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ctoGtiR.jpg",BIG BROTHER GREECE
-https://www.youtube.com/watch?v=7DneunLCaxs
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL GREEK TV
@@ -235,7 +233,7 @@ http://web.onair-radio.eu:1935/fitnesschannel/fitnesschannel/playlist.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SjoxYxX.png",PLUTON TV
 http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIPYTd0.png",EOE TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/LyRMqHO.jpg",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://alivegr.net/logos/tc/BCI_24_News.png",BCI 24 News
 https://eco.streams.ovh/netmedia/netmedia/playlist.m3u8
@@ -243,12 +241,12 @@ https://eco.streams.ovh/netmedia/netmedia/playlist.m3u8
 https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w874066058.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/f/fa/Cosmtvmed.png",COSMOTE TV LIVE
 https://www.youtube.com/channel/UCgMUmr7uLDalwVk63Sf6pBw/live
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/enE6JVY.jpg",ERT SPORTS 1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1medium.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zG9dFQp.jpg",ERT SPORTS 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jRKmGhb.jpg",ERT SPORTS 3
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bHL6FpD.png",YPERVASI TV
+https://kinima.cast-control.eu:1936/kinima/kinima/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/aYgRkkB.jpg",AKRITAS TV HD
@@ -259,16 +257,18 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/nMMo1sT.jpg",GOLD TV
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/YWC1Ak8.jpg",MUSIC TV
+https://bit.ly/3ozXFfK
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://w1.viastreaming.net/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/8YzoXFJ.png",PLAY TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://moviez.space/images/videothumbs/iptv/v2beat-tv.png",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/uSghZKH.jpg",ANALOG TV
-https://usb.bozztv.com/ssh101/analog/analog/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 https://vermmd.mmdlive.lldns.net/vermmd/eaf457c2f751497ea510298cb1685b8f/manifest.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
@@ -277,6 +277,8 @@ https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg",PANIK TV
+https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI 2
@@ -303,12 +305,8 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 https://itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://www.anacon.org/app/img/ellinikos.jpg",ELLINIKOS FM
 https://itv.streams.ovh:443/ellinikosfm/ellinikosfm/playlist.m3u8
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/WYhj6bF.png",EXELEN RADIO
-https://eco.streams.ovh/exelen/exelen/playlist.m3u8
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/jEVa0BX.jpg",EURODANCE 90
-https://autopilot.catcast.me/content/36987/index.m3u8
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/dl6ji0A.jpg",HEAVY METAL TV
-http://70.166.97.118:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/ZBIyCAl.png",MY RADIO TV
+https://vdo.alphaserver.gr:3305/stream/play.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png",RADIO DEE JAY 
 http://s4.onweb.gr:8470/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/neoradiofono.png",NEO RADIOFONO
