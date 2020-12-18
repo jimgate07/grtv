@@ -91,7 +91,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 https://www.twitch.tv/verginachannel
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-logo="https://tv-greek.com/wp-content/uploads/2012/10/dion-tv-1.jpg",DION TV
 https://www.twitch.tv/mxrotera
-#EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="TV100"  tvg-id="TV100.cy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
+#EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="TV100"  tvg-id="TV100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="DYTIKI MAKEDONIA" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
 http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
