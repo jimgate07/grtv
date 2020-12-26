@@ -93,7 +93,7 @@ https://www.twitch.tv/verginachannel
 https://www.twitch.tv/mxrotera
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="TV100"  tvg-id="TV100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1 group-title="DYTIKI MAKEDONIA" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
+#EXTINF:-1 group-title="DYTIKI MAKEDONIA" tvg-name="DIKTYO" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO
 https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 #EXTINF:-1 group-title="DYTIKI MAKEDONIA" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png",TOP CHANNEL
 https://itv.streams.ovh:443/topchannel/topchannel/playlist.m3u8
