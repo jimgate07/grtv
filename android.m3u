@@ -131,23 +131,23 @@ http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:-1 group-title="STEREA ELLADA" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="https://www.thomaisoikonomou.gr/wp-content/uploads/2018/08/star-kentrikis-elladas-logo.jpg",STAR K.E.
 https://stream-02.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvA6FXSQkvsuvpqAH3mZQJhI)/dm/3/xqjey2/d/live-0.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
-#EXTINF:-1 group-title="ATTIKI" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
+#EXTINF:-1 group-title="ATTIKI" tvg-name="ART" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-#EXTINF:-1 group-title="ATTIKI" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
+#EXTINF:-1 group-title="ATTIKI" tvg-name="EXTRA CHANNEL" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
 https://extratv.streamings.gr/live/tv/index.m3u8
-#EXTINF:-1 group-title="ATTIKI" tvg-logo="http://action24.gr/wp-content/uploads/2019/03/Action24_logo_without_bg.png",ACTION 24
+#EXTINF:-1 group-title="ATTIKI" tvg-name="ACTION24" tvg-logo="http://action24.gr/wp-content/uploads/2019/03/Action24_logo_without_bg.png",ACTION24
 https://stream-07.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybMtTF9lIEOlDJFaC01lMVQc)/dm/3/x61fbhs/s/live-1.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
-#EXTINF:-1 group-title="ATTIKI" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
+#EXTINF:-1 group-title="ATTIKI" tvg-name="ATTICA TV" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
-#EXTINF:-1 group-title="ATTIKI" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
+#EXTINF:-1 group-title="ATTIKI" tvg-name="BLUE SKY" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY
 https://www.youtube.com/watch?v=d1mWOogg7rE&feature=emb_title
-#EXTINF:-1 group-title="ATTIKI" tvg-name="Channel 9" tvg-id="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
+#EXTINF:-1 group-title="ATTIKI" tvg-name="CHANNEL 9" tvg-id="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
-#EXTINF:-1 group-title="ATTIKI" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
+#EXTINF:-1 group-title="ATTIKI" tvg-name="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 group-title="ATTIKI" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
+#EXTINF:-1 group-title="ATTIKI" tvg-name="KONTRA" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 group-title="ATTIKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
+#EXTINF:-1 group-title="ATTIKI" tvg-name="ALERT" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="KRITI" tvg-name="CRETA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
