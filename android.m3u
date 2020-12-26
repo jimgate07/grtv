@@ -81,13 +81,13 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 https://video.streams.ovh:1936/CENTER_TELEVISION/CENTER_TELEVISION/master.m3u8
 #EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="TILE EPILOGES" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="4E" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
+#EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="4Ε" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4Ε
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-logo="https://i.imgur.com/XQyysct.jpg",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-logo="https://i.imgur.com/9YFieqB.jpg",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
-#EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-logo="https://www.verginatv.gr/wp-content/uploads/2019/02/LOGO1.png",VERGINA TV
+#EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="BERGINA" tvg-logo="https://www.verginatv.gr/wp-content/uploads/2019/02/LOGO1.png",BERGINA
 https://www.twitch.tv/verginachannel
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-logo="https://tv-greek.com/wp-content/uploads/2012/10/dion-tv-1.jpg",DION TV
 https://www.twitch.tv/mxrotera
@@ -149,11 +149,11 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 group-title="KRITI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",TV CRETA
+#EXTINF:-1 group-title="KRITI" tvg-name="CRETA" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="KRITI" tvg-name="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
+#EXTINF:-1 group-title="KRITI" tvg-name="KPHTH TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="KRITI" tvg-name="Νέα Τηλεόραση Κρήτης" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png",NEA TV
+#EXTINF:-1 group-title="KRITI" tvg-name="NEA TV CRETE" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png",NEA TV CRETE
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 group-title="DODEKANISOU SAMOU" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
 https://usb1.ninacdn.com/ssh101/aigaiotvonline/aigaiotvonline/playlist.m3u8
@@ -283,7 +283,7 @@ http://wpso.com:1936/hls/music1.m3u8
 https://vdo.alphaserver.gr:3305/stream/play.m3u8
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MOYSIKA",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 group-title="MOYSIKA" tvg-name="MADTV.gr" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
+#EXTINF:-1 group-title="MOYSIKA" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
 https://www.youtube.com/watch?v=dC3-ISvqnJI
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/Q8BS310.png",MAD RADIO
 https://www.youtube.com/watch?v=WEsJ0un-AME
