@@ -94,7 +94,7 @@ https://www.twitch.tv/mxrotera
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="TV100"  tvg-id="TV100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="DYTIKI MAKEDONIA" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
-http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
+https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 #EXTINF:-1 group-title="DYTIKI MAKEDONIA" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png",TOP CHANNEL
 https://itv.streams.ovh:443/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="DYTIKI MAKEDONIA" tvg-logo="http://i.imgur.com/xAKXNn1.png",FLASH TV
@@ -130,7 +130,7 @@ http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
 #EXTINF:-1 group-title="STEREA ELLADA" tvg-logo="https://i.imgur.com/ASNgEZI.jpg",E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:-1 group-title="STEREA ELLADA" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="https://www.thomaisoikonomou.gr/wp-content/uploads/2018/08/star-kentrikis-elladas-logo.jpg",STAR K.E.
-https://stream-01.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvNZtkS2UxB3erRQYzOamimc)/dm/3/xqjey2/d/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+https://stream-02.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvA6FXSQkvsuvpqAH3mZQJhI)/dm/3/xqjey2/d/live-0.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="ATTIKI" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
@@ -140,7 +140,7 @@ https://stream-07.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybMtTF9lIEOlDJFaC01
 #EXTINF:-1 group-title="ATTIKI" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=7OogSam4PkY&feature=emb_title
+https://www.youtube.com/watch?v=d1mWOogg7rE&feature=emb_title
 #EXTINF:-1 group-title="ATTIKI" tvg-name="Channel 9" tvg-id="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
@@ -279,8 +279,8 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Play_TV.jpg/220px-Play_TV.jpg",MUSIC TV
-https://vdo.alphaserver.gr:3159/stream/play.m3u8
+#EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/ZBIyCAl.png",MY RADIO TV
+https://vdo.alphaserver.gr:3305/stream/play.m3u8
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MOYSIKA",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 group-title="MOYSIKA" tvg-name="MADTV.gr" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
