@@ -1,27 +1,27 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Twilight0/repo-guide/HEAD/guide-el.xml.gz"
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="Ert3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ErtSportsHD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ErtSportsHD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-name="ERT World" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
+#EXTINF:-1 group-title="DIETHNI" tvg-name="ERT World" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD BUP
 http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Channel" tvg-id="mega.gr" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg",MEGA
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Mega Channel" tvg-id="mega.gr" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
