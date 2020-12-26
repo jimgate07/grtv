@@ -63,23 +63,23 @@ https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 https://www.youtube.com/watch?v=XK8METRgK_U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/0yLySRd.jpg",MR BEAN CARTOON
 https://www.youtube.com/watch?v=c0Um4kXfs4U
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="https://pbs.twimg.com/profile_images/702136272685572097/kogFrH85_400x400.png",ALFA TV
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="ALFA" tvg-logo="https://pbs.twimg.com/profile_images/702136272685572097/kogFrH85_400x400.png",ALFA
 https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="Δέλτα TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png",DELTA TV
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="DELTA TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png",DELTA TV
 https://cdn.onestreaming.com/deltatv/deltatv/playlist.m3u8
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",ΔΙΚΤΥΟ TV
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="DIKTYO TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/chunklist_w1636332636.m3u8
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="ENA CHANNEL" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",R CHANNEL
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="TV RODOPI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",TV RODOPI
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="https://4.bp.blogspot.com/-hK_mfy43Z2c/V5-Xgc6AfwI/AAAAAAABIqI/fkNYLf7cJCAFQCiGnaCn_eruVIbge3APQCLcB/s400/star-dramas.png",STAR DRAMAS
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="STAR B. ELLADOS" tvg-logo="https://4.bp.blogspot.com/-hK_mfy43Z2c/V5-Xgc6AfwI/AAAAAAABIqI/fkNYLf7cJCAFQCiGnaCn_eruVIbge3APQCLcB/s400/star-dramas.png",STAR B. ELLADOS
 https://www.twitch.tv/startvfm
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="THRAKINET" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKINET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="ena.gr" tvg-logo="https://i.imgur.com/T4yeVjJ.png",CENTER TV
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="CENTER TV" tvg-logo="https://i.imgur.com/T4yeVjJ.png",CENTER TV
 https://video.streams.ovh:1936/CENTER_TELEVISION/CENTER_TELEVISION/master.m3u8
-#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
+#EXTINF:-1 group-title="AN. MAK. THRAKI" tvg-name="TILE EPILOGES" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="KENTR. MAKEDONIA" tvg-name="4E" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
