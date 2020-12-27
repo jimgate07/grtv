@@ -244,9 +244,9 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 https://www.twitch.tv/pronewstv
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ac6b6128-771a-472e-9f98-142559c0d7e5-profile_image-300x300.png",FLOGA TV
 https://www.twitch.tv/flogawebtv
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87a8d5b7-4e85-478a-8d27-f494fc3e1ea6-profile_image-70x70.png",X TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87a8d5b7-4e85-478a-8d27-f494fc3e1ea6-profile_image-70x70.png",X TV
 https://www.twitch.tv/xtvision
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ca488f05-99ee-40e0-a1f3-cc29623254b5-profile_image-300x300.png",KONITSA TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ca488f05-99ee-40e0-a1f3-cc29623254b5-profile_image-300x300.png",KONITSA TV
 www.twitch.tv/konitsaplustv
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnJlbGF4dHYucmV2aWV3c19pY29uXzE1Nzg2MTc1MThfMDg4/icon.png",RELAX TV
 https://vdo.alphaserver.gr:3226/stream/play.m3u8
