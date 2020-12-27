@@ -138,7 +138,7 @@ https://www.dailymotion.com/video/x61fbhs#tab_embed.m3u8
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-name="BLUE SKY" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY
 https://www.youtube.com/watch?v=d1mWOogg7rE&feature=emb_title
-#EXTINF:-1 group-title="ATTIKI" tvg-name="CHANNEL 9" tvg-id="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
+#EXTINF:-1 group-title="ATTIKI" tvg-name="CHANNEL 9" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-name="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
