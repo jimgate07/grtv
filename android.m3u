@@ -29,13 +29,13 @@ http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
 https://liveopen.siliconweb.com/openTvLive/opennews/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SWPpbJd.jpg",ALPHA CHANNEL
-https://bit.ly/2J8Fw8p
+https://vdo.alphaserver.gr:3353/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
-https://bit.ly/3ownRrv
+https://vdo.alphaserver.gr:3613/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
 https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5HV5pLu.jpg",SUPER CHANNEL
-https://bit.ly/35EmGO5
+https://vdo.alphaserver.gr:3587/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/gGqNDZN.png",ERTA LEX TV
 https://vdo.alphaserver.gr:3203/stream/play.m3u8
 #EXTINF:-1 group-title="DIETHNI" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
@@ -253,7 +253,7 @@ https://vdo.alphaserver.gr:3226/stream/play.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/nMMo1sT.jpg",GOLD TV
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/YWC1Ak8.jpg",MUSIC TV
-https://bit.ly/3ozXFfK
+https://vdo.alphaserver.gr:3159/stream/play.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
@@ -301,7 +301,7 @@ http://s4.onweb.gr:8470/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/neoradiofono.png",NEO RADIOFONO
 http://s1.onweb.gr:8820/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.thewebradio.gr/wp-content/uploads/2018/01/fresh-station.png",FRESH WEB RADIO
-https://bit.ly/2WDBvOr
+http://shoutcast.24radio.gr:8056/;s1.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.thewebradio.gr/wp-content/uploads/2018/01/greeks-station.png",GREEKS WEB RADIO
 http://shoutcast.24radio.gr:8052/;s4.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/madradio.png",MAD RADIO
