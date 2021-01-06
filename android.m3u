@@ -14,7 +14,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ALPHA" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="STAR HD" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
