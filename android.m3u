@@ -142,7 +142,7 @@ http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-name="KONTRA" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 group-title="ATTIKI" tvg-name="AE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/New_Epsilon.jpeg/220px-New_Epsilon.jpeg",EPSILON TV
+#EXTINF:-1 group-title="ATTIKI" tvg-name="AE CHANNEL THESSALONIKI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/New_Epsilon.jpeg/220px-New_Epsilon.jpeg",EPSILON TV
 https://edge1.mystream.gr/video417338/live/playlist.m3u8
 #EXTINF:-1 group-title="ATTIKI" tvg-name="ALERT" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
