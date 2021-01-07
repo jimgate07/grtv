@@ -50,7 +50,7 @@ https://sl2.sigmatv.com/hls/live.m3u8
 https://l8.cloudskep.com/digital/dtv/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="CYPRUS CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
 https://s1.cystream.net/live/cycinema/playlist.m3u8
-#EXTINF:-1 group-title="KYPRIAKA" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
+#EXTINF:-1 group-title="KYPRIAKA" tvg-name="TVMALL" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
