@@ -16,11 +16,11 @@ http://wpso.com:1936/hls/wzra.m3u8
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ALPHA" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="STAR HD" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="SKAI HD" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="SKAI" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
