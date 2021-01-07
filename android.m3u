@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/chrisliatas/greek-xmltv/master/generated_xmltv/xmltv_GREECE_el.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Twilight0/repo-guide/HEAD/guide-el.xml.gz"
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Ert1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Ert2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="Ert3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ErtSportsHD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS HD
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ERT SPORTS" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-name="ERT World" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD HD
+#EXTINF:-1 group-title="DIETHNI" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 group-title="DIETHNI" tvg-name="Ert World" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD BUP
+#EXTINF:-1 group-title="DIETHNI" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD BUP
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
