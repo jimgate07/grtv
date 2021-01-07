@@ -52,7 +52,7 @@ https://l8.cloudskep.com/digital/dtv/playlist.m3u8
 https://s1.cystream.net/live/cycinema/playlist.m3u8
 #EXTINF:-1 group-title="KYPRIAKA" tvg-name="TVMALL" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 https://s1.cystream.net/live/tvmall/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE TV CY
+#EXTINF:-1 group-title="KIDS" group-title="KYPRIAKA" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
@@ -282,7 +282,7 @@ https://vdo.alphaserver.gr:3305/stream/play.m3u8
 https://vdo.alphaserver.gr:3390/stream/play.m3u8
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MOYSIKA",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 group-title="MOYSIKA" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
+#EXTINF:-1 group-title="MOYSIKA" group-title="ATTIKI" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
 https://www.youtube.com/watch?v=dC3-ISvqnJI
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/Q8BS310.png",MAD RADIO
 https://www.youtube.com/watch?v=WEsJ0un-AME
