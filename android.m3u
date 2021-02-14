@@ -106,6 +106,8 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 group-title="PELOPONNISOS" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
+#EXTINF:-1 group-title="PELOPONNISOS" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
+https://til.pp.ua:3424/live/superblive.m3u8
 #EXTINF:-1 group-title="PELOPONNISOS" tvg-logo="http://i.imgur.com/jH6tcnu.png",HLEKTRA TV
 http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
 #EXTINF:-1 group-title="PELOPONNISOS" tvg-name="IONIAN CHANNEL" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
