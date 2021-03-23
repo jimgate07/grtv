@@ -243,6 +243,8 @@ https://www.twitch.tv/xtvision
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ca488f05-99ee-40e0-a1f3-cc29623254b5-profile_image-300x300.png",KONITSA TV
 www.twitch.tv/konitsaplustv
 #EXTINF:-1 group-title="ATTIKI" tvg-logo="https://i0.wp.com/www.livetvgr.com/wp-content/uploads/2014/08/extralogo2.png?fit=251%2C148&ssl=1",EXTRA TV
+https://extratv.streamings.gr/live/tv/index.m3u8
+#EXTINF:-1 group-title="ATTIKI" tvg-logo="https://i0.wp.com/www.livetvgr.com/wp-content/uploads/2014/08/extralogo2.png?fit=251%2C148&ssl=1",EXTRA TV BUP
 https://vdo.alphaserver.gr:3226/stream/play.m3u8
 #EXTINF:-1 group-title="MOYSIKA" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
