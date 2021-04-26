@@ -352,8 +352,10 @@ https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8?checkedby:iptvcat.com
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Nat GEO" tvg-logo="http://www.fici.ca/wp-content/uploads/2020/06/seo.ngsversion.1565614141405.jpg",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Nat GEO" tvg-logo="http://www.fici.ca/wp-content/uploads/2020/06/seo.ngsversion.1565614141405.jpg",National Geographic UK
-http://tvmedia2.com:8080/andrea/andrea/173123.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Nat GEO" tvg-logo="http://www.fici.ca/wp-content/uploads/2020/06/seo.ngsversion.1565614141405.jpg",National Geographic Croatia
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138980?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Nat GEO" tvg-logo="http://www.fici.ca/wp-content/uploads/2020/06/seo.ngsversion.1565614141405.jpg",National Geographic Croatia
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138980?checkedby:iptvcat.com
 #EXTM3U
 
 
