@@ -14,6 +14,8 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
+#EXTINF:-1 group-title="PANELLADIKA" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 1080
+https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/ant1prodabr/ant1prodstream_1080p/video.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="MAKEDONIA TV" tvg-logo="https://www.maktv.gr/wp-content/uploads/2018/08/Logo-Orange.png",MAKEDONIA TV
 https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
 #EXTINF:-1 group-title="PANELLADIKA" tvg-name="ALPHA" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
