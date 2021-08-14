@@ -159,6 +159,8 @@ http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.lepanto.gr" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO 
 https://video1.getstreamhosting.com:1936/8234/8234/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ORT" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
+https://vdo.streamhost.gr:3077/live/orttvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.iridatv.gr" tvg-logo="https://i.imgur.com/gn5sdCt.png",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
