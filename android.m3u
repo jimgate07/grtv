@@ -17,6 +17,8 @@ https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/el/a/ac/Ant1.png",ANT1 HD
 https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="M.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png",M.TV HD
+https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jssXlNO.png",SUPER CHANNEL
 https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
