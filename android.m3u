@@ -249,4 +249,5 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_4Mbps.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_4Mbps.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5d9auiL.png",test
+https://list.iptvcat.com/my_list/s/6feaf2cb350f5354ccb1470747ccad87.m3u8
