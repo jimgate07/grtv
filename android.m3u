@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png",Sky Sports F1 HD
-https://x20.flowerscast.com:999/hls/skysfor1-6557.ts
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png",Sky Sports F1 HD 1
+https://x20.flowerscast.com:999/hls/skysfor1-6557.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png",Sky Sports F1 HD
 https://s6.flowerscast.com:999/hls/skysfor1-7613.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png",Sky Sports F1 HD
