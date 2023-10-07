@@ -24,7 +24,7 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS 
-https://youtu.be/uWIhV9gQClg
+https://www.youtube.com/watch?v=uWIhV9gQClg
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI 
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/z0E8NTX.png",RIK 1 CY
@@ -71,8 +71,14 @@ https://live.fm100.gr/hls/tv100/index.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="bluesky" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-272x90.png",BLUE SKY
+http://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.creta.gr" tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="aigaiotv" tvg-logo="https://www.radiotvlink.com/images/logos/television-stations/aigaio-tv-logo-900.jpg",AIGAIO TV
+http://250weu.bozztv.com/ssh101/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.creta.gr" tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-4a-2-300x112.png",TELEΚΡΗΤΗ
+https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="enachannel" tvg-logo="https://i.imgur.com/Pu8TugK.png",ENA CHANNEL
 https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
