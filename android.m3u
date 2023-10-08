@@ -59,11 +59,11 @@ https://www.twitch.tv/centertv
 https://www.twitch.tv/tvstarfm
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="tvrodopi" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv-rodopi.png",RODOPI TV (TWITCH)
 https://www.twitch.tv/tvrodopi
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="VERGINA" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",VERGINA TV (TWITCH)
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="vergina" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",VERGINA TV (TWITCH)
 https://www.twitch.tv/verginachannel
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="DION" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV (TWITCH)
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="dion" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV (TWITCH)
 https://www.twitch.tv/diontvkentrikismakedonias
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="EURO TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/eurotv.jpeg",EURO TV (TWITCH)
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="euro tv" tvg-logo="https://digea.gr/cms/uploads/2021/11/eurotv.jpeg",EURO TV (TWITCH)
 https://www.twitch.tv/eurochannel
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pella" tvg-logo="https://i.imgur.com/MtfTsvf.png",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
