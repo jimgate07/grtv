@@ -59,18 +59,6 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="alfa" tvg-logo="https://i.imgur.com/HeqjCJC.png",ALFA 
 https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="center" tvg-logo="https://centertv.gr/wp-content/uploads/2019/09/center-logo.png",CENTER TV (TWITCH)
-https://www.twitch.tv/centertv
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="starbe" tvg-logo="https://www.startvfm.gr/wp-content/uploads/2017/10/star-voreiou-ellados.png",STAR V.ELLADOS (TWITCH)
-https://www.twitch.tv/tvstarfm
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="tvrodopi" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv-rodopi.png",RODOPI TV (TWITCH)
-https://www.twitch.tv/tvrodopi
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="vergina" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",VERGINA TV (TWITCH)
-https://www.twitch.tv/verginachannel
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="dion" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV (TWITCH)
-https://www.twitch.tv/diontvkentrikismakedonias
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="euro tv" tvg-logo="https://digea.gr/cms/uploads/2021/11/eurotv.jpeg",EURO TV (TWITCH)
-https://www.twitch.tv/eurochannel
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pella" tvg-logo="https://i.imgur.com/MtfTsvf.png",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="egnatia" tvg-logo="https://i.imgur.com/8SFErsS.png",EGNATIA TV
@@ -81,8 +69,6 @@ https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="flash" tvg-logo="https://digea.gr/cms/uploads/2021/11/flash.jpeg",FLASH TV (TWITCH)
-https://www.twitch.tv/flashtvgr
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://digea.gr/cms/uploads/2021/11/top.jpeg",TOP CHANNEL
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/FmUun0P.png",AXELWOS TV
@@ -105,14 +91,10 @@ https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 https://stream.net7.gr/hls/best/index.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="ionian" tvg-logo="https://i.imgur.com/6zvoHaL.png",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="lepanto" tvg-logo="https://digea.gr/cms/uploads/2021/11/image50-85.jpeg",LEPANTO
-https://www.twitch.tv/lepantotv
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="pronews" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS
 https://di-8zai2lrc.leasewebultracdn.com/pronews/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="plp" tvg-logo="https://i.imgur.com/iN9EG4c.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
-#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-id="top" tvg-logo="https://digea.gr/cms/uploads/2021/11/image62-100.jpeg",THESSALIA TV (TWITCH)
-https://www.twitch.tv/thessaliatv
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
@@ -147,8 +129,6 @@ http://250weu.bozztv.com/ssh101/ssh101/aigaiotv/playlist.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="iridatv" tvg-logo="https://i.imgur.com/XY58h94.png",IRIDA TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="kosmos" tvg-logo="https://digea.gr/cms/uploads/2021/11/image92-141.jpeg",KOSMOS TV (TWITCH)
-https://www.twitch.tv/tvkosmosgr
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="alithia" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYTlN-DZeRBBDsgbgvir5WxBUg76aBe9sfc8vadLQ=s176-c-k-c0x00ffffff-no-rj",ALITHEIA TV
 http://ythls.onrender.com/channel/UCHblWnb-6Rt904hFql5cM5Q.m3u8
 #EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/A9o9LcG.png",SYROS TV1
