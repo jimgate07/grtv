@@ -141,7 +141,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
+#EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
 https://www.youtube.com/watch?v=chPVB9EERBU
@@ -155,7 +155,7 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV Deep House Music
 https://ssh101.bozztv.com/ssh101/music/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
