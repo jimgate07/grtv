@@ -111,6 +111,8 @@ https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 http://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="onetv" tvg-logo="https://digea.gr/cms/uploads/2021/11/one-channel.png",ONE CHANNEL
 https://til.pp.ua:3391/live/channeln9live.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://digea.gr/cms/uploads/2021/11/image69-111.jpeg",APT TV
+https://live-4gf18j5s.rmbl.ws/slot-56/5x3r-6ido_1080p/chunklist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="hightv" tvg-logo="https://i.imgur.com/vDcy0RR.png",HIGH TV
