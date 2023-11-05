@@ -111,6 +111,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/star.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/1tTLWqN.jpg",ATTICA TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://upload.wikimedia.org/wikipedia/el/4/4e/RISE_FINAL_LOGO-1.png",RISE TV
+http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="bluesky" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-272x90.png",BLUE SKY
 http://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="onetv" tvg-logo="https://digea.gr/cms/uploads/2021/11/one-channel.png",ONE CHANNEL
