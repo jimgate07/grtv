@@ -105,6 +105,8 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 https://di-8j1efme9.leasewebultracdn.com/p/3403/live/prolive.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="plp" tvg-logo="https://i.imgur.com/iN9EG4c.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="lepanto" tvg-logo="https://lepantortv.gr/media/images/articles45/LOGOlepanto3.png",LEPANTO
+https://raw.githubusercontent.com/komhsgr/m3u/main/Lepanto.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
