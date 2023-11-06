@@ -110,7 +110,7 @@ https://di-8j1efme9.leasewebultracdn.com/p/3403/live/prolive.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="plp" tvg-logo="https://i.imgur.com/iN9EG4c.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="lepanto" tvg-logo="https://lepantortv.gr/media/images/articles45/LOGOlepanto3.png",LEPANTO
-https://raw.githubusercontent.com/komhsgr/m3u/main/Lepanto.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/master/LEPANTO.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV BUP
@@ -173,8 +173,10 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV Deep House Music
-https://ssh101.bozztv.com/ssh101/music/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV TRAP
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV RNB
+https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
@@ -199,6 +201,10 @@ https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/MronD91.png",KLIK TV
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/chunks.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/HzYwfIA.png",BCI MUSIC
+https://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.hedex.tv/uploads/images/clip_5177_1640436564_poster.jpg",EURODANCE 90S
+https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
