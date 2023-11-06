@@ -81,13 +81,13 @@ http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="flashtv" tvg-logo="https://flash-tv.gr/wp-content/uploads/2021/01/flash_logo-panw-1-300x62-1.png",FLASH TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/flash%20tv.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://www.hellasnet.tv/media/logos/DIKTYO%201.png",DIKTYO1
+#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://www.hellasnet.tv/media/logos/DIKTYO%201.png",DIKTYO1 (MONO DELTIO EIDISEON)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/FmUun0P.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/MaMJO96.png",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="itv" tvg-logo="https://1.bp.blogspot.com/-oFkVssZWzCM/XPAgfCTet_I/AAAAAAACe0g/j1a9TVGXYSYWUNy_fQVeCuJrzR8fZzjUQCLcBGAs/s1600/itvioannina2.jpg",IOANNINA TV
+#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="itv" tvg-logo="https://1.bp.blogspot.com/-oFkVssZWzCM/XPAgfCTet_I/AAAAAAACe0g/j1a9TVGXYSYWUNy_fQVeCuJrzR8fZzjUQCLcBGAs/s1600/itvioannina2.jpg",IOANNINA TV (OFFLINE)
 https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
 https://til.pp.ua:3026/live/arttvgrlive.m3u8
@@ -113,6 +113,8 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 https://raw.githubusercontent.com/komhsgr/m3u/main/Lepanto.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV BUP
+https://raw.githubusercontent.com/jimgate07/grtv/master/astratv.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="formediatv" tvg-logo="https://i.imgur.com/KzMe2CX.jpg",FORMEDIA TV
