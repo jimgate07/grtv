@@ -49,6 +49,8 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="centertv" tvg-logo="https://centertv.gr/wp-content/uploads/2019/09/center-logo.png",CENTER TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="starve" tvg-logo="https://www.startvfm.gr/wp-content/uploads/2017/10/star-voreiou-ellados.png",STAR V.E.
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvstarfm.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="diktyotv" tvg-logo="https://i.imgur.com/oApa2e1.png",DIKTYO TV
@@ -67,6 +69,8 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://www.politispress.gr/wp-content/uploads/2020/09/vergina-tv.jpg",VERGINA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginachannel.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://diontv.gr/wp-content/uploads/2021/01/cropped-dionlogo.png",DION TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTvKentrikisMakedonias.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="egnatia" tvg-logo="https://i.imgur.com/8SFErsS.png",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
@@ -77,6 +81,8 @@ https://live.fm100.gr/hls/tv100/index.m3u8
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TV100_LOGO.jpg/800px-TV100_LOGO.jpg",TOP CHANNEL
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="flashtv" tvg-logo="https://flash-tv.gr/wp-content/uploads/2021/01/flash_logo-panw-1-300x62-1.png",FLASH TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://www.hellasnet.tv/media/logos/DIKTYO%201.png",DIKTYO1 (MONO DELTIO EIDISEON)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/FmUun0P.png",AXELWOS TV
