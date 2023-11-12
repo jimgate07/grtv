@@ -167,6 +167,8 @@ http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="alithiatv" tvg-logo="https://www.alithia.gr/sites/all/themes/alithiatheme2/alithia-logo.svg",ALITHEIA TV (17:00-00:00)
 https://www.youtube.com/watch?v=OpGYG7k10mA
+#EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="alithiatv" tvg-logo="https://www.alithia.gr/sites/all/themes/alithiatheme2/alithia-logo.svg",ALITHEIA TV BUP (17:00-00:00)
+https://new.cache-stream.workers.dev/stream/UCHblWnb-6Rt904hFql5cM5Q/live.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
