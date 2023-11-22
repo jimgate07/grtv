@@ -165,7 +165,9 @@ http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/a8/c8/baa8c8b9-92a5-9285-8437-64d09c228b28/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.png",MAD WORLD
+http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV (OFFLINE)
 https://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD RADIO
 https://new.cache-stream.workers.dev/stream/UCzPB5j0mU-0TORZ-7-u8y0w/live.m3u8
@@ -287,6 +289,8 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5d9auiL.png",DIAVATA TV HD
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://www.cosmotetv.gr/portal/documents/d/otetv/villagecinema_400x400-normal-",VILLAGE WORLD
+http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png",BCI CINEMA
