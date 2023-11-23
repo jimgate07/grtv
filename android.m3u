@@ -231,11 +231,11 @@ https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V4EyYPv.png",GREEK VOICE 
 http://65.108.62.57:8080/live/greektv1.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/87R16eq.png",EKKLHSIA TV HD
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/svYeIxR.png",PEMPTOUSIA TV
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",PEMPTOUSIA TV
 https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/iL2o7Og.png",TV DIPSO 
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/l4UooS6.png",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
@@ -275,31 +275,31 @@ https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 https://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DR7PMx6.png",DESTINATION GREECE
 https://2-fss-1.streamhoster.com/pl_148/203374-1960324-1/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ORnZ4f8.png",CINEMA TIME (34100)
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/xLiywG2.png",CINEMA TIME (34100)
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5d9auiL.png",DIAVATA TV HD
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://www.cosmotetv.gr/portal/documents/d/otetv/villagecinema_400x400-normal-",VILLAGE WORLD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OcGnyW9.png",VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png",BCI CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/mIF7FSn.png",BCI CINEMA
 https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/wzk4Y0T.png",BCI GREEK
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kbncayJ.png",BCI GREEK
 https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/vwkr5NC.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://www.paidikatragoudia.gr/wp-content/uploads/2019/11/5-o0z3QNS_9pM-768x432.jpg",ZOUZOUNIA
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/EUMcQhb.jpg",BCI KIDS
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/F6Uwkbf.png",BCI KIDS
 https://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/WuAq4Gf.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
