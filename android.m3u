@@ -237,6 +237,8 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ejqtxS1.png",FAME STORY 2023 LIVE
+https://new.cache-stream.workers.dev/stream/UC-wFPR52W6wKGM9G03I_dDg/live.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/l4UooS6.png",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xGZpaAZ.png",NS TV
