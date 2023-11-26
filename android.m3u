@@ -281,6 +281,8 @@ https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 https://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DR7PMx6.png",DESTINATION GREECE
 https://2-fss-1.streamhoster.com/pl_148/203374-1960324-1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/marontvgr.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/xLiywG2.png",CINEMA TIME (34100)
