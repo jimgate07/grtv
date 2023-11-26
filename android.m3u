@@ -245,6 +245,8 @@ https://new.cache-stream.workers.dev/stream/UC-wFPR52W6wKGM9G03I_dDg/live.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xGZpaAZ.png",NS TV
 https://til.pp.ua:3262/live/nstv7live.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/niUXigD.png",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
