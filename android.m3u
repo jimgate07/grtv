@@ -255,6 +255,8 @@ https://5e8dfce185af1.streamlock.net/webtv/webtv/playlist.m3u8
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/weO7Ehk.png",PLUTON TV
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rV3HgwF.png",IME WEB TV
+https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/7ntpFnb.png",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZsLaIQ.png",TV FILOPOLI
