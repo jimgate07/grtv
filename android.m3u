@@ -215,6 +215,8 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0jPdDL.png",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO
+https://eu1.vectromdigital.com:1936/radioeirhnh1/radioeirhnh1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
