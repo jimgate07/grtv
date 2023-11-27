@@ -89,8 +89,6 @@ https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/6PovX6q.png",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="itv" tvg-logo="https://i.imgur.com/PC0wMHk.png",IOANNINA TV (OFFLINE)
-https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/IUDvUwa.png",ART TV
 https://til.pp.ua:3026/live/arttvgrlive.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="corfutv" tvg-logo="https://i.imgur.com/RacHLQU.png",CORFU CHANNEL
@@ -119,8 +117,6 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/3xGuBm6.png",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
-#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="formediatv" tvg-logo="https://i.imgur.com/9TfxWcG.png",FORMEDIA TV
-https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/tqolXjD.png",THESSALIA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/QUcHOcN.png",ETV
@@ -167,8 +163,6 @@ http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV (OFFLINE)
-https://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/LBVeIhE.png",MAD RADIO
 https://new.cache-stream.workers.dev/stream/UCzPB5j0mU-0TORZ-7-u8y0w/live.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iyNbA8N.png",NRG TV
@@ -239,6 +233,8 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",PEMPTOUSIA TV
 https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/vOa2X5C.png",PISTI TV
+https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ejqtxS1.png",FAME STORY 2023 LIVE
