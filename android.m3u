@@ -24,16 +24,18 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/dxjUwRL.png",EURONEWS 
+https://new.cache-stream.workers.dev/stream/UC8HJZNfDPoySgW9DN3YGNaA/live.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/dxjUwRL.png",EURONEWS BUP
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Greece.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1 (ΜΟΝΟ ΚΥΠΡΟ)
 http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2 (ΜΟΝΟ ΚΥΠΡΟ)
 http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",RIK HD
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",RIK HD (ΜΟΝΟ ΚΥΠΡΟ)
 http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA CY
 http://sl2.sigmatv.com/hls/live.m3u8
@@ -83,7 +85,7 @@ http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="flashtv" tvg-logo="https://i.imgur.com/toF5zyo.png",FLASH TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://i.imgur.com/Tw9HxBd.png",DIKTYO1 (MONO DELTIO EIDISEON)
+#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://i.imgur.com/Tw9HxBd.png",DIKTYO1 (ΜΟΝΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/DbDvmup.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
