@@ -111,6 +111,8 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="pronews" tvg-logo="https://i.imgur.com/CYwUMH3.png",PRO NEWS
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ProNews.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="pronews" tvg-logo="https://i.imgur.com/CYwUMH3.png",PRO NEWS BACK UP
+https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-id="super" tvg-logo="https://i.imgur.com/64TY2mT.png",SUPER TV (NOT 24/7)
 https://new.cache-stream.workers.dev/stream/UC4OD3anBwEt0N_gYmkmrtJQ/live.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="plp" tvg-logo="https://i.imgur.com/IcCQ0bm.png",PLP
