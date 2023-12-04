@@ -215,6 +215,12 @@ https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO
 https://eu1.vectromdigital.com:1936/radioeirhnh1/radioeirhnh1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 DRAMA
+https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 COMEDY
+https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 F1
+https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
