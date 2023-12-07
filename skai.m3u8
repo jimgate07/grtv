@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTVLCOPT:start-time=0
+#EXT-X-STREAM-INF:start-time=0
 https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
