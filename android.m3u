@@ -103,8 +103,6 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/iIcvzBK.png",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="ORT" tvg-logo="https://i.imgur.com/0NwlJXS.png",ORT TV
-https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="besttv" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV
 https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="ionian" tvg-logo="https://i.imgur.com/lzKsdsH.png",IONIAN CHANNEL
