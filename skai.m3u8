@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-START:TIME-OFFSET=-15
-#EXT-X-STREAM-INF:
-https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXT-X-START:TIME-OFFSET=25,PRECISE=YES
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
