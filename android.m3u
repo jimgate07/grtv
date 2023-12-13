@@ -243,6 +243,8 @@ https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V4EyYPv.png",GREEK VOICE 
 http://65.108.62.57:8080/live/greektv1.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIBdeGl.png",GREEK USA TV
+https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V4lbogQ.png",LA FAMILIA WEB TV
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 2
