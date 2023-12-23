@@ -51,7 +51,7 @@ https://l4.cloudskep.com/alphatmp/acy/playlist.m3u8
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatvcy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_cyprus.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
