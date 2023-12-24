@@ -23,3 +23,5 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/eurochannel.m
 http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/S4u600c.jpg",KONITSA PLUS TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/konitsaplustv.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/uZuVrh1.png",MGR TV
+https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
