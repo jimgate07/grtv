@@ -267,6 +267,8 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V4lbogQ.png",LA FAMILIA WEB TV
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xwp4GAp.png",MAX TV ARGOLIDA
+https://neon.streams.gr:8081/argolidatv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 3
