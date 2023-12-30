@@ -331,8 +331,6 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/maina
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/GtWVHXt.png",ERT SPORTS 4
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rndWrDu.png",OPEN SPORT 1
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rndWrDu.png",OPEN SPORT 2
