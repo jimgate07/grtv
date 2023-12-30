@@ -203,6 +203,8 @@ https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/QGt2Zu5.png",REAL MUSIC TV
 https://ythls-v2.onrender.com/channel/UCBhtFANy1sg49QYlGmDeHYA.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/g3xbEdl.png",ERTFLIX MUSIC TV
+https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/kjhj78D.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/U9ez52i.png",CHOICE
@@ -383,5 +385,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 https://ythls-v2.onrender.com/video/J5vzKMT5yN0.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/erm8W0k.png",ERTFLIX KIDS TV
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/WuAq4Gf.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
