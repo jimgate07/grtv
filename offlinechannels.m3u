@@ -27,3 +27,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/konitsaplustv
 https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/GtWVHXt.png",ERT SPORTS 4
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rndWrDu.png",OPEN SPORT 2
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rndWrDu.png",OPEN SPORT 3
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/playlist.m3u8
