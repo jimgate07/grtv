@@ -309,8 +309,6 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 https://til.pp.ua:3489/live/elladatvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/W3Ymzvq.png",AKTINA TV
 https://5e8dfce185af1.streamlock.net/webtv/webtv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3Gy3JyZ.png",ELLAS WORLD
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/acHtejH.png",CITY TV CY
 https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY
