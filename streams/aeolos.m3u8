@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:2.000,live
+#EXTINF:
 https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
