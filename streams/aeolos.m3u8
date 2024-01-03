@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:
+#EXT-X-STREAM-INF:BANDWIDTH=744100,RESOLUTION=640x480
 https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1044100,RESOLUTION=854x480
+https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
