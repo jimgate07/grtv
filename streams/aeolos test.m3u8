@@ -1,2 +1,3 @@
 #EXTM3U
-https://cdn.istoikona.com/aeolostv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",AEOLOS TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
