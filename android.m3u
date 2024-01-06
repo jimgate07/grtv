@@ -384,9 +384,11 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/erm8W0k.png",ERTFLIX KIDS TV
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV
-https://tw.nickstamp93.workers.dev/channel/pdcagbfhiceoiladq.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV 2
 https://tw.nickstamp93.workers.dev/channel/popelulz.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV 2
+https://tw.nickstamp93.workers.dev/channel/rythmic_portal.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV 3
+https://tw.nickstamp93.workers.dev/channel/pdcagbfhiceoiladq.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/Pwb030T.png",LOONEY TUNES
 https://tw.nickstamp93.workers.dev/channel/silly_tunes.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",RETRO CARTOONS
@@ -399,8 +401,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/track_0_2500/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/V45R7Qn.png",BOOBA TV
 https://ythls-v2.onrender.com/channel/UCV9FxSrPVEX3vjBax04V_uA.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/CHdV1kw.png",CARTOONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/uJwKqFB.png",TALKING TOM
 https://ythls-v2.onrender.com/channel/UCNlAox6aLNlE3M6QP2nzv7w.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/nTkZFXC.png",CARTOON NETWORK
