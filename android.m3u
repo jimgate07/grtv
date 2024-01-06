@@ -391,10 +391,10 @@ https://tw.nickstamp93.workers.dev/channel/rythmic_portal.m3u8
 https://tw.nickstamp93.workers.dev/channel/pdcagbfhiceoiladq.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/Pwb030T.png",LOONEY TUNES
 https://tw.nickstamp93.workers.dev/channel/silly_tunes.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" vg-logo="https://i.imgur.com/Pwb030T.png",LOONEY TUNES 2
+https://tw.nickstamp93.workers.dev/channel/vcr_oldtoons.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",RETRO CARTOONS
 https://tw.nickstamp93.workers.dev/channel/bashimusprime.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/vM6DfLp.png",CLASSIC CARTOONS
-https://tw.nickstamp93.workers.dev/channel/vcr_oldtoons.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/uuvLbj9.png",BABY FIRST TV
@@ -403,9 +403,9 @@ https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/track_0_2500/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCV9FxSrPVEX3vjBax04V_uA.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/uJwKqFB.png",TALKING TOM
 https://ythls-v2.onrender.com/channel/UCNlAox6aLNlE3M6QP2nzv7w.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/pnF3iOK.png",ODDBODS
+https://ythls-v2.onrender.com/channel/UCtlth0w7_mYqpHPViMhQ99Q.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/Jyurdkq.png",SHAUN THE SHEEP (ΣΟΝ ΤΟ ΠΡΟΒΑΤΟ)
+https://ythls-v2.onrender.com/channel/UCS7H8U-n5mINVJjJsaRtGHg.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/nTkZFXC.png",CARTOON NETWORK
 https://yt.nickstamp93.workers.dev/channel/UCMsgXPD3wzzt8RxHJmXH7hQ.m3u8
-
-
-
-
