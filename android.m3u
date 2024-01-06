@@ -245,6 +245,8 @@ http://de1se01.v2beat.live/playlist.m3u8
 https://ythls-v2.onrender.com/video/iD5U9Qt_0N4.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Dk2qys7.png",KANALI 6 CY
 https://cdn.istoikona.com/kanali6studio/live/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ELLINIKOS FM
+https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
@@ -319,8 +321,6 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rV3HgwF.png",IME WEB TV
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/7ntpFnb.png",ELLINIKOS FM
-https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZsLaIQ.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/h8oadMa.png",NOTOS TV
@@ -349,6 +349,8 @@ https://tw.nickstamp93.workers.dev/channel/dtpylias.m3u8
 https://stream.sy3dud.com:5443/LiveApp/streams/677642681062064684605047.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV
 https://tw.nickstamp93.workers.dev/channel/marontvgr.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/WuAq4Gf.png",HORSE RACES
+https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
@@ -383,11 +385,26 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV
 https://tw.nickstamp93.workers.dev/channel/pdcagbfhiceoiladq.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV 2
+https://tw.nickstamp93.workers.dev/channel/popelulz.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/Pwb030T.png",LOONEY TUNES
 https://tw.nickstamp93.workers.dev/channel/silly_tunes.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",RETRO CARTOONS
 https://tw.nickstamp93.workers.dev/channel/bashimusprime.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/WuAq4Gf.png",HORSE RACES
-https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
-#EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/cxciffB.png",AEOLOS TV test
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/aeolos.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/vM6DfLp.png",CLASSIC CARTOONS
+https://tw.nickstamp93.workers.dev/channel/vcr_oldtoons.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/uuvLbj9.png",BABY FIRST TV
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/track_0_2500/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/V45R7Qn.png",BOOBA TV
+https://ythls-v2.onrender.com/channel/UCV9FxSrPVEX3vjBax04V_uA.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/nTkZFXC.png",CARTOON NETWORK
+https://ythls-v2.onrender.com/channel/UC9hVEGaTpAYMVd-bRsOYKwA.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/CHdV1kw.png",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/uJwKqFB.png",TALKING TOM
+https://ythls-v2.onrender.com/channel/UCNlAox6aLNlE3M6QP2nzv7w.m3u8
+
+
+
