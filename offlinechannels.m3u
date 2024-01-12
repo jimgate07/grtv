@@ -13,8 +13,6 @@ https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="formediatv" tvg-logo="https://i.imgur.com/9TfxWcG.png",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ort" tvg-logo="https://i.imgur.com/0NwlJXS.png",ORT TV
-https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="itv" tvg-logo="https://i.imgur.com/PC0wMHk.png",ITV
 https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/TRI5hVG.png",EURO TV
