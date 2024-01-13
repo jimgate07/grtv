@@ -35,3 +35,9 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/playlist.m3u8
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7uc7ouz.png",CHRISTMAS MUSIC RADIO
 https://ythls-v2.onrender.com/video/iD5U9Qt_0N4.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/U6TrVru.png",OGGY
+https://ythls-v2.onrender.com/video/9Nrg6C4AQnA.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/MG1N2wm.png",NICKTOONS
+https://ythls-v2.onrender.com/channel/UC74bcC7aGRNz4KoRpJsJNEw.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/Jyurdkq.png",SHAUN THE SHEEP (ΣΟΝ ΤΟ ΠΡΟΒΑΤΟ)
+https://ythls-v2.onrender.com/channel/UCS7H8U-n5mINVJjJsaRtGHg.m3u8
