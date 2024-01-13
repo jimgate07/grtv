@@ -55,6 +55,14 @@ http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
 https://tw.nickstamp93.workers.dev/channel/verginacy.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY BUP
+http://94.130.21.210:8888/VERGINA/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="pluscy" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
+http://94.130.21.210:8888/PLUSTV/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitalcy" tvg-logo="hhttps://i.imgur.com/AT756qk.png",CAPITAL TV CY BUP
+http://94.130.21.210:8888/CAPITAL/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="onecy" tvg-logo="https://i.imgur.com/xrmtSqp.png",ONE CHANNEL CY BUP
+http://94.130.21.210:8888/EXTRA/manifest.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="centertv" tvg-logo="https://i.imgur.com/uV9m72n.png",CENTER TV
@@ -289,6 +297,10 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3Gy3JyZ.png",ELLAS WORLD
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ljD846h.png",BEST HYBRID 1
+http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ljD846h.png",BEST HYBRID 2
+http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI
