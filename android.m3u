@@ -59,7 +59,7 @@ https://tw.nickstamp93.workers.dev/channel/verginacy.m3u8
 http://94.130.21.210:8888/VERGINA/manifest.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="pluscy" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
 http://94.130.21.210:8888/PLUSTV/manifest.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitalcy" tvg-logo="hhttps://i.imgur.com/AT756qk.png",CAPITAL TV CY BUP
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/AT756qk.png",CAPITAL TV CY
 http://94.130.21.210:8888/CAPITAL/manifest.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="onecy" tvg-logo="https://i.imgur.com/xrmtSqp.png",ONE CHANNEL CY BUP
 http://94.130.21.210:8888/EXTRA/manifest.m3u8
