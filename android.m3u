@@ -211,8 +211,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Kardamena_TV.
 http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/cxciffB.png",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
-http://mix-dns.com:8080/live/peel0036@gmail.com/MLBbGL64sZ/496439.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/LBVeIhE.png",MAD RADIO
@@ -283,6 +281,8 @@ https://5e8dfce185af1.streamlock.net:443/aktinaradio/aktinaradio/playlist.m3u8
 https://cdn.istoikona.com/kanali6studio/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oOKTwfV.png",IQ CHANNEL
+https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
