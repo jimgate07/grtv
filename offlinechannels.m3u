@@ -53,3 +53,5 @@ https://tw.nickstamp93.workers.dev/channel/silly_tunes.m3u8
 https://tw.nickstamp93.workers.dev/channel/vcr_oldtoons.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",RETRO CARTOONS
 https://tw.nickstamp93.workers.dev/channel/bashimusprime.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
+http://mix-dns.com:8080/live/peel0036@gmail.com/MLBbGL64sZ/496439.m3u8
