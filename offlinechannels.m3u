@@ -55,3 +55,21 @@ https://tw.nickstamp93.workers.dev/channel/vcr_oldtoons.m3u8
 https://tw.nickstamp93.workers.dev/channel/bashimusprime.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
 http://mix-dns.com:8080/live/peel0036@gmail.com/MLBbGL64sZ/496439.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1 CY BUP
+http://94.130.21.210:8888/RIK1/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2 CY BUP
+http://94.130.21.210:8888/RIK2/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",RIK HD CY BUP
+http://94.130.21.210:8888/RIKHD/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 CY BUP
+http://94.130.21.210:8888/ANT1/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY BUP
+http://94.130.21.210:8888/MEGAONE/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
+http://94.130.21.210:8888/VERGINA/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="pluscy" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
+http://94.130.21.210:8888/PLUSTV/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/AT756qk.png",CAPITAL TV CY
+http://94.130.21.210:8888/CAPITAL/manifest.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="onecy" tvg-logo="https://i.imgur.com/xrmtSqp.png",ONE CHANNEL CY BUP
+http://94.130.21.210:8888/EXTRA/manifest.m3u8
