@@ -371,6 +371,8 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DTP.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/marontvgr.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/WuAq4Gf.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sKx59VB.png",CYPRUS TV
+https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME (NOT 24/7)
