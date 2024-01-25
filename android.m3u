@@ -261,6 +261,8 @@ https://cdn.istoikona.com/kanali6studio/live/playlist.m3u8
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oOKTwfV.png",IQ CHANNEL
 https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oyHyr4O.png",PANIKOS TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
@@ -307,6 +309,8 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ljD846h.png",BEST HYBRID 2
 http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ewmi5f1.png",KONITSA TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/KonitsaTV.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI (NOT 24/7)
