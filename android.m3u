@@ -342,7 +342,7 @@ https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/niUXigD.png",HELLENIC TV
-https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
 https://til.pp.ua:3489/live/elladatvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/acHtejH.png",CITY TV CY
