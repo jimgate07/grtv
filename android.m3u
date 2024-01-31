@@ -410,7 +410,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessa
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
-https://ythls-v2.onrender.com/video/J5vzKMT5yN0.m3u8
+https://ythls-v2.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/erm8W0k.png",ERTFLIX KIDS TV
