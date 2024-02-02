@@ -1,3 +1,2 @@
-#EXTINF:-1 tvg-id="",STAR K.E
-#EXTVLCOPT:http-referrer=https://player.castr.com/live_01fd9e80636111eebd0da35d4eac7f71
-https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="",alphacy
+https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjQgOTo0MjozNSBQTSZoYXNoX3ZhbHVlPXpYRkVMOUdyOVZFS2JjK2ZCWEx3SlE9PSZ2YWxpZG1pbnV0ZXM9MzA=
