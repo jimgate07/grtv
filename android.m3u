@@ -267,6 +267,8 @@ https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iHYxdaq.png",EUROVISION CHANNEL
 https://streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S14056690/bFJBI4yhRh7E/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hkorLYi.png",RADIO BLACKMAN
+https://til.pp.ua:3653/live/blackmanlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
