@@ -81,3 +81,5 @@ https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjQgOTo1MDoyMCBQTSZoYXNoX3ZhbHVlPTAycjQ3ay9TUENFOXVSVU4rVXRUaWc9PSZ2YWxpZG1pbnV0ZXM9MzA=
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rndWrDu.png",OPEN SPORT 1
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY
+https://s1.cystream.net/live/smile/playlist.m3u8
