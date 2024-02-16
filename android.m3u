@@ -53,6 +53,10 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD BUP
 http://195.226.218.160/vid/ertworld/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD BUP 2
+http://65.108.62.57:8080/live/world.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD BUP 3
+http://cdn1.smart-tv-data.com/vid/ertworld/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/dxjUwRL.png",EURONEWS 
 https://ythls-v2.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/dxjUwRL.png",EURONEWS BUP
@@ -209,6 +213,8 @@ https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/LBVeIhE.png",MAD RADIO
 https://ythls-v2.onrender.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
+http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iyNbA8N.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV HD 
@@ -229,6 +235,8 @@ https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCBhtFANy1sg49QYlGmDeHYA.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/g3xbEdl.png",ERTFLIX MUSIC TV
 https://telmacosa.mmdlive.lldns.net/telmacosa/81946d64fecc47b8a8cc3688aa770b1c/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/g3xbEdl.png",ERTFLIX MUSIC TV BUP
+http://cdn1.smart-tv-data.com/vid/ertplay5/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/kjhj78D.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/U9ez52i.png",CHOICE
@@ -281,6 +289,8 @@ https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iHYxdaq.png",EUROVISION CHANNEL
 https://telmacosa.mmdlive.lldns.net/telmacosa/4f99481c100940639f69c0b8ea11e573/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iHYxdaq.png",EUROVISION CHANNEL BUP
+http://cdn1.smart-tv-data.com/vid/ertnews2/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hkorLYi.png",RADIO BLACKMAN
 https://til.pp.ua:3653/live/blackmanlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
@@ -289,7 +299,7 @@ https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1
 http://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 JUST MUSIC
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
 http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
