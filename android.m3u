@@ -424,7 +424,7 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/vwkr5NC.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
