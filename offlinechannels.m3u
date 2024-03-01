@@ -87,3 +87,5 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/news2/ert_news2_main/mainabr/
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news3/ert_news3_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL
 https://kali1.everestcast.com:3061/hybrid/play.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oyHyr4O.png",PANIKOS TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u8
