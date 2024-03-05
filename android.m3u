@@ -233,6 +233,10 @@ https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/QGt2Zu5.png",REAL MUSIC TV
 https://new.cache-stream.workers.dev/stream/UCBhtFANy1sg49QYlGmDeHYA/live.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/QGt2Zu5.png",REAL MUSIC TV BUP
+https://webtv.topwebhost.gr:3302/stream/play.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/QGt2Zu5.png",REAL MUSIC TV BUP 2
+https://webtv.topwebhost.gr:3302/live/realmusiclive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/g3xbEdl.png",ERTFLIX MUSIC TV
 https://telmacosa.mmdlive.lldns.net/telmacosa/81946d64fecc47b8a8cc3688aa770b1c/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/g3xbEdl.png",ERTFLIX MUSIC TV BUP
