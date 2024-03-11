@@ -180,7 +180,7 @@ http://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="onetv" tvg-logo="https://i.imgur.com/12Pk9r4.png",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV
-https://live-v13wgnv6.rmbl.ws/slot-48/x8qn-sovx/chunklist.m3u8
+https://live-d5a20b4d.rmbl.ws/slot-52/z7qo-ffn4/chunklist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://i.imgur.com/X9ysWNd.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="hightv" tvg-logo="https://i.imgur.com/GHZJGPb.png",HIGH TV
