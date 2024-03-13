@@ -103,3 +103,5 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://cdn.istoikona.com/kanali6studio/live/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/L8oU8Np.png",10 CHANNEL
 https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oOKTwfV.png",IQ CHANNEL
+https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
