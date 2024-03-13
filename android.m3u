@@ -271,8 +271,6 @@ http://de1se01.v2beat.live/playlist.m3u8
 https://5e8dfce185af1.streamlock.net:443/aktinaradio/aktinaradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oOKTwfV.png",IQ CHANNEL
-https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iHYxdaq.png",EUROVISION CHANNEL
 http://telmacosa.s.llnwi.net/ertlive/eurovision/default/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iHYxdaq.png",EUROVISION CHANNEL BUP
