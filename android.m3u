@@ -43,7 +43,7 @@ https://new.cache-stream.workers.dev/stream/UC8HJZNfDPoySgW9DN3YGNaA/live.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Greece.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW ENGLISH
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
 https://ertflix.s.llnwi.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -51,6 +51,8 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 https://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY BUP
+http://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
@@ -365,6 +367,10 @@ https://ertflix.s.llnwi.net/ertlive/ertsports1/default/playlist.m3u8
 http://cdn1.smart-tv-data.com/vid/ertplay2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3
 http://cdn1.smart-tv-data.com/vid/ertplay3/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS 2
+http://ertflix.s.llnwi.net/ertlive/ERTNews2/default/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS 3
+http://ertflix.s.llnwi.net/ertlive/ERTNews3/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV2 CY
