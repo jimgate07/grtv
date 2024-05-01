@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Gree
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW ENGLISH
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
-https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/playlist.m3u8
+https://ertflix.s.llnwi.net/ertlive/tv5/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE BUP
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
