@@ -239,8 +239,6 @@ http://cdn1.smart-tv-data.com/vid/ertplay5/playlist.m3u8
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/sWXNv2b.png",RELOAD RADIO
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC
-https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/eXjSK6p.png",TILEMOUSIKI
@@ -290,7 +288,7 @@ http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0t4YxjI.png",APOKALIPTIKA NEWS
-https://ythls-v2.onrender.com/channel/UC87VDJvN0E-79sxrOUigEwg.m3u8
+https://ythls-v2.onrender.com/video/tygxo2M8QR4.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1RC5xy4.png",XPLORE
@@ -335,8 +333,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ProNews.m3u8
 https://ssh101.bozztv.com/ssh101/hlektra/chunks.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI (NOT 24/7)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",PEMPTOUSIA TV
 https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/vOa2X5C.png",PISTI TV
@@ -346,7 +342,7 @@ https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/cpOVE3p.png",WORD OF GOD TV
 https://new.cache-stream.workers.dev/stream/UCc3hweSOwmGb6hdQrPFc_cw/live.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/5enJhlf.png",VOICE OF GOD TV
-https://new.cache-stream.workers.dev/stream/UC8KnlXI3YAkOZfwMgxb1lOg/live.m3u8
+https://ythls-v2.onrender.com/channel/UC8KnlXI3YAkOZfwMgxb1lOg.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/4xrq6t3.png",BCI PASCHA
 https://eu1.vectromdigital.com:1936/bcipasxa/bcipasxa/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/l4UooS6.png",NOTIOI TV
@@ -428,7 +424,7 @@ https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessalonikis.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
-https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
+https://ythls-v2.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV BUP
@@ -436,6 +432,7 @@ http://cdn1.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/V45R7Qn.png",BOOBA TV
-https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
+https://ythls-v2.onrender.com/channel/UCV9FxSrPVEX3vjBax04V_uA.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/uJwKqFB.png",TALKING TOM
-https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
+https://ythls-v2.onrender.com/channel/UCNlAox6aLNlE3M6QP2nzv7w.m3u8
+
