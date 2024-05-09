@@ -415,7 +415,7 @@ https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OcGnyW9.png",VILLAGE WORLD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV EUROPE HD
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
