@@ -395,6 +395,8 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/marontvgr.m3u
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
 https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
