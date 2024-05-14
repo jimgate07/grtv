@@ -305,6 +305,10 @@ https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 2
+http://alex9954094.ddns.net:2052/test/test/93
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 3
+http://alex9954094.ddns.net:2052/test/test/5
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nZfM2Dx.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/IcCQ0bm.png",PLP
