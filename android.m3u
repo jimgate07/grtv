@@ -343,6 +343,8 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ProNews.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV
 https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0DPKz9P.png",BCI ADVENTURE
+https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",PEMPTOUSIA TV
