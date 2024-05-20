@@ -453,8 +453,17 @@ https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 http://cdn1.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV BUP
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/V45R7Qn.png",BOOBA TV
 https://ythls-v2.onrender.com/channel/UCV9FxSrPVEX3vjBax04V_uA.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/uJwKqFB.png",TALKING TOM
 https://ythls-v2.onrender.com/channel/UCNlAox6aLNlE3M6QP2nzv7w.m3u8
-
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SVnN5Xl.png",DUCK TV
+https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/nTkZFXC.png",CARTOON NETWORK
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://imgur.com/5cZSHiJ",RETRO CARTOONS
+https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-89fjmge3aq1l5-ssai-prd/playlist.m3u8
