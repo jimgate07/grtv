@@ -447,7 +447,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV
 https://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/zSeVsJ4.png",DELTA TV THESSALONIKI
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/uuksvSG.png",DELTA TV THESSALONIKI
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
 https://ythls-v2.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
