@@ -24,7 +24,7 @@ jobs:
       - name: grab m3u files
         run: |
             pwd
-            cd ./core/platforms/
+            cd .grtv/core/platforms/
             python3 dailymotion.py r1outv > ../../streams/r1outv.m3u8
             python3 dailymotion.py x71o73v > ../../streams/8_Mont-Blanc.m3u8
             python3 dailymotion.py x89sfvo > ../../streams/ATB_Cochabamba.m3u8
