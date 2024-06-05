@@ -407,6 +407,8 @@ https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
 https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD BUP
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cTWhIMF.png",EVRIPOS NEWS
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sKx59VB.png",CYPRUS TV
