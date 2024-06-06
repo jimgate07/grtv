@@ -27,7 +27,6 @@ jobs:
             cd ./core/platforms/
             python3 twitch.py diabatatv > ../../streams/diabatatv.m3u8
             python3 twitch.py astratv2019 > ../../streams/Astra_TV.m3u8
-            python3 twitch.py cinematimetv1 > ../../streams/CinemaTime.m3u8
             python3 twitch.py dtpylias > ../../streams/DTP.m3u8
             python3 twitch.py diontvkentrikismakedonias > ../../streams/DionTvKentrikisMakedonias.m3u8
             python3 twitch.py eurotvgr > ../../streams/EuroTV.m3u8
