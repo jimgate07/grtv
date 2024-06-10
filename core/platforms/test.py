@@ -1,6 +1,6 @@
-pip install requests beautifulsoup4
+
 import requests
-from bs4 import BeautifulSoup
+import BeautifulSoup
 import re
 
 # URL of the webpage containing the wmsAuthSign
