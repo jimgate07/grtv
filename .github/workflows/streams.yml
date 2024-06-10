@@ -25,7 +25,6 @@ jobs:
         run: |
             pwd
             cd ./core/platforms/
-            python3 test.py alphacy > ../../streams/alphacy.m3u8
             python3 twitch.py diabatatv > ../../streams/diabatatv.m3u8
             python3 twitch.py astratv2019 > ../../streams/Astra_TV.m3u8
             python3 twitch.py dtpylias > ../../streams/DTP.m3u8
