@@ -1,38 +1,33 @@
-#!/usr/bin/python3
 import requests
-import sys
-import logging
+from bs4 import BeautifulSoup
+import re
 
-def get_dailymotion_streams(video_id: str):
-    """
-    Retrieves Dailymotion streams based on the video ID.
+def get_wmsAuthSign():
+    url = "https://www.alphacyprus.com.cy/live"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
 
-    Args:
-        video_id (str): The ID of the Dailymotion video.
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, 'html.parser')
+        script = soup.find('script', text=lambda t: 'wmsAuthSign' in t if t else False)
+        if script:
+            match = re.search(r'wmsAuthSign\s*:\s*"([^"]+)"', script.string)
+            if match:
+                return match.group(1)
+    return None
 
-    Returns:
-        None
-    """
-    try:
-        url = f'https://www.dailymotion.com/player/metadata/video/{video_id}'
-        response = requests.get(url).json()
-        if 'qualities' not in response or not response['qualities']:
-            print("No streams available for this video.")
-        else:
-            stream_url = response['qualities']['auto'][0]['url']
-            m3u = requests.get(stream_url).text
-            print(m3u)
-    except requests.exceptions.RequestException as e:
-        logging.error(f"Request error: {e}")
-        sys.exit(1)
-    except KeyError as e:
-        logging.error(f"Key error: {e}")
-        sys.exit(1)
-        
-if __name__ == '__main__':
-    if len(sys.argv) != 2:
-        print("Usage: python dailymotion.py stream")
-        sys.exit(1)
-    else:
-        video_id = sys.argv[1]
-        get_dailymotion_streams(video_id)
+def create_m3u8_file(wmsAuthSign):
+    stream_url = f"https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign={wmsAuthSign}"
+    m3u8_content = f"#EXTM3U\n#EXT-X-STREAM-INF:BANDWIDTH=2560000\n{stream_url}\n"
+    with open("alphacy.m3u8", "w") as file:
+        file.write(m3u8_content)
+    print("alphacy.m3u8 file created successfully.")
+
+wmsAuthSign = get_wmsAuthSign()
+if wmsAuthSign:
+    print(f'wmsAuthSign: {wmsAuthSign}')
+    create_m3u8_file(wmsAuthSign)
+else:
+    print('wmsAuthSign not found')
