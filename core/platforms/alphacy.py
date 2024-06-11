@@ -7,10 +7,10 @@ def install_bs4():
   subprocess.check_call([sys.executable, "-m", "pip", "install", "bs4"])
 
 try:
-  from bs4 import BeautifulSoup
+  from bs4-0.0.2 import BeautifulSoup
 except:
   install_bs4()
-  from bs4 import BeautifulSoup
+  from bs4-0.0.2 import BeautifulSoup
 
 
 # URL of the webpage containing the wmsAuthSign
