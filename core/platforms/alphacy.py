@@ -1,5 +1,5 @@
 
-# pip install beautifulsoup4
+python install beautifulsoup4
 import requests
 import re
 import sys
