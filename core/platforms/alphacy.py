@@ -1,3 +1,4 @@
+import subprocess
 def install_bs4():
     subprocess.check_call([sys.executable, "-m", "pip", "install", "bs4"])
 
