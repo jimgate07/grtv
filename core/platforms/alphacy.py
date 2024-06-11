@@ -1,3 +1,6 @@
+
+import requests
+import re
 import sys
 import subprocess
 def install_bs4():
@@ -9,9 +12,6 @@ except:
   install_bs4()
   from bs4 import BeautifulSoup
 
-
-import requests
-import re
 
 # URL of the webpage containing the wmsAuthSign
 webpage_url = 'https://www.alphacyprus.com.cy/live'
