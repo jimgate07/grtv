@@ -1,5 +1,11 @@
-import requests
+import subprocess
+import sys
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", bs4])
+
 from bs4 import BeautifulSoup
+import requests
 import re
 
 # URL of the webpage containing the wmsAuthSign
