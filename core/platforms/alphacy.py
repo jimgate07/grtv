@@ -12,8 +12,6 @@ except:
     install_bs4()
     from bs4 import BeautifulSoup
 
-
-
 # URL of the webpage containing the wmsAuthSign
 webpage_url = 'https://www.alphacyprus.com.cy/live'
 
@@ -42,11 +40,17 @@ if not wmsAuthSign:
 
 # Construct the final m3u8 URL with the wmsAuthSign
 m3u8_base_url = 'https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8'
-final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}"
+final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}=="
+# Fetch the m3u8 content from the final URL
+m3u8_response = requests.get(final_m3u8_url)
+if m3u8_response.status_code == 200:
+    m3u8_content = m3u8_response.text
+else:
+    raise Exception(f"Failed to fetch the m3u8 file {final_m3u8_url}")
 
-# Save the final m3u8 URL to a file
+# Save the m3u8 content to a file
 with open('alphacyprus.m3u8', 'w') as file:
-    file.write(final_m3u8_url)
+    file.write(m3u8_content)
 
-print(f"The final m3u8 URL is: {final_m3u8_url}")
-print("The URL has been saved to alphacyprus.m3u8")
+print(f"The final m3u8 URL is {final_m3u8_url}")
+print("The m3u8 content has been saved to alphacyprus.m3u8")
