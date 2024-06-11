@@ -2,8 +2,7 @@ import subprocess
 import sys
 import requests
 import logging
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", bs4])
+sudo pip3 install beautifulsoup4
 from bs4 import BeautifulSoup
 import re
 
