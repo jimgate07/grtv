@@ -1,8 +1,4 @@
-import subprocess
-import sys
 import requests
-import logging
-sudo pip3 install beautifulsoup4
 from bs4 import BeautifulSoup
 import re
 
