@@ -1,6 +1,5 @@
-
 import requests
-import BeautifulSoup
+from bs4 import BeautifulSoup
 import re
 
 # URL of the webpage containing the wmsAuthSign
@@ -34,9 +33,8 @@ m3u8_base_url = 'https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8'
 final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}=="
 
 # Save the final m3u8 URL to a file
-with open('stream.m3u8', 'w') as file:
+with open('alphacyprus.m3u8', 'w') as file:
     file.write(final_m3u8_url)
 
 print(f"The final m3u8 URL is: {final_m3u8_url}")
-print("The URL has been saved to stream.m3u8")
-
+print("The URL has been saved to alphacyprus.m3u8")
