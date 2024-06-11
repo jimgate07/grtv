@@ -42,7 +42,7 @@ if not wmsAuthSign:
 
 # Construct the final m3u8 URL with the wmsAuthSign
 m3u8_base_url = 'https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8'
-final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}=="
+final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}"
 
 # Save the final m3u8 URL to a file
 with open('alphacyprus.m3u8', 'w') as file:
