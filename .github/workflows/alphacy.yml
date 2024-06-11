@@ -1,8 +1,8 @@
 name: alphacy
 
 on:
-  schedule:
-    - cron: '0 */4 * * *'
+  ##schedule:
+    ##- cron: '0 */4 * * *'
   
 
   workflow_dispatch:
@@ -27,7 +27,6 @@ jobs:
             cd ./core/platforms/
             pip3 install beautifulsoup4
             python3 alphacy.py
-            python3 omegacy.py
       - name: git add
         run: |
           git add -A
