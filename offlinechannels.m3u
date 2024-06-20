@@ -116,6 +116,11 @@ http://213.7.193.54:4000/play/a008/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="pluscy" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
-http://213.7.193.54:4000/play/a007/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/AT756qk.png",CAPITAL TV CY
 http://213.7.193.54:4000/play/a009/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8L8X3E5.png",GREEK TV LONDON
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Yd9OLt9.png",ON TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/On_Tv_Greece.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
+https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
