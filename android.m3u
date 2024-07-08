@@ -4,7 +4,7 @@ https://kontaminis.kitsopoulos.xyz/ch1/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
 https://ertflix.s.llnwi.net/ertlive/ert2/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
-https://nikolaos.ragkeklas.site/ch2/index.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
 http://cdn1.smart-tv-data.com/vid/ertnews/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP
