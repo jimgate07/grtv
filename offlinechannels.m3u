@@ -124,3 +124,5 @@ https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/On_Tv_Greece.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
 https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/dldI5FS.png",ASTRA TV
+https://ssh101-fl.bozztv.com/ssh101/astratv;/playlist.m3u8
