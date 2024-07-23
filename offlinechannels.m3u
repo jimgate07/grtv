@@ -134,3 +134,5 @@ https://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8
 http://cdn1.smart-tv-data.com/mega/mega/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Ikixhg9.png",XAMOS WEB RADIO
+https://ssh101-fl.bozztv.com/ssh101/xamos/playlist.m3u8
