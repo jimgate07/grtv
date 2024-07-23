@@ -243,8 +243,6 @@ https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO
 https://nasos.24hosting.gr:3580/live/nasoslive.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Ikixhg9.png",XAMOS WEB RADIO
-https://ssh101-fl.bozztv.com/ssh101/xamos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fqjiKol.png",LEVEL TV
