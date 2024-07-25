@@ -89,8 +89,6 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/news3/ert_news3_main/mainabr/
 https://kali1.everestcast.com:3061/hybrid/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oyHyr4O.png",PANIKOS TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
-https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
 http://65.108.62.57:8080/live/antena.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
@@ -107,8 +105,6 @@ https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hxISRau.png",EURODANCE 90S
 https://eurodance90.catcast.tv/content/39803/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC
-https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI (NOT 24/7)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/xrmtSqp.png",ONE CHANNEL CY
@@ -140,3 +136,5 @@ https://ssh101-fl.bozztv.com/ssh101/xamos/playlist.m3u8
 https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/h8oadMa.png",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO 
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
