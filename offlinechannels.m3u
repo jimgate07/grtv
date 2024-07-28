@@ -138,3 +138,7 @@ https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD (TEST)
+https://kontaminis.kitsopoulos.xyz/ch1/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD (TEST 2)
+https://pintos.giamoglonis.xyz/ch1/index.m3u8
