@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2046492,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1024x576
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/../vvbbffw2/720/chunklist.m3u8
