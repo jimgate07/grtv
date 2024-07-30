@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert1.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert2.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert3.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert%20news.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert%20news%20bup.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/mega.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/mega%20bup.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/antenna.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ant1%20bup.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/alpha.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/star.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/skai.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/open.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8
