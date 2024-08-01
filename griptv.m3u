@@ -7,8 +7,6 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert2.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert3.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert%20news.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP
-https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert%20news%20bup.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/mega.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
