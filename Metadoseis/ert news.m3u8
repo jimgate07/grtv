@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3437172,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
-http://cdn1.smart-tv-data.com/vid/ertnews/chunks.m3u8
