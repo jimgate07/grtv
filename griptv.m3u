@@ -25,3 +25,5 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/skai.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/open.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/vouli.m3u8
