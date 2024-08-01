@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360
+https://streamer-cache.grnet.gr/parliament/hls/webtv_640_640x360/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000,RESOLUTION=960x540
+https://streamer-cache.grnet.gr/parliament/hls/webtv_1280_960x540/index.m3u8
