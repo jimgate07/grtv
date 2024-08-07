@@ -225,7 +225,7 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/sWXNv2b.png",RELOAD RADIO
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/eXjSK6p.png",TILEMOUSIKI
 https://ssh101-fl.bozztv.com/ssh101/tilemousiki/playlist.m3u8
