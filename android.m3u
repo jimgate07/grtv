@@ -368,7 +368,7 @@ http://ertflix.s.llnwi.net/ertlive/ERTNews2/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/BAeeMq5.jpg",ERT NEWS 3
 http://ertflix.s.llnwi.net/ertlive/ERTNews3/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Eb8oY3X.png",IVIEW TV GREECE
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/iviewtvgr.m3u8
+https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV2 CY
