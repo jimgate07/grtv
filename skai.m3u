@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD
+https://skai-live-gr.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD
+https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
