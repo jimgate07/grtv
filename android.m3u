@@ -40,7 +40,7 @@ https://new.cache-stream.workers.dev/stream/UC8HJZNfDPoySgW9DN3YGNaA/live.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS BUP 3
 https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS (ENGLISH)
-https://195.226.218.160/vid/euronewsen/mpeg.2ts
+http://195.226.218.160/vid/euronewsen/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS (ENGLISH) BUP
 https://ertflix.s.llnwi.net/ertlive/euronewsuk/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW ENGLISH
