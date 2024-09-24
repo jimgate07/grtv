@@ -105,8 +105,6 @@ https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hxISRau.png",EURODANCE 90S
 https://eurodance90.catcast.tv/content/39803/index.m3u8
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI (NOT 24/7)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/xrmtSqp.png",ONE CHANNEL CY
 http://213.7.193.54:4000/play/a008/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="pluscy" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
