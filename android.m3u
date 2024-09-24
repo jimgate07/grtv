@@ -73,6 +73,8 @@ http://sl2.sigmatv.com/hls/live.m3u8
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA CY
 https://github.com/jimgate07/grtv/raw/master/Greek%20iptv.mp4
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA CY TEST
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/alphacyprus.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
 https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
