@@ -299,12 +299,16 @@ http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 http://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
 http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sKx59VB.png",CYPRUS TV
-https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY
+https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR (NOT 24/7)
+https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sKx59VB.png",CYPRUS TV
+https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
