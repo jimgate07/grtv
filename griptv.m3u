@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert1.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert2.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ert3.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ertnews.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/mega.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
@@ -25,5 +27,9 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/open.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/vouli.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI BUP
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/vouli_bup.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/art%20athinas.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C3H8Miw.png",LIVE EVENTS
+https://github.com/jimgate07/grtv/blob/master/Metadoseis/Live%20events.m3u8
