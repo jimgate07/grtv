@@ -211,6 +211,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/Kardamena_TV.m3u8
 #EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/ev6HQr0.png",SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/DsrUKRY.png",VOLCANO TV
+https://til.pp.ua:3613/live/volcanotvslive.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/cxciffB.png",AEOLOS TV
 http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="alithia" tvg-logo="https://i.imgur.com/oI0KCOA.png",ALITHIA TV
