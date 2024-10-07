@@ -377,6 +377,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/ProNews.m3u8
 https://ssh101-fl.bozztv.com/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",XYLAGANI TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
+https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",PEMPTOUSIA TV
