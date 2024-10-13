@@ -295,17 +295,17 @@ https://webtv.topwebhost.gr:3565/stream/play.m3u8
 https://vodlive.streams.ovh:3165/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fvAedfp.png",HOTBEATS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/hotbeatstv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
+#EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA BUP
+#EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA BUP
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
+#EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
 http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY BUP
+#EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY BUP
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1
+#EXTINF:-1 group-title="WEB TV" tvg-name="Formula" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1
 http://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1 BUP
+#EXTINF:-1 group-title="WEB TV" tvg-name="Formula" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1 BUP
 https://mcdn.antennaplus.gr/live/media0/F1/HLS/F1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
 http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
