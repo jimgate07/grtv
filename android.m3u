@@ -49,7 +49,7 @@ https://ertflix.s.llnwi.net/ertlive/euronewsuk/default/index.m3u8
 http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW ENGLISH BUP
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
