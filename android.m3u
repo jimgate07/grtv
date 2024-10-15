@@ -223,7 +223,7 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 https://til.pp.ua:3613/live/volcanotvslive.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/cxciffB.png",AEOLOS TV
 http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="alithia" tvg-logo="https://i.imgur.com/oI0KCOA.png",ALITHIA TV
+#EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="alithiatv" tvg-logo="https://i.imgur.com/oI0KCOA.png",ALITHIA TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
