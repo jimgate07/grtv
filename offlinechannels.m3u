@@ -21,8 +21,6 @@ https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/eurochannel.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
 http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/S4u600c.jpg",KONITSA PLUS TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/uZuVrh1.png",MGR TV
 https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/GtWVHXt.png",ERT SPORTS 4
@@ -150,3 +148,5 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1
 https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0t4YxjI.png",APOKALIPTIKA NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
