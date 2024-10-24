@@ -150,3 +150,5 @@ https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO 
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
