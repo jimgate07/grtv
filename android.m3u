@@ -274,6 +274,8 @@ https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
 https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA TV
+https://glb.bozztv.com/glb/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ldYpkWG.png",DANCE TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y32QaIj.png",CLUBBING TV
@@ -322,6 +324,8 @@ https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/p
 http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2 (NOT 24/7) BUP
+https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR (NOT 24/7)
 https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR 2(NOT 24/7)
