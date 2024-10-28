@@ -196,7 +196,7 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/QUcHOcN.png",ETV BUP
 http://cdn5.smart-tv-data.com/local/epsilontv/playlist.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="starke" tvg-logo="https://i.imgur.com/RMIoAkL.png",STAR K.E
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/Star_Kentrikis_Eladas_Greece.m3u8
+https://telmacosa.s.llnwi.net/starcgr/default/index.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT BUP
