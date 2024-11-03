@@ -380,6 +380,8 @@ https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 https://glb.bozztv.com/glb/ssh101/zeys/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tPRHxwr.png",ZEYS TV BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/zeystv.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/L8oU8Np.png",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/mtu5KQg.png",EXPLORING GREECE
