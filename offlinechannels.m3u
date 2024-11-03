@@ -91,10 +91,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u
 http://65.108.62.57:8080/live/antena.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
 http://65.108.62.57:8080/live/alpha.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Dk2qys7.png",KANALI 6 CY
-https://cdn.istoikona.com/kanali6studio/live/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/L8oU8Np.png",10 CHANNEL
-https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oOKTwfV.png",IQ CHANNEL
 https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/vKReaNl.png",NG TV
@@ -110,8 +106,6 @@ http://213.7.193.54:4000/play/a008/index.m3u8
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/AT756qk.png",CAPITAL TV CY
 http://213.7.193.54:4000/play/a009/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8L8X3E5.png",GREEK TV LONDON
-https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Yd9OLt9.png",ON TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/On_Tv_Greece.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
