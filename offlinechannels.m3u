@@ -146,3 +146,19 @@ https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="patratv" tvg-logo="https://i.imgur.com/AoJlBnz.png",PATRA TV
+https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
+#EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/DsrUKRY.png",VOLCANO TV
+https://til.pp.ua:3613/live/volcanotvslive.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iUGnSVn.png",24 SERVER
+https://nasos.24hosting.gr:3580/stream/play.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="Formula" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1
+http://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="Formula" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1 BUP
+https://mcdn.antennaplus.gr/live/media0/F1/HLS/F1.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/L8oU8Np.png",10 CHANNEL
+https://castor.streamthatvideo.co:8081/10channel/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/mtu5KQg.png",EXPLORING GREECE
+https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV (NOT 24/7)
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/marontvgr.m3u8
