@@ -1,4 +1,14 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1371051,RESOLUTION=1280x720,CODECS="avc1.640020,mp4a.40.2"
-http://cdn1.smart-tv-data.com/live/ant1/chunks.m3u8
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:9781
+#EXT-X-MAP:URI="https://d2kbpjabp53obz.cloudfront.net/psport3_aws/abr/psport3_abr/psport3_1080p/video_1.fmp4"
+#EXTINF:4.58,
+https://d2kbpjabp53obz.cloudfront.net/psport3_aws/abr/psport3_abr/psport3_1080p/v_602_5283018000_9781.fmp4
+#EXTINF:6.68,
+https://d2kbpjabp53obz.cloudfront.net/psport3_aws/abr/psport3_abr/psport3_1080p/v_602_5283430200_9782.fmp4
+#EXTINF:4.6,
+https://d2kbpjabp53obz.cloudfront.net/psport3_aws/abr/psport3_abr/psport3_1080p/v_602_5284031400_9783.fmp4
+#EXTINF:6.76,
+https://d2kbpjabp53obz.cloudfront.net/psport3_aws/abr/psport3_abr/psport3_1080p/v_602_5284445400_9784.fmp4
