@@ -461,6 +461,12 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/VKRW6a1.png",ERT SPORTS 2
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/VKRW6a1.png",ERT SPORTS 2 BUP
+https://ertflix.s.llnwi.net/ertlive/ertsports2/clrdef24724b/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3 BUP
+https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/acuPzDZ.png",ERT NEWS 2
 http://ertflix.s.llnwi.net/ertlive/ERTNews2/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/BAeeMq5.jpg",ERT NEWS 3
