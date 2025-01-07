@@ -30,7 +30,6 @@ jobs:
             python3 twitch.py astratv2019 > ../../streams/Astra_TV_bup.m3u8
             python3 twitch.py dtpylias > ../../streams/DTP.m3u8
             python3 twitch.py diontv2024 > ../../streams/DionTvKentrikisMakedonias.m3u8
-            python3 twitch.py eurotvgreece > ../../streams/EuroTV.m3u8
             python3 dailymotion.py x2j7kha > ../../streams/Euronews_Greece.m3u8
             python3 twitch.py orestidatv > ../../streams/FlashTV.m3u8
             python3 twitch.py lepantotv > ../../streams/LePanto.m3u8
