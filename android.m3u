@@ -431,8 +431,6 @@ https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS BUP
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/ProNews.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV
 https://ssh101-fl.bozztv.com/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",XYLAGANI TV
