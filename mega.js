@@ -29,7 +29,7 @@ fetch('https://raw.githubusercontent.com/possiblelife/gtrvlst/refs/heads/main/gr
       if (channel === channelId) {
         // Get the start time and duration of the program
         const startTime = parseInt(programme.getAttribute('start'));
-        const duration = parseInt(programme.getAttribute('duration'));
+        const duration = parseInt(programme.getAttribute('stop'));
         
         // If the current time is within the program's start and end time, display the program
         if (currentTime >= startTime && currentTime <= (startTime + duration)) {
