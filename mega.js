@@ -1,5 +1,5 @@
 // Define the channel ID you're interested in
-const channelId = 'your-channel-id-here'; // Replace with the desired channel ID
+const channelId = 'mega'; // Replace with the desired channel ID
 
 // Fetch the EPG XML from the URL
 fetch('https://ext.greektv.app/epg/epg.xml')
