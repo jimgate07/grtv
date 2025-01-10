@@ -1,9 +1,9 @@
 // Define the channel ID you're interested in
-const channelId = 'your-channel-id-here'; // Replace with your channel ID
+const channelId = 'your-channel-id-here'; // Replace with the desired channel ID
 
 // Fetch the EPG XML from the URL
 fetch('https://ext.greektv.app/epg/epg.xml')
-  .then(response => response.text()) // Get XML as text
+  .then(response => response.text()) // Get the XML as text
   .then(data => {
     // Parse the XML text into an XML DOM object
     const parser = new DOMParser();
@@ -15,7 +15,7 @@ fetch('https://ext.greektv.app/epg/epg.xml')
     // Get the current date and time
     const now = new Date();
     
-    // Convert the current time into a format to compare with the EPG time
+    // Convert the current time into seconds for comparison
     const currentTime = now.getHours() * 3600 + now.getMinutes() * 60 + now.getSeconds();
     
     // Loop through all programmes to find the one for the specific channel ID
@@ -37,13 +37,10 @@ fetch('https://ext.greektv.app/epg/epg.xml')
           const description = programme.getElementsByTagName('desc')[0].textContent;
           
           // Display the current program
-          console.log(`Current Program on Channel ${channelId}:`);
-          console.log(`Title: ${title}`);
-          console.log(`Description: ${description}`);
-          
-          // You can display it in an HTML element, e.g., a div
-          document.getElementById('program').innerHTML = `
-            <h2>${title}</h2>
+          const nowPlayingContainer = document.getElementById('now-playing');
+          nowPlayingContainer.innerHTML = `
+            <h2>Now Playing:</h2>
+            <h3>${title}</h3>
             <p>${description}</p>
           `;
           break; // Exit loop after finding the current program
