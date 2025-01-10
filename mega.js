@@ -1,5 +1,5 @@
 // Define the channel ID you're interested in
-const channelId = 'Mega'; // Replace with the desired channel ID
+const channel id = 'Mega'; // Replace with the desired channel ID
 
 // Fetch the EPG XML from the URL
 fetch('https://raw.githubusercontent.com/possiblelife/gtrvlst/refs/heads/main/grgu.xml')
@@ -39,7 +39,7 @@ fetch('https://raw.githubusercontent.com/possiblelife/gtrvlst/refs/heads/main/gr
           // Display the current program
           const nowPlayingContainer = document.getElementById('now-playing');
           nowPlayingContainer.innerHTML = `
-            <h2>Now Playing:</h2>
+            <h2>Παίζει τώρα:</h2>
             <h3>${title}</h3>
             <p>${description}</p>
           `;
