@@ -1,8 +1,8 @@
 // Define the channel ID you're interested in
-const channelId = 'mega'; // Replace with the desired channel ID
+const channelId = 'Mega'; // Replace with the desired channel ID
 
 // Fetch the EPG XML from the URL
-fetch('https://ext.greektv.app/epg/epg.xml')
+fetch('https://raw.githubusercontent.com/possiblelife/gtrvlst/refs/heads/main/grgu.xml')
   .then(response => response.text()) // Get the XML as text
   .then(data => {
     // Parse the XML text into an XML DOM object
