@@ -1,3 +1,4 @@
+<script>
   // Function to fetch and parse the XML file
   async function fetchEPGData() {
     try {
@@ -94,4 +95,4 @@
   // Fetch the EPG data when the page loads
   window.onload = function() {
     fetchEPGData();
-  };
+  }; </script>
