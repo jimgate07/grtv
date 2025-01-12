@@ -373,6 +373,8 @@ https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 https://live-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR 3(NOT 24/7)
 https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR 3(NOT 24/7)
+https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"  tvg-logo="https://i.imgur.com/bvEkbRI.png",PAME STOXIMA RACING (IPPODROMIES)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
