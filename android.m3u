@@ -15,6 +15,8 @@ https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD TEST
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ant1%20bup.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
 https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
@@ -27,6 +29,8 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD TEST
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/maktv.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD 
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD BUP
