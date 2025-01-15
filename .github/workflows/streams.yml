@@ -31,7 +31,7 @@ jobs:
             python3 twitch.py dtpylias > ../../streams/DTP.m3u8
             python3 dailymotion.py x2j7kha > ../../streams/Euronews_Greece.m3u8
             python3 twitch.py orestidatv > ../../streams/FlashTV.m3u8
-            python3 twitch.py lepantotv > ../../streams/LePanto.m3u8
+            python3 twitch.py lepantotv2 > ../../streams/LePanto.m3u8
             python3 twitch.py orthodoxiaradio > ../../streams/Orthodoxia_Radio_TV.m3u8          
             python3 twitch.py pronewstvgr > ../../streams/ProNews.m3u8
             python3 twitch.py tvkosmosgr > ../../streams/tvkosmosgr.m3u8
