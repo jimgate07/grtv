@@ -543,6 +543,8 @@ https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Cpn9kBm.png",RADIO ANEMOS TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/radiotvanemosgr.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
 https://www.youtube.com/watch?v=or1Bqp6s1ec
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
