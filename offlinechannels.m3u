@@ -132,3 +132,5 @@ http://cdn1.smart-tv-data.com/vid/ertnews4/mpeg.2ts
 https://ertflix.s.llnwi.net/ertlive/seasonal/default/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ektExEV.png",DELTA TV THESSALONIKI
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/deltatv/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Cpn9kBm.png",RADIO ANEMOS TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/radiotvanemosgr.m3u8
