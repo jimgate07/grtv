@@ -273,6 +273,8 @@ http://cdn5.smart-tv-data.com/local/neatv/playlist.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://i.imgur.com/6XBDcU0.png",CRETA BUP
 http://cdn5.smart-tv-data.com/local/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://i.imgur.com/6XBDcU0.png",CRETA BUP 2
+https://cdn5.smart-tv-data.com/local/tvcreta/manifest.mpd
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="thlekriti" tvg-logo="https://i.imgur.com/wGuh3Fo.png",TELEΚΡΗΤΗ
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="thlekriti" tvg-logo="https://i.imgur.com/wGuh3Fo.png",TELEΚΡΗΤΗ BUP
