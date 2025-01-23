@@ -399,8 +399,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA BUP
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
-http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY BUP
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="Just Music" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
