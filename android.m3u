@@ -47,6 +47,8 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 http://195.226.218.163/vid/euronewsgr/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS BUP
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS BUP 2
+https://www.youtube.com/watch?v=uWIhV9gQClg
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS (ENGLISH)
 http://195.226.218.160/vid/euronewsen/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS (ENGLISH) BUP
