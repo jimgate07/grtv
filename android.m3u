@@ -443,6 +443,8 @@ http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
 http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="WEB TV"  tvg-logo="https://i.imgur.com/bvEkbRI.png",PAME STOXIMA RACING (IPPODROMIES)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
+#EXTINF:-1 group-title="WEB TV"  tvg-logo="https://i.imgur.com/Jtc6poN.png",OPAP TV
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
 https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ipo00Ph.png",OMIKRON TV
