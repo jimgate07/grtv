@@ -140,3 +140,5 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/radio
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/relaxing/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
