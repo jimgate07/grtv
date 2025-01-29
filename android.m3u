@@ -329,8 +329,6 @@ https://eco.streams.ovh:8081/barazatv/index.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV HITS
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV GREEK MUSIC
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/relaxing/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV DEEP HOUSE
 https://media2.streambrothers.com:19360/8106/8106.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/Xb4XJfz.png",PANIK TV
@@ -366,7 +364,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/f9dWrMd.png",RYTHMOS TV
 https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fqjiKol.png",LEVEL TV
-https://pro.free.hr:3068/live/level69live.m3u8
+https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA TV
@@ -457,8 +455,6 @@ https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV (NOT 24/7)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/marontvgr.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
-https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1RC5xy4.png",XPLORE
@@ -466,7 +462,7 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5dBF1Qf.png",MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8L8X3E5.png",GREEK TV LONDON
-https://vdo3.alphaserver.gr:3466/stream/play.m3u8
+https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 2
@@ -559,8 +555,6 @@ https://s1.cystream.net/live/faros1/playlist.m3u8
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DR7PMx6.png",DESTINATION GREECE
 https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
-https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
