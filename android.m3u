@@ -542,9 +542,9 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3 BUP
 https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4
-https://ertflix.akamaized.net/ertlive/ertsports4/default
-#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4 BUP
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4 BUP
+https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/acuPzDZ.png",ERT NEWS 2
 http://ertflix.akamaized.net/ertlive/ERTNews2/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/BAeeMq5.jpg",ERT NEWS 3
