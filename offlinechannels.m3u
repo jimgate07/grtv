@@ -148,5 +148,15 @@ https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS (ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ)
 http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4 BUP
+https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/acuPzDZ.png",ERT NEWS 2
+http://ertflix.akamaized.net/ertlive/ERTNews2/default/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/BAeeMq5.jpg",ERT NEWS 3
+http://ertflix.akamaized.net/ertlive/ERTNews3/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS (ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ) BUP
 http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/sWXNv2b.png",RELOAD RADIO
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
