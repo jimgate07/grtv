@@ -164,3 +164,5 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
 https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/sOi9w9K.png",EXTACY TV 
+https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
