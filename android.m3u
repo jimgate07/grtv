@@ -387,6 +387,8 @@ https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="Just Music" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
 https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/2Irz733.png",F1 TV
+https://is.gd/rVSZEu?US600011Q2.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
 https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_8bddbc506a1b11eebe2025b256f5a543/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS (ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ)
