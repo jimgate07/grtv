@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=5535171,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
-https://wow.anixa.tv/live/alpha/chunklist_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2827053,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://stream3.anixe.net/live/alpha/chunks.m3u8
