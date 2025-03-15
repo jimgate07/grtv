@@ -28,9 +28,9 @@ https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP 2
 https://wow.anixa.tv/live/ant1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
-https://stream3.anixe.net/live/alpha/playlist.m3u8
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP 2
 https://wow.anixa.tv/live/alpha/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
