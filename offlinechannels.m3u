@@ -146,10 +146,6 @@ http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORI
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="Just Music" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
 http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
-#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4 BUP
-https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/acuPzDZ.png",ERT NEWS 2
 http://ertflix.akamaized.net/ertlive/ERTNews2/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/BAeeMq5.jpg",ERT NEWS 3
@@ -172,3 +168,15 @@ https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
 https://stream3.anixe.net/live/alpha/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS (ENGLISH) BUP 2
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV BUP
+http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
+#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="starke" tvg-logo="https://i.imgur.com/RMIoAkL.png",STAR K.E BUP
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/starkebup.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ipo00Ph.png",OMIKRON TV BUP
+https://media.kubikhost.com/first/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
+https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/L8oU8Np.png",10 CHANNEL
+https://castor.streamthatvideo.co:8081/10channel/index.m3u8
