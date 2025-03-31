@@ -413,9 +413,9 @@ https://is.gd/rVSZEu?US600011Q2.m3u8
 https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_8bddbc506a1b11eebe2025b256f5a543/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV BUP
 https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS (ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ)
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
 http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS (ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ) BUP
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS BUP
 http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
