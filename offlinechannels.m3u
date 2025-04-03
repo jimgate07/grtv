@@ -173,3 +173,7 @@ https://fr.crystalweb.net:1936/extacytvgreeks2/extacytvgreeks2/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/TIbq2OY.png",FATSABOOK TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/fatsabooktv.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5sWMgqq.png",CINEMA TIME 2 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
