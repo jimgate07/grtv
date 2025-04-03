@@ -169,8 +169,6 @@ https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/GaEQ73n.png",EXTACY TV GREEKS BUP 2
 https://fr.crystalweb.net:1936/extacytvgreeks2/extacytvgreeks2/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
-https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/TIbq2OY.png",FATSABOOK TV
