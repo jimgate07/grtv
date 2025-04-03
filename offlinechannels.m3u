@@ -182,3 +182,45 @@ https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO BUP
 http://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP
+https://cdn1.smart-tv-data.com/vid/ert1/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 2
+https://wow.anixa.tv/live/ert1/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP
+https://cdn1.smart-tv-data.com/vid/ert2/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP
+https://cdn1.smart-tv-data.com/vid/ert3/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
+https://wow.anixa.tv/live/mega/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP 2
+https://wow.anixa.tv/live/ant1/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
+https://wow.anixa.tv/live/alpha/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP 2
+https://stream3.anixe.net/live/alpha/mpeg.2ts
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD BUP
+https://wow.anixa.tv/live/star/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
+https://wow.anixa.tv/live/skai/playlist.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100 BUP
+http://cdn5.smart-tv-data.com/local/fm100/playlist.m3u8
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/tqolXjD.png",THESSALIA TV
+http://th.cloudskep.com/th/thess_hd/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4 BUP
+https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD BUP
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/GaEQ73n.png",EXTACY TV GREEKS BUP 2
+https://fr.crystalweb.net:1936/extacytvgreeks2/extacytvgreeks2/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/TIbq2OY.png",FATSABOOK TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/fatsabooktv.m3u8
