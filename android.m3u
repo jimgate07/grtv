@@ -387,6 +387,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://kali.vdopanel.com:3382/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/B4P5UXn.png",MAGIC TV
 https://itv.streams.ovh:8081/demoflu/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV MUSIC
+https://channel.streams.ovh:8081/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY BUP
@@ -502,7 +504,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",XYLAGANI TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
-https://channel.streams.ovh:8081/xalastratv/playlist.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/xalastratv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ik3FwJM.png",PONTOS WEB TV
