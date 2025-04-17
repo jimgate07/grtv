@@ -171,3 +171,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
 https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/sOi9w9K.png",EXTACY TV BUP
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/extacytv.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/GaEQ73n.png",EXTACY TV GREEKS BUP
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/extacytvgreeks.m3u8
