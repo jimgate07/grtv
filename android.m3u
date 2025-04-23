@@ -179,6 +179,8 @@ https://cdn5.smart-tv-data.com/local/StartMedia/playlist.m3u8
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO BUP
+https://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",LYCHNOS BUP
