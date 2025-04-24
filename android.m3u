@@ -349,6 +349,8 @@ https://rtmp.win:3373/live/messiniatvlive.m3u8
 https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION 2
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV2.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/f9dWrMd.png",RYTHMOS TV
 https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fqjiKol.png",LEVEL TV
