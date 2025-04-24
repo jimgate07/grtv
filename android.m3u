@@ -445,9 +445,9 @@ https://live-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
 https://live-monobala.siliconweb.com/monobala/livesport3/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR 4(NOT 24/7)
 https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="besttv" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1 (O)
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1 (O)
 http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="besttv" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2 (O)
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2 (O)
 http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="WEB TV" tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/JCVqMzP.png",RODOPI TV
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
@@ -461,7 +461,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/tinostv2025/playlist.m3u8
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/NF9kTdg.png",NOTOS TV
 https://video.streams.ovh:8081/notos/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
+#EXTINF:-1 group-title="WEB TV" tvg-name="FTV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
 https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ipo00Ph.png",OMIKRON TV
 https://media.omikrontv.gr/live/playlist.m3u8
@@ -501,9 +501,9 @@ https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-fd464078-9c51-453a-
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/BI2ThMA.png",VOULI TV CY
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEB TV" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 2
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 3
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jm0SnfX.png",ARGOLIDA SPORT TV
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
