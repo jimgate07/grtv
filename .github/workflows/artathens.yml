@@ -1,4 +1,4 @@
-name: ert1
+name: artathens
 
 on:
   ##schedule:
@@ -26,7 +26,7 @@ jobs:
             pwd
             cd ./core/platforms/
             pip3 install beautifulsoup4
-            python3 ert1.py
+            python3 artathens.py
       - name: git add
         run: |
           git add -A
