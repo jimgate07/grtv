@@ -1,8 +1,8 @@
 name: artathens
 
 on:
-  ##schedule:
-    ##- cron: '0 */4 * * *'
+  schedule:
+    - cron: '0 */12 * * *'
   
 
   workflow_dispatch:
