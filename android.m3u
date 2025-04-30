@@ -425,6 +425,8 @@ http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/DSlh6RW.png",ERT NEWS 3
 http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
+#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/eOKaMgw.png",BIG BROTHER LIVE STREAM
+http://cdn1.smart-tv-data.com/skai/skaiBB/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP
