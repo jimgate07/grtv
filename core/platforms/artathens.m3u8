@@ -1,10 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=9000000,RESOLUTION=1920x1080
-https://1a-1791.com/live/gke17oc4/slot-151/137j-17qs/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://1a-1791.com/live/gke17oc4/slot-151/137j-17qs_1080p/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
-https://1a-1791.com/live/gke17oc4/slot-151/137j-17qs_720p/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360
-https://1a-1791.com/live/gke17oc4/slot-151/137j-17qs_360p/chunklist.m3u8
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=1762000
+https://1a-1791.com/video/fww1/b7/s8/2/p/T/8/B/pT8By.Eaa.rec.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=19124133376-19125076950
