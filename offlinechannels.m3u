@@ -187,3 +187,5 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://cdn5.smart-tv-data.com/local/pellatv_i/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL 
 https://kali.vdopanel.com:3382/stream/play.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY BUP 2
+http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
