@@ -359,13 +359,13 @@ https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ly7PBye.png",V2BEAT LIVE
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/W3Ymzvq.png",AKTINA TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/W3Ymzvq.png",AKTINA TV(O)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/aktinaradio.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hkorLYi.png",RADIO BLACKMAN
 https://rtmp.win:3830/live/blackmanlive.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Mp2I3dg.png",RADIO GOHTEIA(O)
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Mp2I3dg.png",RADIO GOHTEIA
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/radiogohteia/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC (O)
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC 
 https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/UIROSlU.png",TOP WEBHOST TV
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
@@ -379,8 +379,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Oc20zmZ.png",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL (O)
-https://kali.vdopanel.com:3382/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/B4P5UXn.png",MAGIC TV
 https://itv.streams.ovh:8081/demoflu/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/MtuzsPi.png",MEDIA ONE
@@ -409,8 +407,6 @@ http://195.226.218.167/mega/meganews/mpeg.2ts
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY BUP
 http://vid1.megatv-ctv.com/mega/megasport/mpeg.2ts
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY BUP 2
-http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/wYjUDiv.png",ERT NEWS 2
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/DSlh6RW.png",ERT NEWS 3
