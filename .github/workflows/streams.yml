@@ -25,6 +25,7 @@ jobs:
         run: |
             pwd
             cd ./core/platforms/
+            python3 twitch.py konitsaplustv > ../../streams/konitsaplustv.m3u8
             python3 twitch.py tvxalastra > ../../streams/xalastratv.m3u8
             python3 twitch.py pakoestream > ../../streams/pakoe.m3u8
             python3 twitch.py fatsabooktv > ../../streams/fatsabooktv.m3u8
@@ -55,6 +56,7 @@ jobs:
             python3 twitch.py radiotvanemosgr > ../../streams/radiotvanemosgr.m3u8
             python3 twitch.py extacy_tv > ../../streams/extacytv.m3u8
             python3 twitch.py extacytvgreeks > ../../streams/extacytvgreeks.m3u8
+            python3 twitch.py extacytvcinema > ../../streams/extacytvcinema.m3u8
             python3 twitch.py farostv1959 > ../../streams/farostvchurch.m3u8
       - name: git add
         run: |
