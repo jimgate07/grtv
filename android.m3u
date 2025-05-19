@@ -300,7 +300,7 @@ http://cdn5.smart-tv-data.com/local/aeolostv/playlist.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="alithiatv" tvg-logo="https://i.imgur.com/oI0KCOA.png",ALITHIA TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD
-http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/LBVeIhE.png",MAD RADIO
 https://www.youtube.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w/live
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iyNbA8N.png",NRG TV
@@ -518,7 +518,7 @@ https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o4yvIiA.png",TOP TV
 https://stream.gia.tv/giatv/giatv-toptvlive/toptvlive/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3Gy3JyZ.png",ELLAS WORLD
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV
 https://stream.gia.tv/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",XYLAGANI TV
@@ -622,7 +622,7 @@ https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
-http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV EUROPE HD 
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV TORONTO HD
