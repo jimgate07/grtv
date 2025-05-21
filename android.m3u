@@ -396,7 +396,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/B4P5UXn.png",MAGIC TV
 https://itv.streams.ovh:8081/demoflu/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/MtuzsPi.png",MEDIA ONE
-https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
+https://ellastvmax.gotdns.com/freetv/vertis/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ehsQ316.png",SUPERSTAR TV
 https://eu1.streams.gr:8081/superstartv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
