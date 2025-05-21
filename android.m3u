@@ -362,7 +362,7 @@ https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA TV
-https://stream.gia.tv/giatv/giatv-konitsatv/konitsatv/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-konitsatv/konitsatv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA PLUS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ldYpkWG.png",DANCE TV
@@ -462,7 +462,7 @@ https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="WEB TV"  tvg-logo="https://i.imgur.com/Jtc6poN.png",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/UFT4rZJ.png",TINOS WEB TV
-https://stream.gia.tv/giatv/giatv-tinostv2/tinostv2/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-tinostv2/tinostv2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/QAQhqIu.png",ATHENS GEO TV
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/NF9kTdg.png",NOTOS TV
@@ -516,11 +516,11 @@ https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE WEB TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o4yvIiA.png",TOP TV
-https://stream.gia.tv/giatv/giatv-toptvlive/toptvlive/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-toptvlive/toptvlive/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3Gy3JyZ.png",ELLAS WORLD
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV
-https://stream.gia.tv/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",XYLAGANI TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
@@ -600,7 +600,7 @@ https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
-https://stream.gia.tv/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cTWhIMF.png",EVRIPOS NEWS
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
