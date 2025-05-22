@@ -183,3 +183,7 @@ https://kali.vdopanel.com:3382/stream/play.m3u8
 http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD BUP
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO
+http://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO BUP
+https://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
