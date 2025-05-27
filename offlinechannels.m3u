@@ -187,3 +187,5 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8
 http://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO BUP
 https://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="tileepiloges" tvg-logo="https://i.imgur.com/u1q4ABs.png",EPILOGES TV BUP
+http://cdn5.smart-tv-data.com/local/epiloges/playlist.m3u8
