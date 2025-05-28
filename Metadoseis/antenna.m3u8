@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=962310,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://live20.bozztv.com/giatv/giatv-grtvtest/grtvtest/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1370291,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://live20.bozztv.com/akamaissh101/ssh101/greeteststream1/chunks.m3u8
