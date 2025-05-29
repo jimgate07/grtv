@@ -1,2 +1,4 @@
-Stream not found for konitsaplustv. Skipping...
-No stream available for konitsaplustv. Moving to the next channel...
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=306087,RESOLUTION=1024x576,CODECS="avc1.64001f,mp4a.40.2"
+https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/chunks.m3u8
