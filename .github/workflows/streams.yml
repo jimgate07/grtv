@@ -31,8 +31,6 @@ jobs:
             python3 twitch.py fatsabooktv > ../../streams/fatsabooktv.m3u8
             python3 twitch.py diavata_tv > ../../streams/diabatatv.m3u8
             python3 twitch.py aktinaradio > ../../streams/aktinaradio.m3u8
-            python3 twitch.py astratv2021 > ../../streams/Astra_TV.m3u8
-            python3 twitch.py astratv2019 > ../../streams/Astra_TV_bup.m3u8
             python3 twitch.py dtpylias > ../../streams/DTP.m3u8
             python3 dailymotion.py x2j7kha > ../../streams/Euronews_Greece.m3u8
             python3 dailymotion.py k5Hfx6eeaTjBE5zRXcn > ../../streams/starkebup.m3u8
