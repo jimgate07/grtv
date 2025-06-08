@@ -1,2 +1,4 @@
-Stream not found for astratv2019. Skipping...
-No stream available for astratv2019. Moving to the next channel...
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6255728,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+https://live20.bozztv.com/akamaissh101/ssh101/astratv/chunks.m3u8
