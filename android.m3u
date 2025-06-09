@@ -337,11 +337,11 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 https://rtmp.win:3373/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 1
 https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 2
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 2 (O)
 https://fr.crystalweb.net:1936/nasostv/nasostv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oMX9Z0g.png",RADIO EIRHNH TV
 https://fr.crystalweb.net:1936/radioeirhnhtv/radioeirhnhtv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oka4jRJ.png",PAIANIA TV RADIO
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oka4jRJ.png",PAIANIA TV RADIO (O)
 https://fr.crystalweb.net:1936/paianiatv/paianiatv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
@@ -349,9 +349,9 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV2.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/f9dWrMd.png",RYTHMOS TV
 https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fqjiKol.png",LEVEL TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fqjiKol.png",LEVEL TV (O)
 https://pro.free.hr:3464/live/l69plive.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV (O)
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA TV
 https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
@@ -427,11 +427,11 @@ http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP 2
 https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2
+#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2 (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2 (NOT 24/7) BUP
 https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 3
+#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 3 (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR (NOT 24/7)
 https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
@@ -475,11 +475,11 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8L8X3E5.png",GREEK TV LONDON (O)
 https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV (O)
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 2
 http://alex9954094.ddns.net:2052/test/test/93
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 3
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 3 (O)
 http://alex9954094.ddns.net:2052/test/test/5
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nZfM2Dx.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
@@ -513,7 +513,7 @@ https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/xalastratv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV (O)
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
 https://eu1.streams.gr:8081/grdchannel/index.m3u8
@@ -551,11 +551,11 @@ https://rtmp.win:3882/live/nstv7live.m3u8
 http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/niUXigD.png",HELLENIC TV BUP
 http://188.227.164.31/tsstreamer/Hellenic_SD.ts
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/acHtejH.png",CITY TV CY
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/acHtejH.png",CITY TV CY (O)
 https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY (O)
 https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/weO7Ehk.png",PLUTON TV CYPRUS
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/weO7Ehk.png",PLUTON TV CYPRUS (O)
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rV3HgwF.png",IME WEB TV
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
@@ -611,9 +611,9 @@ https://live20.bozztv.com/giatv/giatv-extacytvcinema/extacytvcinema/playlist.m3u
 https://gra1.crystalweb.net:1936/extacytvseries/extacytvseries/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES BUP
 https://live20.bozztv.com/giatv/giatv-extacytvseries/extacytvseries/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6UyasCt.png",EXTACY TV CYPRUS
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6UyasCt.png",EXTACY TV CYPRUS (O)
 https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV (O)
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
@@ -623,7 +623,7 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/vwkr5NC.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV (O)
 http://ssh101.bozztv.com:80/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
