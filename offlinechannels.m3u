@@ -205,3 +205,5 @@ https://gra1.crystalweb.net:1936/extacytvseries/extacytvseries/playlist.m3u8
 https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/49uhtHk.png",EXTACY TV KIDS
+https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
