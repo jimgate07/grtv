@@ -615,8 +615,6 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 http://ssh101.bozztv.com:80/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/49uhtHk.png",EXTACY TV KIDS
-https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
 https://www.youtube.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ/live
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
