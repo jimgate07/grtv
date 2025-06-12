@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=2024000,AVERAGE-BANDWIDTH=2305600,CODECS="avc1.4d4020,mp4a.40.2",FRAME-RATE=50.000
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist_2000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1064800,AVERAGE-BANDWIDTH=1205600,CODECS="avc1.4d4020,mp4a.40.2",FRAME-RATE=50.000
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist_1000.m3u8

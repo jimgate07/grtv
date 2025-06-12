@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=702036,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
+https://s1.cystream.net/live/smile/playlist.m3u8/chunks.m3u8
