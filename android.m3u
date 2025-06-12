@@ -118,7 +118,7 @@ http://cdn5.smart-tv-data.com/local/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET BUP 2
 http://cdn.onestreaming.com/thrakinettv/thrakinettv/manifest.mpd
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="alfa" tvg-logo="https://i.imgur.com/K0uQd2V.png",ALFA 
-https://av.hellasnet.tv/rest2.live.hn/alf/playlist.m3u8
+https://av.hellasnet.tv/rst/alf/index.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="diktyotv" tvg-logo="https://i.imgur.com/PM66csY.png",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="diktyotv" tvg-logo="https://i.imgur.com/PM66csY.png",DIKTYO TV BUP
@@ -202,7 +202,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/dldI5FS.png",ASTRA TV BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra_TV_bup.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/3xGuBm6.png",TRT TV
-https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
+https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/tqolXjD.png",THESSALIA TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/QUcHOcN.png",ETV
@@ -278,7 +278,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="samiakitv" tvg-logo="https://i.imgur.com/ajnEOPS.png",SAMIAKI TV BUP
 http://cdn5.smart-tv-data.com/local/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="iridatv" tvg-logo="https://i.imgur.com/2EJR1IE.png",IRIDA TV
-https://av.hellasnet.tv/rest2.live.hn/iri/playlist.m3u8
+https://av.hellasnet.tv/rst/iri/index.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/NrXQOE7.png",KOSMOS TV
 https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="kostv" tvg-logo="https://i.imgur.com/N9cHGyW.png",KOS TV
@@ -484,7 +484,7 @@ http://alex9954094.ddns.net:2052/test/test/5
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nZfM2Dx.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/IcCQ0bm.png",PLP
-https://av.hellasnet.tv/rest2.live.hn/plp/playlist.m3u8
+https://av.hellasnet.tv/rst/plp/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/A3IpEhj.png",GREEK VOICE 
 http://65.108.62.57:8080/live/greektv1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/A3IpEhj.png",GREEK VOICE BUP
