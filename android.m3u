@@ -30,7 +30,7 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
-https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD 
