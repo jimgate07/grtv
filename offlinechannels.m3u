@@ -215,3 +215,21 @@ http://cdn5.smart-tv-data.com/local/diktyo/playlist.m3u8
 https://www.youtube.com/channel/UCNOhkH_rCIj8KiVrlGpga7Q/live
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 2 
 https://fr.crystalweb.net:1936/nasostv/nasostv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fqjiKol.png",LEVEL TV
+https://pro.free.hr:3464/live/l69plive.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8L8X3E5.png",GREEK TV LONDON
+https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 
+http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 3
+http://alex9954094.ddns.net:2052/test/test/5
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o4yvIiA.png",TOP TV
+https://live20.bozztv.com/giatv/giatv-toptvlive/toptvlive/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/weO7Ehk.png",PLUTON TV CYPRUS 
+https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZsLaIQ.png",TV FILOPOLI
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
