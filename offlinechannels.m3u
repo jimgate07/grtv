@@ -25,8 +25,6 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rndWrDu.png",OPEN SPORT 3
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
-http://mix-dns.com:8080/live/peel0036@gmail.com/MLBbGL64sZ/496439.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oyHyr4O.png",PANIKOS TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oOKTwfV.png",IQ CHANNEL
@@ -85,8 +83,6 @@ http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
 http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="europeone" tvg-logo="https://i.imgur.com/LEsONZH.png",EUROPE 1
 https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV
-http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="Just Music" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
@@ -177,8 +173,6 @@ https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 https://channel.streams.ovh:8081/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Dk2qys7.png",KANALI 6 CY
 https://cdn.istoikona.com/kanali6studio/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL 
-https://kali.vdopanel.com:3382/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY BUP 2
 http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD BUP
