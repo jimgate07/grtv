@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2449845,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://l3.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=3205974
+#EXT-X-STREAM-INF:BANDWIDTH=1320299,FRAME-RATE=25,RESOLUTION=768x432,CODECS="avc1.64001e,mp4a.40.2"
+https://l3.cloudskep.com/cybcsat/abr/l3/rsat_sd/chunks.m3u8?nimblesessionid=3205974
+#EXT-X-STREAM-INF:BANDWIDTH=664156,FRAME-RATE=25,RESOLUTION=512x288,CODECS="avc1.42c015,mp4a.40.2"
+https://l3.cloudskep.com/cybcsat/abr/l3/rsat_lsd/chunks.m3u8?nimblesessionid=3205974
+
