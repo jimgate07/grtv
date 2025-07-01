@@ -1,8 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2370435,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1295594,FRAME-RATE=25,RESOLUTION=768x432,CODECS="avc1.64001e,mp4a.40.2"
-https://am8.cloudskep.com/cybcsat/abr/l3/rsat_sd/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=692002,FRAME-RATE=25,RESOLUTION=512x288,CODECS="avc1.42c015,mp4a.40.2"
-https://am8.cloudskep.com/cybcsat/abr/l3/rsat_lsd/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2147099,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://am8.cloudskep.com/omegatv/omcy/l1/fhd/chunks.m3u8?nimblesessionid=3205908
+#EXT-X-STREAM-INF:BANDWIDTH=1571678,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://am8.cloudskep.com/omegatv/omcy/l1/omega_hd/chunks.m3u8?nimblesessionid=3205908
+#EXT-X-STREAM-INF:BANDWIDTH=1184346,FRAME-RATE=25,RESOLUTION=896x504,CODECS="avc1.64001f,mp4a.40.2"
+https://am8.cloudskep.com/omegatv/omcy/l1/m1/chunks.m3u8?nimblesessionid=3205908
+#EXT-X-STREAM-INF:BANDWIDTH=622391,FRAME-RATE=25,RESOLUTION=512x288,CODECS="avc1.42c015,mp4a.40.2"
+https://am8.cloudskep.com/omegatv/omcy/l1/m2/chunks.m3u8?nimblesessionid=3205908
