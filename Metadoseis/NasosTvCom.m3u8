@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1169360,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/chunklist_w1946518230.m3u8

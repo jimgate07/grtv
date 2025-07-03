@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3641560,CODECS="avc1.100.40,mp4a.40.2",RESOLUTION=1920x1080
+https://livetv.streams.ovh:1936/paniktv/paniktv/chunklist_w1412412920.m3u8

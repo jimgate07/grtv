@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3105008,CODECS="avc1.42c028,mp4a.40.2",RESOLUTION=1920x1080
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist_w584232714.m3u8

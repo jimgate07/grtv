@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1170586,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w2144200234.m3u8

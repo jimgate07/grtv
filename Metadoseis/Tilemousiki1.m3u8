@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=993807,FRAME-RATE=29.97,RESOLUTION=1280x720,CODECS="avc1.42c01f,mp4a.40.2"
+https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/chunks.m3u8

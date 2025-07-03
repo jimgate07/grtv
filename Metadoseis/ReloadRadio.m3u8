@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1018182,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x360
+https://web.onair-radio.eu/video/video/chunklist_w1423945990.m3u8
