@@ -93,5 +93,57 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Me
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNews2.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/DSlh6RW.png",ERT NEWS 3 (TEST)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNews3.m3u8
-
-
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Mad.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MadWorld.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iyNbA8N.png",NRG TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NrgTV.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XkjxWv8.png",KLIK TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/KlikFmCY.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/VbbjDTD.png",PLAY TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PlayTv.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/eXjSK6p.png",TILEMOUSIKI
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Tilemousiki1.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/Xb4XJfz.png",PANIK TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PanikTv.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV COFFEE BAR MUSIC
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BarazaCoffeMusic.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV RELAXING
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BarazaRelax.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV HD Greek Hits
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BarazaGreekHits.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV DJ MUSIC
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BarazaDJ.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA LAIKA
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BarazaLaica.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/f9dWrMd.png",RYTHMOS TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RythmosAu.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NasosTvCom.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oMX9Z0g.png",RADIO EIRHNH TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RadioEirhnh.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC 
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RedMusic.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/351WSa0.png",DEEJAY TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DeejayTv.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ly7PBye.png",V2BEAT LIVE
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/V2Beat.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Atx17Wm.png",KISS TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/KissFm.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/auTJGLo.png",NOW 70S
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Now70s.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PcqyEMT.png",NOW 80S
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Now80s.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Oc20zmZ.png",NOW ROCK
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NowRock.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/B4P5UXn.png",MAGIC TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Magic.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/MtuzsPi.png",MEDIA ONE
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MediaOne..m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ehsQ316.png",SUPERSTAR TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SuperStar.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/sWXNv2b.png",RELOAD RADIO
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ReloadRadio.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL 
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DiamondChannel.m3u8
