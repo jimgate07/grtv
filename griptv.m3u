@@ -123,6 +123,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ry
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NasosTvCom.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oMX9Z0g.png",RADIO EIRHNH TV  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RadioEirhnh.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oka4jRJ.png",PAIANIA TV RADIO
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PaianiaTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RedMusic.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/351WSa0.png",DEEJAY TV  
