@@ -145,8 +145,6 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/GaEQ73n.png",EXTACY TV GREEKS BUP 2
-https://fr.crystalweb.net:1936/extacytvgreeks2/extacytvgreeks2/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/TIbq2OY.png",FATSABOOK TV
@@ -157,8 +155,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
 https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/GaEQ73n.png",EXTACY TV GREEKS BUP
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/extacytvgreeks.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
 http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP 
@@ -187,16 +183,6 @@ http://cdn5.smart-tv-data.com/local/epiloges/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ipo00Ph.png",OMIKRON TV
 https://media.omikrontv.gr/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV
-https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/aU7EOVz.png",EXTACY TV GREEKS
-https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/22dhh8I.png",EXTACY TV CINEMA
-https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES
-https://gra1.crystalweb.net:1936/extacytvseries/extacytvseries/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6UyasCt.png",EXTACY TV CYPRUS
-https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/49uhtHk.png",EXTACY TV KIDS
