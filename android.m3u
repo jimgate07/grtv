@@ -651,6 +651,10 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV
+https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV
+https://live20.bozztv.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
 https://www.youtube.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ/live
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletv" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV
