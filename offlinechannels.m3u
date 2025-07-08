@@ -143,10 +143,6 @@ http://th.cloudskep.com/th/thess_hd/playlist.m3u8
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/LYtLpIW.png",ERT SPORTS 4 BUP
 https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/TIbq2OY.png",FATSABOOK TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/fatsabooktv.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
