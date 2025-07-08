@@ -28,29 +28,29 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oyHyr4O.png",PANIKOS TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PanikosTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oOKTwfV.png",IQ CHANNEL
-https://ssh101.bozztv.com/ssh101/iqchannel/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/iqchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/vKReaNl.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hxISRau.png",EURODANCE 90S
 https://eurodance90.catcast.tv/content/39803/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
-https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/plustvpatra/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
 http://cdn1.smart-tv-data.com/mega/mega/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Ikixhg9.png",XAMOS WEB RADIO
-https://ssh101-fl.bozztv.com/ssh101/xamos/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/xamos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/h8oadMa.png",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/l1LpupQ.png",SUPER STAR FM
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/superstarfm.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5rY7eq3.png",GREECE 24
-https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/omogeniatv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0t4YxjI.png",APOKALIPTIKA NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="patratv" tvg-logo="https://i.imgur.com/AoJlBnz.png",PATRA TV
-https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/DsrUKRY.png",VOLCANO TV
 https://til.pp.ua:3613/live/volcanotvslive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iUGnSVn.png",24 SERVER
@@ -70,7 +70,7 @@ https://ertflix.s.llnwi.net/ertlive/seasonal/default/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
 http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ektExEV.png",DELTA TV THESSALONIKI
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/deltatv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Cpn9kBm.png",RADIO ANEMOS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/radiotvanemosgr.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
@@ -146,9 +146,9 @@ https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/TIbq2OY.png",FATSABOOK TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/fatsabooktv.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5sWMgqq.png",CINEMA TIME 2 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
 https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
@@ -170,7 +170,7 @@ http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD BUP
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO
-http://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/60nR11d.png",RTP KENTRO BUP
 https://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="tileepiloges" tvg-logo="https://i.imgur.com/u1q4ABs.png",EPILOGES TV BUP
