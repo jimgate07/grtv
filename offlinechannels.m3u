@@ -207,3 +207,11 @@ https://live20.bozztv.com/giatv/giatv-toptvlive/toptvlive/playlist.m3u8
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZsLaIQ.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS
+http://195.226.218.163/vid/euronewsgr/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS BUP
+https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS (ENGLISH)
+http://195.226.218.160/vid/euronewsen/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS (ENGLISH) BUP
+https://ertflix.akamaized.net/ertlive/euronewsuk/default/index.m3u8
