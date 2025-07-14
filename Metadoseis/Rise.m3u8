@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4954496,FRAME-RATE=25,RESOLUTION=720x404,CODECS="avc1.66.30,mp4a.40.2"
+https://spark3.smart-tv-data.com/risetv/risetv/chunks.m3u8
