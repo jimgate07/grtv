@@ -145,3 +145,21 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Su
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ReloadRadio.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DiamondChannel.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Alert.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/VttzGrP.png",ATTICA TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Attica.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="bluesky" tvg-logo="https://i.imgur.com/mLrrVZn.png",BLUE SKY (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Bluesky.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="onetv" tvg-logo="https://i.imgur.com/12Pk9r4.png",ONE CHANNEL (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Onechannel.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://i.imgur.com/X9ysWNd.png",ACTION 24 (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Action24.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="hightv" tvg-logo="https://i.imgur.com/GHZJGPb.png",HIGH TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/High.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="kontra" tvg-logo="https://i.imgur.com/Kny4NeR.png",KONTRA (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Kontra.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="smiletv" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV (TEST) 
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SmileGreece.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Rise.m3u8
