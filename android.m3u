@@ -7,18 +7,24 @@ http://195.226.218.163/vid/ert1/playlist.m3u8
 http://cdn4.smart-tv-data.com/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 3
 https://spark3.smart-tv-data.com/vid/ert1hd/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 4
+https://speech10.anixa.tv/ert1CC/ert1CC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP
 https://spark3.smart-tv-data.com/vid/ert2hd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP 2
 http://31.121.110.30:4000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP 3
+https://speech10.anixa.tv/ert2CC/ert2CC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP
 https://spark3.smart-tv-data.com/vid/ert3hd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP 2
 http://31.121.110.30:4000/play/a029/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP 3
+https://speech8.anixa.tv/ert3CC/ert3CC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP
@@ -55,6 +61,8 @@ https://spark3.smart-tv-data.com/starHD/starHD/playlist.m3u8
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
 https://spark3.smart-tv-data.com/skaiHD/skaiHD/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
+https://speech6.anixa.tv/skaiCC/skaiCC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD BUP
