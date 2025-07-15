@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:6
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",AUTOSELECT=YES,URI="https://cdn5.smart-tv-data.com/bluesky/bluesky-live/audio.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=3213774,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio"
-https://cdn5.smart-tv-data.com/bluesky/bluesky-live/video.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",AUTOSELECT=YES,URI="https://cdn5.smart-tv-data.com/bluesky/blueskyHD/audio.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4060713,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25,AUDIO="audio"
+https://cdn5.smart-tv-data.com/bluesky/blueskyHD/video.m3u8
