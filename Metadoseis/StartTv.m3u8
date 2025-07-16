@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1284416,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=854x480
+https://live.cast-control.eu/StartMedia/StartMedia/chunklist_w1163352239.m3u8
