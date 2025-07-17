@@ -234,7 +234,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/3xGuBm6.png",TRT TV
 https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/tqolXjD.png",THESSALIA TV
-https://thessaliachannel.gr:3339/live/thesstvlive.m3u8
+https://raw.githubusercontent.com/komhsgr/m3u/refs/heads/main/Thessalia.m3u
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/QUcHOcN.png",ETV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/QUcHOcN.png",ETV BUP
