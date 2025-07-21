@@ -553,8 +553,8 @@ https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV (O)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/xalastratv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL (O)
-https://eu1.streams.gr:8081/grdchannel/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
+https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ik3FwJM.png",PONTOS WEB TV
 https://eu1.streams.gr:8081/pontoswebtv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/weO7Ehk.png",PLUTON TV CYPRUS 
