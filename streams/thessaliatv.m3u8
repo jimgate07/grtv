@@ -1,2 +1,4 @@
-Stream not found for livethess001. Skipping...
-No stream available for livethess001. Moving to the next channel...
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://thessaliachannel.gr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://thessaliachannel.gr:3339/live/thesstvlive.m3u8
