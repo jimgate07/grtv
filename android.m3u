@@ -7,7 +7,7 @@ http://195.226.218.163/vid/ert1/playlist.m3u8
 http://cdn4.smart-tv-data.com/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 3
 https://spark3.smart-tv-data.com/vid/ert1hd/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 4
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 4 (O)
 https://speech10.anixa.tv/ert1CC/ert1CC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
@@ -15,7 +15,7 @@ https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 https://spark3.smart-tv-data.com/vid/ert2hd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP 2
 http://31.121.110.30:4000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP 3
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP 3 (O)
 https://speech10.anixa.tv/ert2CC/ert2CC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
@@ -35,7 +35,7 @@ http://cdn4.smart-tv-data.com/vid/ertnews/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
 https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP (O)
 https://speech9.anixa.tv/megaCC/mega/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
@@ -57,7 +57,7 @@ https://spark3.smart-tv-data.com/starHD/starHD/playlist.m3u8
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
 https://spark3.smart-tv-data.com/skaiHD/skaiHD/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP 2 (O)
 https://speech6.anixa.tv/skaiCC/skaiCC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
@@ -237,7 +237,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra_TV_bup.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/3xGuBm6.png",TRT TV
 https://av.hellasnet.tv/rst/trt/index.m3u8
-#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/tqolXjD.png",THESSALIA TV
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/tqolXjD.png",THESSALIA TV (MONO VLC)
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/QUcHOcN.png",ETV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
@@ -417,7 +417,7 @@ https://fr.crystalweb.net:1936/diamondchannel/diamondchannel/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/aktinaradio.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hkorLYi.png",RADIO BLACKMAN
 https://rtmp.win:3830/live/blackmanlive.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Mp2I3dg.png",RADIO GOHTEIA
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Mp2I3dg.png",RADIO GOHTEIA (O)
 https://live20.bozztv.com/akamaissh101/ssh101/radiogohteia/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC 
 https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
@@ -435,8 +435,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/B4P5UXn.png",MAGIC TV
 https://itv.streams.ovh:8081/demoflu/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/MtuzsPi.png",MEDIA ONE (O)
-https://ellastvmax.gotdns.com/freetv/vertis/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ehsQ316.png",SUPERSTAR TV
 https://eu1.streams.gr:8081/superstartv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
@@ -463,7 +461,7 @@ https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/p
 http://vid1.megatv-ctv.com/mega/megasport/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/wYjUDiv.png",ERT NEWS 2
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/DSlh6RW.png",ERT NEWS 3 (O)
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/DSlh6RW.png",ERT NEWS 3
 http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/MtUE4kf.png",ERT NEWS NOHMATIKH
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
@@ -527,7 +525,7 @@ http://live.greektv.ca/hls1/greektv.m3u8
 http://alex9954094.ddns.net:2052/test/test/93
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nZfM2Dx.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/IcCQ0bm.png",PLP
+#EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/IcCQ0bm.png",PLP (O)
 https://av.hellasnet.tv/rst/plp/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/A3IpEhj.png",GREEK VOICE 
 http://65.108.62.57:8080/live/greektv1.m3u8
@@ -535,7 +533,7 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/greektv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIBdeGl.png",GREEK USA TV
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-fd464078-9c51-453a-b3c5-3f512cc5faa7/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V4lbogQ.png",LA FAMILIA WEB TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V4lbogQ.png",LA FAMILIA WEB TV (O)
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/BI2ThMA.png",VOULI TV CY
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
@@ -543,7 +541,7 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWz
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jm0SnfX.png",ARGOLIDA SPORT TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jm0SnfX.png",ARGOLIDA SPORT TV (O)
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE WEB TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
@@ -551,7 +549,7 @@ https://eu1.streams.gr:8081/choicetv/index.m3u8
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",XYLAGANI TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV (O)
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/xalastratv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
 https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
@@ -613,7 +611,7 @@ https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/LGxS3zE.png",NEWSIMA WEB TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/LGxS3zE.png",NEWSIMA WEB TV (O)
 https://fr.crystalweb.net:1936/newsima/newsima/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
@@ -625,7 +623,7 @@ https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cTWhIMF.png",EVRIPOS NEWS (Ο)
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cTWhIMF.png",EVRIPOS NEWS
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
