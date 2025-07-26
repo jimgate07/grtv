@@ -36,7 +36,7 @@ https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
 https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP (O)
-https://speech9.anixa.tv/megaCC/mega/playlist.m3u8
+https://speech8.anixa.tv/megaCC/mega/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
@@ -295,6 +295,8 @@ https://spark3.smart-tv-data.com/nickelodeon/nickelodeon/playlist.m3u8
 https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV
 https://spark3.smart-tv-data.com/risetv/risetv/playlist.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="extratv" tvg-logo="https://i.imgur.com/0iJp6zg.png",EXTRA TV
+https://spark3.smart-tv-data.com/extra/extra/playlist.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="krhthtv" tvg-logo="https://i.imgur.com/7u8BIPU.png",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="krhthtv" tvg-logo="https://i.imgur.com/7u8BIPU.png",KRHTH TV BUP
