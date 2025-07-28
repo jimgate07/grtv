@@ -133,6 +133,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Su
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ReloadRadio.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DiamondChannel.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV MUSIC
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NetTvMusic.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT
