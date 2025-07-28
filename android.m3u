@@ -295,8 +295,10 @@ https://spark3.smart-tv-data.com/nickelodeon/nickelodeon/playlist.m3u8
 https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV
 https://spark3.smart-tv-data.com/risetv/risetv/playlist.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="extratv" tvg-logo="https://i.imgur.com/0iJp6zg.png",EXTRA TV
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="extrachannel" tvg-logo="https://i.imgur.com/0iJp6zg.png",EXTRA TV
 https://spark3.smart-tv-data.com/extra/extra/playlist.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="epsilon" tvg-logo="https://i.imgur.com/xvNojLr.png",EPSILON TV
+https://spark3.smart-tv-data.com/EPSILON/epsilon/playlist.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="krhthtv" tvg-logo="https://i.imgur.com/7u8BIPU.png",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="krhthtv" tvg-logo="https://i.imgur.com/7u8BIPU.png",KRHTH TV BUP
