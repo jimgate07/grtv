@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=646295,FRAME-RATE=30,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
+https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/chunks.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1473864,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540
+https://live.streams.ovh/tvcreta/tvcreta/chunklist_.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3134643,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.42c01f,mp4a.40.2"
+https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8chunks.m3u8

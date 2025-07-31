@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3335872,CODECS="avc1.4d0028,mp4a.40.2",RESOLUTION=1920x1080
+https://eco.streams.ovh:1936/syrostv1/syrostv1/chunklist_.m3u8

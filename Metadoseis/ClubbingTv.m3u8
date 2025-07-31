@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,BANDWIDTH=2729153
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/b0557c45-f6be-4103-b7ef-392017bf4d23/0.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=854x480,BANDWIDTH=3771565
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/b0557c45-f6be-4103-b7ef-392017bf4d23/1.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=1280x720,BANDWIDTH=4928524
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/b0557c45-f6be-4103-b7ef-392017bf4d23/2.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,BANDWIDTH=6415729
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/b0557c45-f6be-4103-b7ef-392017bf4d23/3.m3u8
