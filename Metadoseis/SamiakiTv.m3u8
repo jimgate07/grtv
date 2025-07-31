@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1368940,CODECS="avc1.66.31,mp4a.40.34",RESOLUTION=720x540
-https://live.cast-control.eu:1935/samiaki/samiaki/chunklist_.m3u8
+https://live.cast-control.eu/samiaki/samiaki/chunklist_.m3u8
