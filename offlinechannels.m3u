@@ -217,3 +217,5 @@ https://ertflix.akamaized.net/ertlive/euronewsuk/default/index.m3u8
 https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD (FIFA CLUB WORLD CUP 2025) BUP
 https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Mp2I3dg.png",RADIO GOHTEIA
+https://live20.bozztv.com/akamaissh101/ssh101/radiogohteia/playlist.m3u8
