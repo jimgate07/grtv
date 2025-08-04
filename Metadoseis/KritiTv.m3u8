@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=7428031,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.42c01f,mp4a.40.2"
-https://cretetvlive.siliconweb.com/cretetv/liveabr/cretetv/live_source/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=646793,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://cretetvlive.siliconweb.com/cretetv/liveabr/cretetv/live_720p/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=448716,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2"
-https://cretetvlive.siliconweb.com/cretetv/liveabr/cretetv/live_480p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3553248,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://cdn5.smart-tv-data.com/regio/CreteTV/chunks.m3u8
