@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3084119,RESOLUTION=1920x1080,CODECS="avc1.42c01f,mp4a.40.2"
-https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2213723,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.42c01f,mp4a.40.2"
+https://spark3.smart-tv-data.com/ant1HD/ant1HD/chunks.m3u8
