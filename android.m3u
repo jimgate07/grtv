@@ -65,6 +65,10 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source
 https://spark3.smart-tv-data.com/alphaHD/alphaHD/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP 3
 http://194.156.236.18:8000/play/a003
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP 4
+https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP 5
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD BUP
@@ -421,6 +425,8 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 https://rtmp.win:3373/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 
 https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 2 
+https://fr.crystalweb.net:1936/nasostv/nasostv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oMX9Z0g.png",RADIO EIRHNH TV
 https://fr.crystalweb.net:1936/radioeirhnhtv/radioeirhnhtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oka4jRJ.png",PAIANIA TV RADIO (O)
@@ -495,6 +501,8 @@ http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/MtUE4kf.png",ERT NEWS NOHMATIKH BUP
 https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
+#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HYBRID
+https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP
@@ -583,6 +591,8 @@ https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
 https://eu1.streams.gr:8081/pontoswebtv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/weO7Ehk.png",PLUTON TV CYPRUS 
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD BUP
