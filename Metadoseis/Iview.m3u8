@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080
+https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8	

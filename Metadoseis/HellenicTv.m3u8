@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2701679,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://l5.cloudskep.com/hellenictv/htv/l5/htv1/chunks.m3u8

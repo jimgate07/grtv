@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=4628000,NAME="1080p",RESOLUTION=1920x1080
+https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist.m3u8

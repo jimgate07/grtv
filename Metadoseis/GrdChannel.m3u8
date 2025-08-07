@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4818816,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://fr.crystalweb.net:1936/grdchannel/grdchannel/chunklist_.m3u8

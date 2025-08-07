@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3344857,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=1920x1080
+https://web.onair-radio.eu/explorecy/explorecy/chunklist_.m3u8
