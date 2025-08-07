@@ -71,8 +71,6 @@ http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Cpn9kBm.png",RADIO ANEMOS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/radiotvanemosgr.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
-https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1 CY BUP (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2 CY BUP (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
@@ -103,16 +101,10 @@ https://stream3.anixe.net/live/alpha/playlist.m3u8
 https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV BUP
 http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
-#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="starke" tvg-logo="https://i.imgur.com/RMIoAkL.png",STAR K.E BUP
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/starkebup.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Ipo00Ph.png",OMIKRON TV BUP
 https://media.kubikhost.com/first/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/L8oU8Np.png",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
-https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP 2
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP
 https://cdn1.smart-tv-data.com/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 2
@@ -187,8 +179,6 @@ https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 http://cdn5.smart-tv-data.com/local/diktyo/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="nexttv" tvg-logo="https://i.imgur.com/GkfzXCQ.png",NEXT TV (NOT 24/7)
 https://www.youtube.com/channel/UCNOhkH_rCIj8KiVrlGpga7Q/live
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO 2 
-https://fr.crystalweb.net:1936/nasostv/nasostv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fqjiKol.png",LEVEL TV
 https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
@@ -201,8 +191,6 @@ http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 http://alex9954094.ddns.net:2052/test/test/5
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/o4yvIiA.png",TOP TV
 https://live20.bozztv.com/giatv/giatv-toptvlive/toptvlive/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
-https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZsLaIQ.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS
@@ -215,8 +203,6 @@ http://195.226.218.160/vid/euronewsen/mpeg.2ts
 https://ertflix.akamaized.net/ertlive/euronewsuk/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD (FIFA CLUB WORLD CUP 2025)
 https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD (FIFA CLUB WORLD CUP 2025) BUP
-https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Mp2I3dg.png",RADIO GOHTEIA
 https://live20.bozztv.com/akamaissh101/ssh101/radiogohteia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP 4
