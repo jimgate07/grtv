@@ -209,5 +209,6 @@ https://spark3.smart-tv-data.com/vid/ert3hd/playlist.m3u8
 https://speech8.anixa.tv/megaCC/megaCC/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP 2 
 https://speech6.anixa.tv/skaiCC/skaiCC/playlist.m3u8
-
+#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HYBRID
+https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 
