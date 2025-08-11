@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2415132,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://fr.crystalweb.net:1936/sierra/sierra/chunklist_.m3u8
