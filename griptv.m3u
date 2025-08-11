@@ -345,5 +345,71 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Xp
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Zougla.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/A9K7zqS.png",AGIOS IOANNIS MANTOUDIOU (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AgiosIoannisMantoudi.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/vOa2X5C.png",PISTI TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PistiTv.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EkDipso.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtKids.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BabySharkTv.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CartoonTv.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",RETRO CARTOONS (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RetroCartoons.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SVnN5Xl.png",DUCK TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DuckTv.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/49uhtHk.png",EXTACY TV KIDS (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyKids.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PksoVXP.png",MR BEAN ANIMATED (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MrBeanAnimated.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CinemaClassics.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/vwkr5NC.png",GROOVY (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Groovy.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/IoniaTv.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV EUROPE HD (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NetTvEurope.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV TORONTO HD (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NetTvToronto.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Netmax.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Y5UFoF6.png",SIERRA CHANNEL (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SierraChannel.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MontazTv.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Lampsi.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3Gy3JyZ.png",ELLAS WORLD (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EllasTv.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyTv.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/aU7EOVz.png",EXTACY TV GREEKS (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyGreeks.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/22dhh8I.png",EXTACY TV CINEMA (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyCinema.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6UyasCt.png",EXTACY TV CYPRUS (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyCyprus.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacySeries.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/TvPlus.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/VillageWorld.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Zeys.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtWorld.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD BUP (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtWorldBup.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW ENGLISH (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Dw.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Tv5.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR INTERNATIONAL (TEST)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/StarInternational.m3u8
