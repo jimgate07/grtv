@@ -1,4 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=407058,FRAME-RATE=25,RESOLUTION=1048x576,CODECS="avc1.64001f,mp4a.40.2"
-https://s1.cystream.net/live/art/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://1a-1791.com/live/u7gf26qm/slot-73/tfcj-eeg7_1080p/chunklist_DVR.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+https://1a-1791.com/live/u7gf26qm/slot-73/tfcj-eeg7_720p/chunklist_DVR.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360
+https://1a-1791.com/live/u7gf26qm/slot-73/tfcj-eeg7_360p/chunklist_DVR.m3u8
