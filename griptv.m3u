@@ -377,6 +377,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Io
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NetTvEurope.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV TORONTO HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NetTvToronto.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV CINEMA
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NetTvCinema.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Netmax.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Y5UFoF6.png",SIERRA CHANNEL
