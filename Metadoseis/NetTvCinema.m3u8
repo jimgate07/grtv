@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4560697,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080
+https://eu1.vectromdigital.com:1936/netvcinema/netvcinema/chunklist_.m3u8
