@@ -135,8 +135,6 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/TIbq2OY.png",FATSABOOK TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/fatsabooktv.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
-https://live20.bozztv.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5sWMgqq.png",CINEMA TIME 2 
 https://live20.bozztv.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
@@ -213,12 +211,8 @@ https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 https://av.hellasnet.tv/rst/plp/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jm0SnfX.png",ARGOLIDA SPORT TV
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
-https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/LGxS3zE.png",NEWSIMA WEB TV
 https://fr.crystalweb.net:1936/newsima/newsima/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
-https://live20.bozztv.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/VttzGrP.png",ATTICA TV BUP
 http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="onetv" tvg-logo="https://i.imgur.com/12Pk9r4.png",ONE CHANNEL BUP
