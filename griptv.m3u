@@ -413,15 +413,15 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ne
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Netmax.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Y5UFoF6.png",SIERRA CHANNEL
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SierraChannel.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MontazTv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Lampsi.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Galaxy.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3Gy3JyZ.png",ELLAS WORLD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/3Gy3JyZ.png",ELLAS WORLD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EllasTv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyTv.m3u8
@@ -441,6 +441,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Vi
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Zeys.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CinemaTime.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Elladatv.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtWorld.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD BUP
