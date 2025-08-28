@@ -125,7 +125,7 @@ https://cdn5.smart-tv-data.com/local/ena_channel/manifest.mpd
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET
 http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET BUP
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET BUP (O)
 http://cdn5.smart-tv-data.com/local/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET BUP 2
 http://cdn.onestreaming.com/thrakinettv/thrakinettv/manifest.mpd
