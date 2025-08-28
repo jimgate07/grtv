@@ -169,11 +169,11 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Hi
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Kontra.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="smiletv" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SmileGreece.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV 
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV (DELETED)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Rise.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="extrachannel" tvg-logo="https://i.imgur.com/0iJp6zg.png",EXTRA TV
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="extrachannel" tvg-logo="https://i.imgur.com/0iJp6zg.png",EXTRA TV (DELETED)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/extra.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="epsilon" tvg-logo="https://i.imgur.com/xvNojLr.png",EPSILON TV
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="epsilon" tvg-logo="https://i.imgur.com/xvNojLr.png",EPSILON TV (DELETED)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/epsilonathens.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/YiVVg6n.png",DELTA TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Delta.m3u8
