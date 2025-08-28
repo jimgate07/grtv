@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2750127,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.64c028,mp4a.40.2"
-https://cdn5.smart-tv-data.com/local/liveD/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=659600,RESOLUTION=1024x576
+http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist.m3u8
