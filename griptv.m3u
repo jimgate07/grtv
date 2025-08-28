@@ -17,8 +17,6 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/op
 http://85.11.144.9:6651/tet
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD (TEST)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/mega.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD (TEST)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/mega.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/alpha.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
