@@ -271,3 +271,11 @@ https://spark3.smart-tv-data.com/extra/extra/playlist.m3u8
 https://spark3.smart-tv-data.com/EPSILON/epsilon/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/V4lbogQ.png",LA FAMILIA WEB TV
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 2 
+http://cdn4.smart-tv-data.com/vid/ertnews/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 5 
+https://cdn3.smart-tv-data.com/vid/ertnews/manifest.mpd
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 6
+https://cdn4.smart-tv-data.com/vid/ertnews/manifest.mpd
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
+https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8
