@@ -604,7 +604,7 @@ https://eu1.servers10.com:8081/8384/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES
 https://eu1.servers10.com:8081/8386/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
-https://live20.bozztv.com/akamaissh101/ssh101/zeys/playlist.m3u8
+https://eu1.servers10.com:8081/8194/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV EUROPE HD 
