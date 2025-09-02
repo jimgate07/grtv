@@ -1,2 +1,4 @@
-Stream not found for webtvchalastra. Skipping...
-No stream available for webtvchalastra. Moving to the next channel...
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1233580,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=854x480
+https://gra1.crystalweb.net:1936/xalastratv/xalastratv/chunklist.m3u8
