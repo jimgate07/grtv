@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/er
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert2.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert3.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS
 http://195.226.218.10:80/vid/ertnews/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/skai.m3u8
@@ -25,9 +25,9 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/st
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/maktv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/vouli.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ertnews.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 2
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/vouli_bup.m3u8
@@ -65,11 +65,11 @@ http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 3 (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
-#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/wYjUDiv.png",ERT NEWS 2  
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/bh6hLBo.png",ERT NEWS 2  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNews2.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/DSlh6RW.png",ERT NEWS 3  
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ERT NEWS 3  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNews3.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/MtUE4kf.png",ERT NEWS NOHMATIKH
+#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",ERT NEWS NOHMATIKH
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNewsNohmatiki.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",ERT SPORTS 1
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtSports.m3u8
