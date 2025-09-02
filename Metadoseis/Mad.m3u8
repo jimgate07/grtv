@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3100000,BANDWIDTH=3880000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://ellastvmax.gotdns.com/freetv/madworldtv/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+#EXTVLCOPT:http-referrer= https://player.castr.com/
+https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8
