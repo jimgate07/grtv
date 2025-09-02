@@ -34,8 +34,8 @@ m3u8_response = requests.get(final_m3u8_url)
 m3u8_response.raise_for_status()
 m3u8_content = m3u8_response.text
 
-# Replace us5 with ln2
-m3u8_content = m3u8_content.replace("us5.cloudskep.com", "ln2.cloudskep.com")
+# Replace ANY us*.cloudskep.com with ln2.cloudskep.com
+m3u8_content = re.sub(r"https://us\d+\.cloudskep\.com", "https://ln2.cloudskep.com", m3u8_content)
 
 # Save to file
 with open("alphacyprus.m3u8", "w", encoding="utf-8") as file:
