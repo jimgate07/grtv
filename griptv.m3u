@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Er
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BestHybrid1.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BestHybrid2.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV  
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV (TEST)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Mad.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MadWorld.m3u8
