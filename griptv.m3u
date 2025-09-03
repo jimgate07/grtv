@@ -437,6 +437,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ex
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyCyprus.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacySeries.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/NIpbubv.png",TV SUPER
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/TvSuper.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/TvPlus.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
