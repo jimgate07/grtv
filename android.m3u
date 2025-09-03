@@ -62,7 +62,7 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE BUP
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI 
-https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI BUP
 https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY
@@ -505,8 +505,12 @@ https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-fd464078-9c51-453a-
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 2 BUP
+https://diavlos3.cnt.grnet.gr/parltv/webtv-2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI TV 3 BUP
+https://diavlos3.cnt.grnet.gr/parltv/webtv-3-native.sdp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE WEB TV
