@@ -1,23 +1,36 @@
+
 import requests
 import re
-from bs4 import BeautifulSoup
+import sys
+import subprocess
+def install_bs4():
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "bs4"])
+
+try:
+    from bs4 import BeautifulSoup
+except:
+    install_bs4()
+    from bs4 import BeautifulSoup
 
 # URL of the webpage containing the wmsAuthSign
-webpage_url = "https://www.alphacyprus.com.cy/live"
+webpage_url = 'https://www.alphacyprus.com.cy/live'
 
 # Fetch the content of the webpage
 response = requests.get(webpage_url)
-response.raise_for_status()
-webpage_content = response.text
+if response.status_code == 200:
+    webpage_content = response.text
+else:
+    raise Exception(f"Failed to fetch the webpage: {webpage_url}")
 
-# Parse the HTML content
-soup = BeautifulSoup(webpage_content, "html.parser")
+# Parse the HTML content using BeautifulSoup
+soup = BeautifulSoup(webpage_content, 'html.parser')
 
-# Find the wmsAuthSign
+# Find the wmsAuthSign in the HTML content
 wmsAuthSign = None
-for script in soup.find_all("script"):
-    if "wmsAuthSign" in script.text:
-        match = re.search(r"wmsAuthSign=([a-zA-Z0-9%_=:-]+)", script.text)
+for script in soup.find_all('script'):
+    if 'wmsAuthSign' in script.text:
+        # Extract the wmsAuthSign from the script text
+        match = re.search(r'wmsAuthSign=([a-zA-Z0-9%_-]+)', script.text)
         if match:
             wmsAuthSign = match.group(1)
             break
@@ -25,21 +38,19 @@ for script in soup.find_all("script"):
 if not wmsAuthSign:
     raise Exception("wmsAuthSign not found in the webpage")
 
-# Construct the final m3u8 URL
-m3u8_base_url = "https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8"
-final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}"
-
-# Fetch the m3u8 content
+# Construct the final m3u8 URL with the wmsAuthSign
+m3u8_base_url = 'https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8'
+final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}=="
+# Fetch the m3u8 content from the final URL
 m3u8_response = requests.get(final_m3u8_url)
-m3u8_response.raise_for_status()
-m3u8_content = m3u8_response.text
+if m3u8_response.status_code == 200:
+    m3u8_content = m3u8_response.text
+else:
+    raise Exception(f"Failed to fetch the m3u8 file {final_m3u8_url}")
 
-# Replace ANY us*.cloudskep.com with ln2.cloudskep.com
-m3u8_content = re.sub(r"https://us\d+\.cloudskep\.com", "https://ln2.cloudskep.com", m3u8_content)
-
-# Save to file
-with open("alphacyprus.m3u8", "w", encoding="utf-8") as file:
+# Save the m3u8 content to a file
+with open('alphacyprus.m3u8', 'w') as file:
     file.write(m3u8_content)
 
 print(f"The final m3u8 URL is {final_m3u8_url}")
-print("The m3u8 content has been saved to alphacyprus.m3u8 (ln2 version)")
+print("The m3u8 content has been saved to alphacyprus.m3u8")
