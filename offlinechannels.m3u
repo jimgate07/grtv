@@ -279,3 +279,45 @@ https://cdn3.smart-tv-data.com/vid/ertnews/manifest.mpd
 https://cdn4.smart-tv-data.com/vid/ertnews/manifest.mpd
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
 https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD BUP 2
+http://cdn4.smart-tv-data.com/vid/ertworld/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY BUP 3
+https://cdn4.smart-tv-data.com/vid/riksat-hbbtv/chunks.m3u8
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/YiVVg6n.png",DELTA TV BUP
+https://cdn5.smart-tv-data.com/local/liveD/playlist.m3u8
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET BUP
+http://cdn5.smart-tv-data.com/local/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV BUP 
+https://cdn5.smart-tv-data.com/local/egnatiatv_i/playlist.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV BUP
+https://cdn5.smart-tv-data.com/local/pellatv_i/playlist.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV BUP
+http://cdn5.smart-tv-data.com/local/gnomitv/playlist.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E BUP
+http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
+#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="corfutv" tvg-logo="https://i.imgur.com/RacHLQU.png",CORFU CHANNEL BUP
+http://cdn5.smart-tv-data.com/local/corfutv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="starttv" tvg-logo="https://i.imgur.com/PYYShEj.png",START TV BUP
+https://cdn5.smart-tv-data.com/local/StartMedia/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="ionian" tvg-logo="https://i.imgur.com/lzKsdsH.png",IONIAN CHANNEL BUP
+https://cdn5.smart-tv-data.com/local/ioniansrt/playlist.m3u8
+#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/QUcHOcN.png",ETV BUP
+https://cdn5.smart-tv-data.com/local/epsilontv/playlist.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT BUP
+http://cdn5.smart-tv-data.com/local/alert/playlist.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://i.imgur.com/X9ysWNd.png",ACTION 24 BUP 
+https://cdn5.smart-tv-data.com/local/action24/mpeg.2ts
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/abWdzq2.png",NEA TV BUP
+http://cdn5.smart-tv-data.com/local/neatv/playlist.m3u8
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://i.imgur.com/6XBDcU0.png",CRETA BUP
+http://cdn5.smart-tv-data.com/local/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="thlekriti" tvg-logo="https://i.imgur.com/wGuh3Fo.png",TELEΚΡΗΤΗ BUP 
+http://cdn5.smart-tv-data.com/local/telekriti/playlist.m3u8
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="krititv1" tvg-logo="https://i.imgur.com/F6Delpa.png",KRHTH 1 BUP
+https://cdn5.smart-tv-data.com/live/KRHTH1/playlist.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="samiakitv" tvg-logo="https://i.imgur.com/ajnEOPS.png",SAMIAKI TV BUP
+http://cdn5.smart-tv-data.com/local/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/ev6HQr0.png",SYROS TV1 BUP
+http://cdn5.smart-tv-data.com/local/syrostv1/playlist.m3u8
+#EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/cxciffB.png",AEOLOS TV BUP
+http://cdn5.smart-tv-data.com/local/aeolostv/playlist.m3u8
