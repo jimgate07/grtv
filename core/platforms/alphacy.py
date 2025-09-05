@@ -1,56 +1,58 @@
-
 import requests
 import re
-import sys
-import subprocess
-def install_bs4():
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "bs4"])
+from urllib.parse import urljoin
 
-try:
-    from bs4 import BeautifulSoup
-except:
-    install_bs4()
-    from bs4 import BeautifulSoup
+def fetch_m3u8_from_site(url):
+    """
+    Fetches the webpage and tries to extract the first .m3u8 link.
+    Handles query strings (?...) and protocol-relative URLs (//...).
+    """
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        html = response.text
 
-# URL of the webpage containing the wmsAuthSign
-webpage_url = 'https://www.alphacyprus.com.cy/live'
+        # Regex to match .m3u8 and include ?query=... if present
+        matches = re.findall(r'(https?:\/\/[^\s\'"]+?\.m3u8[^\s\'"]*|\/\/[^\s\'"]+?\.m3u8[^\s\'"]*)', html)
 
-# Fetch the content of the webpage
-response = requests.get(webpage_url)
-if response.status_code == 200:
-    webpage_content = response.text
-else:
-    raise Exception(f"Failed to fetch the webpage: {webpage_url}")
+        if matches:
+            stream_url = matches[0]
 
-# Parse the HTML content using BeautifulSoup
-soup = BeautifulSoup(webpage_content, 'html.parser')
+            # If it starts with //, prepend https:
+            if stream_url.startswith("//"):
+                stream_url = "https:" + stream_url
 
-# Find the wmsAuthSign in the HTML content
-wmsAuthSign = None
-for script in soup.find_all('script'):
-    if 'wmsAuthSign' in script.text:
-        # Extract the wmsAuthSign from the script text
-        match = re.search(r'wmsAuthSign=([a-zA-Z0-9%_-]+)', script.text)
-        if match:
-            wmsAuthSign = match.group(1)
-            break
+            # If it's a relative path, make it absolute
+            if not stream_url.startswith("http"):
+                stream_url = urljoin(url, stream_url)
 
-if not wmsAuthSign:
-    raise Exception("wmsAuthSign not found in the webpage")
+            return stream_url
+        else:
+            return None
+    except Exception as e:
+        print(f"Error fetching site: {e}")
+        return None
 
-# Construct the final m3u8 URL with the wmsAuthSign
-m3u8_base_url = 'https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8'
-final_m3u8_url = f"{m3u8_base_url}?wmsAuthSign={wmsAuthSign}=="
-# Fetch the m3u8 content from the final URL
-m3u8_response = requests.get(final_m3u8_url)
-if m3u8_response.status_code == 200:
-    m3u8_content = m3u8_response.text
-else:
-    raise Exception(f"Failed to fetch the m3u8 file {final_m3u8_url}")
+def create_m3u8(output_file, stream_url):
+    """
+    Writes a new .m3u8 file with the given stream URL.
+    """
+    content = f"""#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3134643,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.42c01f,mp4a.40.2"
+{stream_url}
+"""
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(content)
 
-# Save the m3u8 content to a file
-with open('alphacyprus.m3u8', 'w') as file:
-    file.write(m3u8_content)
+if __name__ == "__main__":
+    site_url = "https://aliez.tv/live/uab2p85ge9b1h98355dc/"
+    output_file = "test.m3u8"
 
-print(f"The final m3u8 URL is {final_m3u8_url}")
-print("The m3u8 content has been saved to alphacyprus.m3u8")
+    stream_url = fetch_m3u8_from_site(site_url)
+    if stream_url:
+        create_m3u8(output_file, stream_url)
+        print(f"β… M3U8 file created: {output_file}")
+        print(f"π”— Found stream: {stream_url}")
+    else:
+        print("β No .m3u8 link found on the page.")
