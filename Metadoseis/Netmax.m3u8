@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1575355,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
-https://live.netmaxtv.com:1936/live/live/chunklist_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2077610,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://s1.crystalweb.net:1936/netmaxtv/netmaxtv/chunklist.m3u8
