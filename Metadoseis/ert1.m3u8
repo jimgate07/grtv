@@ -1,3 +1,4 @@
+#EXTM3U
 #EXT-X-VERSION:8
 ## Created with Broadpeak BkS350 Origin Packager  (version=1.12.8-28913)
 #EXT-X-SESSION-KEY:METHOD=AES-128,URI="aes128.key"
