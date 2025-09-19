@@ -443,8 +443,6 @@ https://pro.free.hr:3236/stream/play.m3u8
 https://video.streams.ovh:8081/notos/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="FTV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
 https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/mDk6HkP.png",AEGEAN LIVE
-https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/chunklist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV
@@ -563,20 +561,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 https://media2.streambrothers.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
 https://pro.free.hr:3343/live/l1llive.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV
-https://eu1.servers10.com:8081/8380/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6UyasCt.png",EXTACY TV CYPRUS
-https://eu1.servers10.com:8081/8388/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/aU7EOVz.png",EXTACY TV GREEKS
-https://eu1.servers10.com:8081/8382/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/22dhh8I.png",EXTACY TV CINEMA
-https://eu1.servers10.com:8081/8384/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES
-https://eu1.servers10.com:8081/8386/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
-https://eu1.servers10.com:8081/8194/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/NIpbubv.png",TV SUPER
-https://eu1.servers10.com:8081/8196/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV EUROPE HD 
@@ -601,8 +585,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
 https://www.youtube.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ/live
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/49uhtHk.png",EXTACY TV KIDS (O)
-https://live20.bozztv.com/akamaissh101/ssh101/extacytvkids/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV BUP
