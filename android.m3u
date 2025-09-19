@@ -142,7 +142,7 @@ http://cdn5.smart-tv-data.com/local/gnomitv/manifest.mpd
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
 https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
-http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E BUP 
 https://cdn5.smart-tv-data.com/local/tv4e/manifest.mpd
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL
