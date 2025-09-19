@@ -317,7 +317,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/xalas
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/THpDcdE.png",PAKOE
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/mDk6HkP.png",AEGEAN LIVE
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/mDk6HkP.png",AEGEAN LIVE (DELETED)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AegeanTv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AlfaSportsCy.m3u8
@@ -399,8 +399,6 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ca
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RetroCartoons.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SVnN5Xl.png",DUCK TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DuckTv.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/49uhtHk.png",EXTACY TV KIDS
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyKids.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PksoVXP.png",MR BEAN ANIMATED
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MrBeanAnimated.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
@@ -429,24 +427,10 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ga
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EllasTv.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyTv.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/aU7EOVz.png",EXTACY TV GREEKS
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyGreeks.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/22dhh8I.png",EXTACY TV CINEMA
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyCinema.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6UyasCt.png",EXTACY TV CYPRUS
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacyCyprus.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ExtacySeries.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/NIpbubv.png",TV SUPER
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/TvSuper.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/TvPlus.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/VillageWorld.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Zeys.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CinemaTime.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/zdnVJcu.png",ELLADA TV
