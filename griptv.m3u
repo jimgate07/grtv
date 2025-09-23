@@ -220,7 +220,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/tvsta
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="centertv" tvg-logo="https://i.imgur.com/uV9m72n.png",CENTER TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/centertv.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
-https://cdn5.smart-tv-data.com/local/tv4e/mpeg.2ts
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E (TEST)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/4e.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
