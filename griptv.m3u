@@ -202,7 +202,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ex
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="epsilon" tvg-logo="https://i.imgur.com/xvNojLr.png",EPSILON TV (DELETED)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/epsilonathens.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/YiVVg6n.png",DELTA TV
-http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/YiVVg6n.png",DELTA TV (TEST)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Delta.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://i.imgur.com/KO2JtRn.png",ENA CHANNEL
