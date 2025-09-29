@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3140823,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.64002a,mp4a.40.2"
-https://cdn5.smart-tv-data.com/local/ena_channel/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3820649,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.64002a,mp4a.40.2"
+https://cdn5.smart-tv-data.com/ena/ena_channel/chunks.m3u8
