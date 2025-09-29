@@ -335,3 +335,5 @@ https://eu1.servers10.com:8081/8194/index.m3u8
 https://eu1.servers10.com:8081/8196/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ehsQ316.png",SUPERSTAR TV
 https://eu1.streams.gr:8081/superstartv/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 2
+https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
