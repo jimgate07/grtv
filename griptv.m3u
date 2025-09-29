@@ -67,9 +67,9 @@ http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 3 (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
-#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/bh6hLBo.png",ERT NEWS 2  
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/bh6hLBo.png",ERT NEWS 2 (O)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNews2.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ERT NEWS 3  
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ERT NEWS 3 (O)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNews3.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",ERT NEWS NOHMATIKH
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtNewsNohmatiki.m3u8
@@ -225,13 +225,13 @@ http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/4e.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Tv100.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV (O)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Gnomi.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Egnatia.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/HNpbhdt.png",EURO TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/EuroTV.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV 
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV (O)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Pella.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/sqhqANh.png",DION TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DionTv.m3u8
