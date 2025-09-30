@@ -193,6 +193,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ac
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/High.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="kontra" tvg-logo="https://i.imgur.com/Kny4NeR.png",KONTRA 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Kontra.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Naftemporiki.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="smiletv" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SmileGreece.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV (DELETED)
@@ -355,8 +357,6 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Iv
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MontrealGreekTv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xGZpaAZ.png",NS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NS.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Naftemporiki.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/l4UooS6.png",NOTIOI TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NotioiTv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/weO7Ehk.png",PLUTON TV CYPRUS
