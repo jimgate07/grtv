@@ -293,6 +293,10 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Tr
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/Astra_TV.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/dldI5FS.png",ASTRA TV BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra_TV_bup.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ED TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ED.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="thlekriti" tvg-logo="https://i.imgur.com/wGuh3Fo.png",TELEΚΡΗΤΗ
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Telekriti.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/JCVqMzP.png",RODOPI TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/TVRodopi.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV
@@ -305,20 +309,18 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_parados
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/mDk6HkP.png",AEGEAN LIVE (DELETED)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AegeanTv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AlfaSportsCy.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/QAQhqIu.png",ATHENS GEO TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AthensGeoTv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE WEB TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE WEB TV (O)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ChoiceWebTv.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY (O)
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AlfaSportsCy.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/acHtejH.png",CITY TV CY
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CityChannelCy.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/BI2ThMA.png",VOULI TV CY
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/VouliCyprus.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DR7PMx6.png",DESTINATION GREECE
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DestinationGreece.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ED TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ED.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cTWhIMF.png",EVRIPOS NEWS
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EvriposNews.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV CY
@@ -339,7 +341,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Im
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ippodromies.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Eb8oY3X.png",IVIEW TV GREECE
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Iview.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5dBF1Qf.png",MONTREAL GREEK TV (TEST)
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5dBF1Qf.png",MONTREAL GREEK TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MontrealGreekTv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xGZpaAZ.png",NS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NS.m3u8
@@ -365,18 +367,26 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Xp
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Zougla.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ProNews.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="thlekriti" tvg-logo="https://i.imgur.com/wGuh3Fo.png",TELEΚΡΗΤΗ
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Telekriti.m3u8
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/A3IpEhj.png",GREEK VOICE (TEST)
+http://65.108.62.57:8080/live/greektv1.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV (TEST)
+http://alex9954094.ddns.net:2052/test/test/93
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/A9K7zqS.png",AGIOS IOANNIS MANTOUDIOU
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AgiosIoannisMantoudi.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/vOa2X5C.png",PISTI TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PistiTv.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/g1gp3E7.png",TV DIPSO
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EkDipso.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",EKKLHSIA TV HD
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ekklisia.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ORTHODOXI TILEORASI
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtKids.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY  
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SmileCY.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
+http://65.108.62.57:8080/live4/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BabySharkTv.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/mzKvsj0.png",CARTOON TV
