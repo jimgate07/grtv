@@ -337,3 +337,13 @@ https://eu1.servers10.com:8081/8196/index.m3u8
 https://eu1.streams.gr:8081/superstartv/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 2
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jFVVQW0.png",IONIA TV 
+https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3izOdxG.png",MONTAZ TV 
+https://live20.bozztv.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
+https://live20.bozztv.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/M3KgiGK.png",TV PLUS
+https://stream.ioniantv.gr/ionian/live2/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0aahFcN.png",CINEMA TIME
+https://live20.bozztv.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
