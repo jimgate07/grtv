@@ -1,4 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3699028,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.42c01f,mp4a.40.2"
-http://cdn5.smart-tv-data.com/local/tv4e/chunks.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="English",URI="chunklist_w1941173970_b96000_ao_t64RW5nbGlzaA==.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=250000,CODECS="avc1.420015,mp4a.40.2",RESOLUTION=416x234,AUDIO="aac"
+http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1941173970_b250000_vo.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=365000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac"
+http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1941173970_b365000_vo.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="avc1.4d0020,mp4a.40.2",RESOLUTION=1280x720,AUDIO="aac"
+http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1941173970_b2500000_vo.m3u8
