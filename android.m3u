@@ -12,7 +12,7 @@ https://ertflix-greece.siliconweb.com/cmaf/618618_2341560/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP
-http://195.226.218.10:80/vid/ertnews/mpeg.2ts
+http://195.226.218.163/vid/ertnews/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 2
 https://ertflix.siliconweb.com/mpegts/618618_2341569/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 3
