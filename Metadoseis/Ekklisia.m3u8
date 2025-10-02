@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=10414423,FRAME-RATE=30,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/chunks.m3u8
