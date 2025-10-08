@@ -359,3 +359,5 @@ https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 https://eu1.vectromdigital.com:1936/netvcinema/netvcinema/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",NICKELODEON (ENGLISH)
 http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Q4rTipR.png",ERT MUSIC TV
+https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
