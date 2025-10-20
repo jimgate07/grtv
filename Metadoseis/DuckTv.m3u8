@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.0,BANDWIDTH=3200000
-https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/bc1ec495-d7d4-4878-bdad-732abb7e9705/0.m3u8
+https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/4ab2e533-70c2-4c34-83da-82e40006fd6f/0.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.0,BANDWIDTH=2200000
-https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/bc1ec495-d7d4-4878-bdad-732abb7e9705/1.m3u8
+https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/4ab2e533-70c2-4c34-83da-82e40006fd6f/1.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.0,BANDWIDTH=1000000
-https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/bc1ec495-d7d4-4878-bdad-732abb7e9705/2.m3u8
+https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/4ab2e533-70c2-4c34-83da-82e40006fd6f/2.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.64000d,mp4a.40.2",RESOLUTION=384x216,FRAME-RATE=25.0,BANDWIDTH=600000
-https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/bc1ec495-d7d4-4878-bdad-732abb7e9705/3.m3u8
+https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/4ab2e533-70c2-4c34-83da-82e40006fd6f/3.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.64000d,mp4a.40.2",RESOLUTION=384x216,FRAME-RATE=25.0,BANDWIDTH=300000
-https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/bc1ec495-d7d4-4878-bdad-732abb7e9705/4.m3u8
+https://dz4jacps8l0pw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/4ab2e533-70c2-4c34-83da-82e40006fd6f/4.m3u8
