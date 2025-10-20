@@ -361,3 +361,7 @@ https://eu1.vectromdigital.com:1936/netvcinema/netvcinema/playlist.m3u8
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Q4rTipR.png",ERT MUSIC TV
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Q4rTipR.png",ERT MUSIC TV
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Q4rTipR.png",ERT MUSIC TV BUP
+https://ertflix.ascdn.broadpeak.io/ertlive/music/default/index.m3u8
