@@ -121,10 +121,6 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Na
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RadioEirhnh.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/oka4jRJ.png",PAIANIA TV RADIO
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PaianiaTV.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION 2
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV2.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ldYpkWG.png",DANCE TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DanceTv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y32QaIj.png",CLUBBING TV
