@@ -444,7 +444,7 @@ https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/NF9kTdg.png",NOTOS TV
 https://video.streams.ovh:8081/notos/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="FTV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
-https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV
