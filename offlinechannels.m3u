@@ -365,3 +365,7 @@ https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Q4rTipR.png",ERT MUSIC TV BUP
 https://ertflix.ascdn.broadpeak.io/ertlive/music/default/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ghXyWCa.png",XTVISION 2
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV2.m3u8
