@@ -79,14 +79,10 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Er
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BestHybrid1.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/BestHybrid2.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV (TEST)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Mad.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MadWorld.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iyNbA8N.png",NRG TV  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NrgTV.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Q4rTipR.png",ERT MUSIC TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtMusic.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0jPdDL.png",MESSINIA TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MessiniaTv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XkjxWv8.png",KLIK TV
