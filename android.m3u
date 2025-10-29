@@ -408,7 +408,7 @@ http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",ERT NEWS NOHMATIKH
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",ERT NEWS NOHMATIKH BUP
-https://ertflix-greece.siliconweb.com/mpegts/618618_3479301/master_mpegts.m3u8
+https://ertflix.siliconweb.com/mpegts/618618_3479301/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP
