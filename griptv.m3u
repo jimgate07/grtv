@@ -71,6 +71,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Er
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtSports2.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtSports3.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ERT SPORTS 4
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtSports4.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtKids.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1 
