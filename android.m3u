@@ -580,11 +580,13 @@ https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS (O)
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV
-https://live20.bozztv.com/giatv/giatv-extacytv/extacytv/playlist.m3u8
+https://eu1.servers10.com:8081/8238/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/aU7EOVz.png",EXTACY TV GREEKS
-https://live20.bozztv.com/giatv/giatv-extacytvgreeks/extacytvgreeks/playlist.m3u8
+https://eu1.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/22dhh8I.png",EXTACY TV CINEMA
-https://live20.bozztv.com/giatv/giatv-extacytvcinema/extacytvcinema/playlist.m3u8
+https://eu1.servers10.com:8081/8244/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES
+https://eu1.servers10.com:8081/8284/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ZOUZOUNIA
 https://www.youtube.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ/live
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ERT KIDS TV
