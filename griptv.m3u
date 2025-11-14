@@ -239,6 +239,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ac
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ArtTvArtas.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/6PovX6q.png",EPIRUS TV1
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EpirosTV1.m3u8
+#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="vimatv" tvg-logo="https://i.imgur.com/G7EbEYA.png",VIMA TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Vima.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="besttv" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Best.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV
