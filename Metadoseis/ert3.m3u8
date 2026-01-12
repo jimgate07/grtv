@@ -2,13 +2,14 @@
 #EXT-X-VERSION:6
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=5640800,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8
+https://ertflix-greece-gc.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=3440800,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_1.m3u8
+https://ertflix-greece-gc.siliconweb.com/mpegts/618618_2341560/media_mpegts_1.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2305600,RESOLUTION=1024x576,CODECS="avc1.64001f,mp4a.40.2"
-https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_2.m3u8
+https://ertflix-greece-gc.siliconweb.com/mpegts/618618_2341560/media_mpegts_2.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1170400,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2"
-https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_3.m3u8
+https://ertflix-greece-gc.siliconweb.com/mpegts/618618_2341560/media_mpegts_3.m3u8
+
