@@ -1,25 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:8
-## Created with Broadpeak BkS350 Origin Packager  (version=1.12.8-28913)
+## Created with Broadpeak BkS350 Origin Packager  (version=1.15.6-31568)
 
 # AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aach-104",NAME="audio_104621_und",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-210",NAME="audio_210600_und",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
 
 # SUBTITLES groups
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",LANGUAGE="el",NAME="Greek, Modern (1453-)",DEFAULT=YES,AUTOSELECT=YES,URI="https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-textstream_564461570_gre=8000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",LANGUAGE="el",NAME="Greek, Modern (1453-)",DEFAULT=YES,AUTOSELECT=YES,URI="ERTNews-textstream_733478914_gre=8000.m3u8"
 
 # variants
-#EXT-X-STREAM-INF:BANDWIDTH=1064000,AVERAGE-BANDWIDTH=967000,CODECS="mp4a.40.5,avc1.4D0029",RESOLUTION=640x360,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-104",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=800000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2463000,AVERAGE-BANDWIDTH=2239000,CODECS="mp4a.40.5,avc1.4D0029",RESOLUTION=1024x576,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-104",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=2000000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3629000,AVERAGE-BANDWIDTH=3299000,CODECS="mp4a.40.5,avc1.640029",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-104",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=3000000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5961000,AVERAGE-BANDWIDTH=5419000,CODECS="mp4a.40.5,avc1.640029",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-104",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1201000,AVERAGE-BANDWIDTH=1092000,CODECS="mp4a.40.2,avc1.64001E",RESOLUTION=640x360,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-210",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
+https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/ERTNews-audio_210600_und=210400-video=812000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2691000,AVERAGE-BANDWIDTH=2446000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1024x576,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-210",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
+https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/ERTNews-audio_210600_und=210400-video=2089200.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3882000,AVERAGE-BANDWIDTH=3529000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-210",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
+https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/ERTNews-audio_210600_und=210400-video=3110800.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6265000,AVERAGE-BANDWIDTH=5695000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-210",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
+https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/ERTNews-audio_210600_und=210400-video=5154400.m3u8
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=255000,AVERAGE-BANDWIDTH=232000,CODECS="mp4a.40.2",AUDIO="audio-aacl-210",SUBTITLES="textstream"
+https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/ERTNews-audio_210600_und=210400.m3u8
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=117000,CODECS="avc1.4D0029",RESOLUTION=640x360,VIDEO-RANGE=SDR,URI="https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/keyframes/ERTNews-video=800000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=292000,CODECS="avc1.4D0029",RESOLUTION=1024x576,VIDEO-RANGE=SDR,URI="https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/keyframes/ERTNews-video=2000000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.640029",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/keyframes/ERTNews-video=3000000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=729000,CODECS="avc1.640029",RESOLUTION=1920x1080,VIDEO-RANGE=SDR,URI="https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/keyframes/ERTNews-video=5000000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=119000,CODECS="avc1.64001E",RESOLUTION=640x360,VIDEO-RANGE=SDR,URI="https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/keyframes/ERTNews-video=812000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=305000,CODECS="avc1.64001F",RESOLUTION=1024x576,VIDEO-RANGE=SDR,URI="https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/keyframes/ERTNews-video=2089200.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=454000,CODECS="avc1.64001F",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/keyframes/ERTNews-video=3110800.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=752000,CODECS="avc1.640028",RESOLUTION=1920x1080,VIDEO-RANGE=SDR,URI="https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/keyframes/ERTNews-video=5154400.m3u8"
