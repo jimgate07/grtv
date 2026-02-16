@@ -1,9 +1,19 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a1",DEFAULT=YES,URI="https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/tracks-a1/index.fmp4.m3u8"
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1330000,BANDWIDTH=1640000,AUDIO="aac",RESOLUTION=640x360,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/tracks-v3/index.fmp4.m3u8
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1830000,BANDWIDTH=2270000,AUDIO="aac",RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/tracks-v2/index.fmp4.m3u8
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2340000,BANDWIDTH=2910000,AUDIO="aac",RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/tracks-v1/index.fmp4.m3u8
+#EXT-X-VERSION:8
+## Created with Broadpeak BkS350 Origin Packager  (version=1.12.8-28913)
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aach-104",LANGUAGE="el",NAME="Greek, Modern (1453-)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=1055000,AVERAGE-BANDWIDTH=959000,CODECS="mp4a.40.5,avc1.4D0029",RESOLUTION=1024x576,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-104",CLOSED-CAPTIONS=NONE
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/nafteboriki-audio_104621_gre=104400-video=800000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1988000,AVERAGE-BANDWIDTH=1807000,CODECS="mp4a.40.5,avc1.640029",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-104",CLOSED-CAPTIONS=NONE
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/nafteboriki-audio_104621_gre=104400-video=1600000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3620000,AVERAGE-BANDWIDTH=3291000,CODECS="mp4a.40.5,avc1.640029",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-104",CLOSED-CAPTIONS=NONE
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/nafteboriki-audio_104621_gre=104400-video=3000000.m3u8
+
+# keyframes
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=117000,CODECS="avc1.4D0029",RESOLUTION=1024x576,VIDEO-RANGE=SDR,URI="https://telmaco.ascdn.broadpeak.io/nafteboriki/default/keyframes/nafteboriki-video=800000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=234000,CODECS="avc1.640029",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://telmaco.ascdn.broadpeak.io/nafteboriki/default/keyframes/nafteboriki-video=1600000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.640029",RESOLUTION=1920x1080,VIDEO-RANGE=SDR,URI="https://telmaco.ascdn.broadpeak.io/nafteboriki/default/keyframes/nafteboriki-video=3000000.m3u8"
