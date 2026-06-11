@@ -1,29 +1,18 @@
 #EXTM3U
-#EXT-X-VERSION:8
-## Created with Broadpeak BkS350 Origin Packager  (version=1.15.6-31568)
-
-# AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-206",LANGUAGE="el",NAME="Greek, Modern (1453-)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-
-# SUBTITLES groups
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",LANGUAGE="el",NAME="Greek, Modern (1453-)",DEFAULT=YES,AUTOSELECT=YES,URI="https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/ERT1-textstream_733478914_gre=8000.m3u8"
-
-# variants
-#EXT-X-STREAM-INF:BANDWIDTH=1494000,AVERAGE-BANDWIDTH=1359000,CODECS="mp4a.40.2,avc1.64001E",RESOLUTION=640x360,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-206",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/ERT1-audio_208000_gre=206000-video=1067600.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3281000,AVERAGE-BANDWIDTH=2983000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1024x576,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-206",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/ERT1-audio_208000_gre=206000-video=2600000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5068000,AVERAGE-BANDWIDTH=4608000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-206",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/ERT1-audio_208000_gre=206000-video=4132800.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=7451000,AVERAGE-BANDWIDTH=6773000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-206",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/ERT1-audio_208000_gre=206000-video=6176000.m3u8
-
-# variants
-#EXT-X-STREAM-INF:BANDWIDTH=249000,AVERAGE-BANDWIDTH=227000,CODECS="mp4a.40.2",AUDIO="audio-aacl-206",SUBTITLES="textstream"
-ERT1-audio_208000_gre=206000.m3u8
-
-# keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=156000,CODECS="avc1.64001E",RESOLUTION=640x360,VIDEO-RANGE=SDR,URI="https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/keyframes/ERT1-video=1067600.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=379000,CODECS="avc1.64001F",RESOLUTION=1024x576,VIDEO-RANGE=SDR,URI="https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/keyframes/ERT1-video=2600000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=603000,CODECS="avc1.64001F",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/keyframes/ERT1-video=4132800.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=901000,CODECS="avc1.640028",RESOLUTION=1920x1080,VIDEO-RANGE=SDR,URI="https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/keyframes/ERT1-video=6176000.m3u8"
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",AUTOSELECT="YES",URI="https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_1080/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",AUTOSELECT="YES",URI="https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_360/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",AUTOSELECT="YES",URI="https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_576/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",AUTOSELECT="YES",URI="https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_720/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",AUTOSELECT="YES",URI="https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_720b/audio.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=5237423,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25,AUDIO="audio"
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_1080/video.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=663996,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25,AUDIO="audio"
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_360/video.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1199280,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=25,AUDIO="audio"
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_576/video.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2473467,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio"
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_720/video.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3833304,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio"
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_720b/video.m3u8
