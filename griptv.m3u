@@ -12,7 +12,7 @@ webview:https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc49
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",ΣΚΑΪ HD 
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8 | https://skai-live-gr.siliconweb.com/media/cambria4/index.m3u8 | https://skai-live-gr-cy.siliconweb.com/media/cambria4/index.m3u8 
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",ΣΚΑΪ HD τεστ
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|license_type=clearkey&license_key=bd2b9942dc1e45548fe68bbd53aa2f6b:700a8a4e84859fef47ec77baac3b279c&stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36, Referer=https://www.skai.gr/, Origin=https://www.skai.gr/}
+https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|license_type=clearkey&license_key=bd2b9942dc1e45548fe68bbd53aa2f6b:700a8a4e84859fef47ec77baac3b279c&stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36}
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
