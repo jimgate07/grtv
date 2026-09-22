@@ -23,26 +23,26 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",ΒΟΥΛΗ 
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8 | https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
-http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1 (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",RIK HD CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY 
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RikSat.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA CY  
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Sigma.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA CY BUP
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT CY 
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ  
+http://sl2.sigmatv.com/hls/live.m3u8 | https://sl3.sigmatv.com/hls/live.m3u8 | https://ottstream4.primetel.com.cy/streaming-web/SigmaLive/playlist.m3u8 | https://sl1.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SigmaBup.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 CY  
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY  
-http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 | webview:https://www.omegatv.com.cy/live/#OmegaTvLive_html5
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA CY   
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 ΚΥΠΡΟΥ
+https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA ΚΥΠΡΟΥ  
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 | webview:https://www.omegatv.com.cy/live/#OmegaTvLive_html5 | https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ   
 webview:https://www.alphacyprus.com.cy/live#rmpPlayer
-#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/VerginaCy.m3u8
+#EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV ΚΥΠΡΟΥ
+https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="🇨🇾ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SmileCY.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY  
