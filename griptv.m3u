@@ -14,9 +14,9 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/an
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/open.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-webview:https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670
+webview:https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670 | https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/maktv.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD (TEST)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/mega.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/mega.m3u8 | https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/maktv.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/alpha.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
