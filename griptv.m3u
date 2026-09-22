@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ΕΡΤ1 HD
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/default/index.m3u8 | https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8 | https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.m3u8
-#EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ZpUEkeq.png",ΕΡΤ2 SPOR HD
+#EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ZpUEkeq.png",ΕΡΤ2 ΣΠΟΡ HD
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/default/index.m3u8 | https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ΕΡΤ3 HD
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8 | https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch3/ept_ch3/mainabr/playlist.m3u8
