@@ -83,34 +83,36 @@ https://ertflix.ascdn.broadpeak.io/ertlive/tv5/default/index.m3u8
 https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/RJ5KBOl.png",VOULI BUP
 https://ertflix.ascdn.broadpeak.io/ertlive/vouli/default/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY BUP
-http://195.226.218.163/vid/riksat-hbbtv/mpeg.2ts
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY BUP 2
-https://ertflix.akamaized.net/ertlive/rik/default/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",RIK SAT CY BUP 3
-https://ertflix.ascdn.broadpeak.io/ertlive/rik/default/index.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT ΚΥΠΡΟΥ
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT ΚΥΠΡΟΥ BUP
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT ΚΥΠΡΟΥ BUP 2
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1 ΚΥΠΡΟΥ (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 ΚΥΠΡΟΥ (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",RIK HD CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD ΚΥΠΡΟΥ (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA CY
-https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA CY BUP
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ
 http://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 CY
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ BUP
+https://ottstream4.primetel.com.cy/streaming-web/SigmaLive/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ BUP 2
+https://sl3.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ BUP 3
+https://sl1.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 ΚΥΠΡΟΥ
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA CY
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ
 https://l2.cloudskep.com/alphacyp/acy/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
-http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
-http://verginanews.gr:8080/hls_live/stream2.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY
-https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA ΚΥΠΡΟΥ
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY ΚΥΠΡΟΥ
+https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV ΚΥΠΡΟΥ
+https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="plustv" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
 https://github.com/jimgate07/grtv/raw/master/Greek%20iptv.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/AT756qk.png",CAPITAL TV CY
