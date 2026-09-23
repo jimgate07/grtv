@@ -19,7 +19,6 @@ def update_m3u8(output_file='artathens.m3u8'):
 
     soup = BeautifulSoup(html_content, 'html.parser')
     
-    # Εντοπισμός του ID από τη σελίδα
     embed_id = None
     for iframe in soup.find_all("iframe"):
         src = iframe.get("src", "")
@@ -34,27 +33,18 @@ def update_m3u8(output_file='artathens.m3u8'):
         if match:
             embed_id = match.group(1)
 
-    # Fallback ID σε περίπτωση που δεν βρεθεί κάτι
     if not embed_id:
         embed_id = "7clc2e"
 
-    # Αφαίρεση τυχόν "v" από την αρχή
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
     print(f"[✓] Clean ID found: {embed_id}")
 
-    # Σύνθεση του τελικού URL
     stream_url = f"https://rumble.com/live-hls/{embed_id}/playlist.m3u8"
 
-    # Δημιουργία περιεχομένου M3U8 με το URL
-    m3u8_content = f"""#EXTM3U
-#EXTINF:-1,ART TV Live
-{stream_url}
-"""
-
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(m3u8_content)
+        f.write(stream_url)
 
     print(f"[✔] Successfully updated {output_file} with: {stream_url}")
 
