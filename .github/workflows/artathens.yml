@@ -3,8 +3,6 @@ name: artathens
 on:
   schedule:
     - cron: '0 */12 * * *'
-  
-
   workflow_dispatch:
 
 jobs:
@@ -14,25 +12,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-       
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install beautifulsoup4 requests
+
       - name: config
         run: |
-          git config --global user.email "<>"
-          git config --global user.name "Update"
-     
-      
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action Bot"
+         
       - name: grab m3u files
         run: |
-            pwd
-            cd ./core/platforms/
-            pip3 install beautifulsoup4
-            python3 artathens.py
-      - name: git add
+          pwd
+          cd ./core/platforms/
+          python3 artathens.py
+
+      - name: git add & commit & push
         run: |
           git add -A
-          ls -la 
-          
-      - name: commit & push
-        run: |
-          git commit -m "art updated"
+          git diff --staged --quiet || git commit -m "art updated"
           git push
