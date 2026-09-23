@@ -44,7 +44,6 @@ def find_all_m3u8_urls(page_url, depth=0, max_depth=3, visited=None):
 
             # Rumble specific JSON parsing if present
             if "rumble.com" in page_url or "embed" in page_url:
-                # Ψάχνουμε για JSON objects που περιέχουν .m3u8 σταθερές στα embeds του Rumble
                 json_matches = re.findall(r'["\'](https?://[^"\']+\.m3u8[^"\']*)["\']', content)
                 for jm in json_matches:
                     found.add(jm.replace('\\/', '/'))
@@ -79,9 +78,37 @@ def save_m3u8_content(m3u8_url, output_file='artathens.m3u8'):
     try:
         r = requests.get(m3u8_url, headers=headers, timeout=10)
         r.raise_for_status()
-        lines = r.text.splitlines()
+        content = r.text
 
-        base_path = m3u8_url.rsplit("/", 1)[0]
+        # Αν είναι Master Playlist, βρίσκουμε αυτόματα το ενεργό chunklist
+        if "#EXT-X-STREAM-INF" in content:
+            print("[*] Master playlist detected. Resolving chunklist...")
+            lines = content.splitlines()
+            sub_playlist_url = None
+            
+            for i, line in enumerate(lines):
+                if "#EXT-X-STREAM-INF" in line:
+                    if i + 1 < len(lines):
+                        sub_playlist_url = lines[i + 1].strip()
+                        break
+            
+            if sub_playlist_url:
+                if not sub_playlist_url.startswith("http"):
+                    base_path = m3u8_url.rsplit("/", 1)[0]
+                    sub_playlist_url = urljoin(base_path + "/", sub_playlist_url)
+                
+                print(f"[*] Fetching sub-playlist: {sub_playlist_url}")
+                r = requests.get(sub_playlist_url, headers=headers, timeout=10)
+                r.raise_for_status()
+                content = r.text
+                base_path = sub_playlist_url.rsplit("/", 1)[0]
+            else:
+                base_path = m3u8_url.rsplit("/", 1)[0]
+        else:
+            base_path = m3u8_url.rsplit("/", 1)[0]
+
+        # Μετατροπή των σχετικών συνδέσμων σε απόλυτα URLs
+        lines = content.splitlines()
         modified_lines = []
         for line in lines:
             line = line.strip()
@@ -97,7 +124,7 @@ def save_m3u8_content(m3u8_url, output_file='artathens.m3u8'):
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write("\n".join(modified_lines))
 
-        print(f"[✔] Patched .m3u8 saved to: {output_file}")
+        print(f"[✔] Working chunklist .m3u8 saved to: {output_file}")
     except Exception as e:
         print(f"[!] Error saving .m3u8: {e}")
 
