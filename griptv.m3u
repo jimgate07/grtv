@@ -42,7 +42,7 @@ https://www.alphacyprus.com.cy/live#rmpPlayer|weballdig
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΥ
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV ΑΤΤΙΚΗΣ
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8 | https://www.arttv.info/p/art.html|webdig
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8 
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="bluesky" tvg-logo="https://i.imgur.com/mLrrVZn.png",BLUE SKY
