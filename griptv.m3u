@@ -60,15 +60,15 @@ https://live.streams.ovh/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="kontra" tvg-logo="https://i.imgur.com/Kny4NeR.png",KONTRA 
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
-webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
+https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/sqhqANh.png",DION TV
-https://rtmp.win:3650/live/diontvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | webview:https://diontv.gr/webtv/#main-content
+https://rtmp.win:3650/live/diontvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | https://diontv.gr/webtv/|weballdig
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/HNpbhdt.png",EURO TV
 https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pontostv" tvg-logo="https://i.imgur.com/ZSsXQ1G.png",PONTOS TV
-https://rtmp.win:3842/live/recme1live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0&Referer=https://rtmp.win/ | webview:https://pontostv.com/live-tv/#post-3998
+https://rtmp.win:3842/live/recme1live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0&Referer=https://rtmp.win/ | https://pontostv.com/live-tv/|weballdig
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8 | http://cdn5.smart-tv-data.com/local/gnomitv/manifest.mpd
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
