@@ -38,7 +38,7 @@ https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA ΚΥΠΡΟΥ  
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 | webview:https://www.omegatv.com.cy/live/#breadcrumbs | https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ   
-webview:https://www.alphacyprus.com.cy/live#rmpPlayer
+https://www.alphacyprus.com.cy/live#rmpPlayer|weballdig
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΥ
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV ΑΤΤΙΚΗΣ
