@@ -75,6 +75,34 @@ https://live.streams.ovh:8081/gnomitv/index.m3u8 | http://cdn5.smart-tv-data.com
 https://gwebstream.net/hls/master.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/YiVVg6n.png",DELTA TV
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://i.imgur.com/KO2JtRn.png",ENA CHANNEL
+https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8 | http://cdn5.smart-tv-data.com/local/ena_channel/mpeg.2ts | 
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="tileepiloges" tvg-logo="https://i.imgur.com/u1q4ABs.png",EPILOGES TV 
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET 
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8 | http://cdn.onestreaming.com/thrakinettv/thrakinettv/manifest.mpd
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="alfa" tvg-logo="https://i.imgur.com/K0uQd2V.png",ALFA
+https://av.hellasnet.tv/rst/alf/index.m3u8
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="centertv" tvg-logo="https://i.imgur.com/uV9m72n.png",CENTER TV
+https://eu1.streams.gr:8081/centertv/index.m3u8
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="starbe" tvg-logo="https://i.imgur.com/5kJDAkS.png",STAR B.E.
+https://gra1.crystalweb.net:1936/star/star/playlist.m3u8
+#EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/DbDvmup.png",AXELWOS TV
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+#EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="vimatv" tvg-logo="https://i.imgur.com/G7EbEYA.png",VIMA TV
+https://fr.crystalweb.net:1936/vima/vima/playlist.m3u8
+#EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/6PovX6q.png",EPIRUS TV1
+https://rtmp.win:3929/live/epiruslive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | webview:https://rtmp.fyi/live-stream-video-widget/epirus/
+#EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/IUDvUwa.png",ART TV (ΑΡΤΑΣ)
+https://rtmp.win:3218/live/arttvgr2live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://p1.dos.pm/ webview:https://p1.dos.pm/arttv/
+#EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="corfutv" tvg-logo="https://i.imgur.com/RacHLQU.png",CORFU CHANNEL
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="starttv" tvg-logo="https://i.imgur.com/PYYShEj.png",START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY  
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/MegaPlay.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
@@ -181,54 +209,12 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Re
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/DiamondChannel.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Lzkw32k.png",NET TV MUSIC
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NetTvMusic.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Naftemporiki.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="smiletv" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV 
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SmileGreece.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="risetv" tvg-logo="https://i.imgur.com/u3pNdGo.png",RISE TV (DELETED)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Rise.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="extrachannel" tvg-logo="https://i.imgur.com/0iJp6zg.png",EXTRA TV (DELETED)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/extra.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="epsilon" tvg-logo="https://i.imgur.com/xvNojLr.png",EPSILON TV (DELETED)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/epsilonathens.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/YiVVg6n.png",DELTA TV
-http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/YiVVg6n.png",DELTA TV (TEST)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Delta.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://i.imgur.com/KO2JtRn.png",ENA CHANNEL
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EnaChannel.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="tileepiloges" tvg-logo="https://i.imgur.com/u1q4ABs.png",EPILOGES TV 
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Epiloges.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/Z8vNJPM.png",THRAKINET 
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ThrakiNet.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="alfa" tvg-logo="https://i.imgur.com/K0uQd2V.png",ALFA
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Alfa.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="starbe" tvg-logo="https://i.imgur.com/5kJDAkS.png",STAR V.E.
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/tvstarfm.m3u8
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="centertv" tvg-logo="https://i.imgur.com/uV9m72n.png",CENTER TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/centertv.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Egnatia.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Pella.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="flashtv" tvg-logo="https://i.imgur.com/toF5zyo.png",FLASH TV (O)
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/Top_Channel_Greece.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL BUP
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/TopKozaniBUP.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="starttv" tvg-logo="https://i.imgur.com/PYYShEj.png",START TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/StartTv.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="corfutv" tvg-logo="https://i.imgur.com/RacHLQU.png",CORFU CHANNEL
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CorfuChannel.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/DbDvmup.png",AXELWOS TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AcheloosTv.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/IUDvUwa.png",ART TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ArtTvArtas.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/6PovX6q.png",EPIRUS TV1
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/EpirosTV1.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="vimatv" tvg-logo="https://i.imgur.com/G7EbEYA.png",VIMA TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Vima.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="besttv" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Best.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV
