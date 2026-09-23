@@ -25,13 +25,13 @@ def update_m3u8(output_file='artathens.m3u8'):
     for iframe in soup.find_all("iframe"):
         src = iframe.get("src", "")
         if "rumble.com" in src:
-            match = re.search(r'(?:embed/|v=)([a-zA-Z0-9]+)', src)
+            match = re.search(r'(?:embed/|v=)v?([a-zA-Z0-9]+)', src)
             if match:
                 embed_id = match.group(1)
                 break
 
     if not embed_id:
-        match = re.search(r'rumble\.com/(?:embed/|live-hls/)([a-zA-Z0-9]+)', r.text)
+        match = re.search(r'rumble\.com/(?:embed/|live-hls/)v?([a-zA-Z0-9]+)', r.text)
         if match:
             embed_id = match.group(1)
 
@@ -39,9 +39,13 @@ def update_m3u8(output_file='artathens.m3u8'):
         print("[!] Could not find any active Rumble ID on the page.")
         return
 
-    print(f"[✓] Found active Rumble ID: {embed_id}")
+    # Αφαίρεση τυχόν πρόθεσης 'v' αν υπάρχει στην αρχή (π.χ. v7clc2e -> 7clc2e)
+    if embed_id.startswith('v') and embed_id[1:].isalnum():
+        embed_id = embed_id[1:]
 
-    # Χρησιμοποιούμε το νέο επιτυχημένο μοτίβο σύνδεσης
+    print(f"[✓] Found active clean Rumble ID: {embed_id}")
+
+    # Χρησιμοποιούμε το σωστό URL χωρίς το 'v'
     hls_url = f"https://rumble.com/live-hls/{embed_id}/playlist.m3u8"
     print(f"[✓] Using stream URL: {hls_url}")
 
