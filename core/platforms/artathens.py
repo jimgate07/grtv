@@ -1,7 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-from urllib.parse import urljoin, quote
+import json
+from urllib.parse import urljoin
 
 def update_m3u8(output_file='artathens.m3u8'):
     main_url = "https://www.arttv.info/p/art.html"
@@ -39,27 +40,53 @@ def update_m3u8(output_file='artathens.m3u8'):
         print("[!] Could not find any active Rumble ID on the page.")
         return
 
-    # Αφαίρεση τυχόν 'v' στην αρχή
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
     print(f"[✓] Found active clean Rumble ID: {embed_id}")
 
-    target_hls_url = f"https://rumble.com/live-hls/{embed_id}/playlist.m3u8"
+    # Ανάγνωση της σελίδας embed του Rumble για να βρούμε το JSON configuration με τα σωστά URLs
+    embed_page_url = f"https://rumble.com/embed/{embed_id}/"
+    print(f"[*] Fetching Rumble embed config: {embed_page_url}")
     
-    # Χρησιμοποιούμε δωρεάν proxy (corsproxy.io) για να παρακάμψουμε το IP block του GitHub
-    proxied_url = f"https://corsproxy.io/?{quote(target_hls_url)}"
-    print(f"[✓] Using proxied stream URL: {target_hls_url}")
-
-    player_headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    embed_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Referer": "https://www.arttv.info/"
     }
 
     try:
-        r_m3u = requests.get(proxied_url, headers=player_headers, timeout=15)
+        r_embed = requests.get(embed_page_url, headers=embed_headers, timeout=10)
+        r_embed.raise_for_status()
+        
+        # Αναζήτηση για το m3u8 μέσα στο JS/JSON της σελίδας
+        hls_url = None
+        match_hls = re.search(r'"https?://[^"]+\.m3u8[^"]*"', r_embed.text)
+        if match_hls:
+            hls_url = json.loads(match_hls.group(0))
+        
+        if not hls_url:
+            # Εναλλακτικό pattern αν είναι σε άλλη μορφή μέσα στο script
+            match_hls_alt = re.search(r'https?://[^\s\'"]+\.m3u8[^\s\'"]*', r_embed.text)
+            if match_hls_alt:
+                hls_url = match_hls_alt.group(0)
+
+        if not hls_url:
+            # Fallback στο κλασικό pattern αν αποτύχει η ανίχνευση
+            hls_url = f"https://rumble.com/live-hls/{embed_id}/playlist.m3u8"
+
+        print(f"[✓] Resolved stream URL: {hls_url}")
+
+        # Κάνουμε request το m3u8 χρησιμοποιώντας standard headers
+        stream_headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Referer": embed_page_url,
+            "Origin": "https://rumble.com"
+        }
+
+        r_m3u = requests.get(hls_url, headers=stream_headers, timeout=10)
         r_m3u.raise_for_status()
         content = r_m3u.text
-        base_path = target_hls_url.rsplit("/", 1)[0]
+        base_path = hls_url.rsplit("/", 1)[0]
 
         # Αν είναι Master Playlist, διαβάζουμε το chunklist εσωτερικά
         if "#EXT-X-STREAM-INF" in content:
@@ -75,9 +102,8 @@ def update_m3u8(output_file='artathens.m3u8'):
                 if not sub_url.startswith("http"):
                     sub_url = urljoin(base_path + "/", sub_url)
                 
-                print(f"[*] Fetching proxied chunklist: {sub_url}")
-                proxied_sub_url = f"https://corsproxy.io/?{quote(sub_url)}"
-                r_sub = requests.get(proxied_sub_url, headers=player_headers, timeout=15)
+                print(f"[*] Fetching chunklist: {sub_url}")
+                r_sub = requests.get(sub_url, headers=stream_headers, timeout=10)
                 r_sub.raise_for_status()
                 content = r_sub.text
                 base_path = sub_url.rsplit("/", 1)[0]
@@ -99,10 +125,10 @@ def update_m3u8(output_file='artathens.m3u8'):
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write("\n".join(modified_lines))
 
-        print(f"[✔] Successfully updated {output_file} using ID: {embed_id} via Proxy!")
+        print(f"[✔] Successfully updated {output_file} using ID: {embed_id}!")
 
     except Exception as e:
-        print(f"[!] Error downloading m3u8 stream via proxy: {e}")
+        print(f"[!] Error fetching or parsing stream: {e}")
 
 if __name__ == "__main__":
     update_m3u8()
