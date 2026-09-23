@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from urllib.parse import urljoin, urlparse
+import json
 
 def find_all_m3u8_urls(page_url, depth=0, max_depth=3, visited=None):
     if visited is None:
@@ -11,46 +12,57 @@ def find_all_m3u8_urls(page_url, depth=0, max_depth=3, visited=None):
     visited.add(page_url)
 
     print(f"[{depth}] Scanning: {page_url}")
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://www.arttv.info/"
+    }
 
     try:
         response = requests.get(page_url, headers=headers, timeout=10)
         response.raise_for_status()
     except Exception as e:
-        print(f"   [!] Failed to fetch: {e}")
+        print(f"    [!] Failed to fetch: {e}")
         return []
 
     soup = BeautifulSoup(response.text, 'html.parser')
     found = set()
 
-    # Look for m3u8 URLs in scripts (normal and escaped)
+    script_texts = []
+    # Look for m3u8 URLs in scripts
     for script in soup.find_all("script"):
-        script_content = script.string or script.get_text()
+        content = script.string or script.get_text()
+        if content:
+            script_texts.append(content)
+            # Normal .m3u8 URLs
+            matches = re.findall(r'(https?://[^\s\'"]+\.m3u8)', content)
+            found.update(matches)
 
-        # Normal .m3u8 URLs
-        matches = re.findall(r'(https?://[^\s\'"]+\.m3u8)', script_content)
-        found.update(matches)
+            # Escaped .m3u8 URLs
+            escaped_matches = re.findall(r'https:\\/\\/[^\s\'"]+?\.m3u8', content)
+            for em in escaped_matches:
+                found.add(em.replace('\\/', '/'))
 
-        # Escaped .m3u8 URLs like https:\/\/rumble.com\/...\.m3u8
-        escaped_matches = re.findall(r'https:\\/\\/[^\s\'"]+?\.m3u8', script_content)
-        for em in escaped_matches:
-            unescaped = em.replace('\\/', '/')
-            found.add(unescaped)
+            # Rumble specific JSON parsing if present
+            if "rumble.com" in page_url or "embed" in page_url:
+                # Ψάχνουμε για JSON objects που περιέχουν .m3u8 σταθερές στα embeds του Rumble
+                json_matches = re.findall(r'["\'](https?://[^"\']+\.m3u8[^"\']*)["\']', content)
+                for jm in json_matches:
+                    found.add(jm.replace('\\/', '/'))
 
-    # Look for m3u8 URLs in <video><source>
+    # Look for m3u8 in video tags
     for video in soup.find_all("video"):
         for source in video.find_all("source"):
             src = source.get("src")
             if src and ".m3u8" in src:
                 found.add(urljoin(page_url, src))
 
-    # Look for direct links to .m3u8 files
+    # Look for direct links
     for a in soup.find_all("a", href=True):
         href = a["href"]
         if ".m3u8" in href:
             found.add(urljoin(page_url, href))
 
-    # Recursively scan iframes
+    # Recursively scan iframes (π.χ. Rumble embed)
     for iframe in soup.find_all("iframe"):
         iframe_src = iframe.get("src")
         if iframe_src:
@@ -60,15 +72,16 @@ def find_all_m3u8_urls(page_url, depth=0, max_depth=3, visited=None):
     return list(found)
 
 def save_m3u8_content(m3u8_url, output_file='artathens.m3u8'):
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://rumble.com/"
+    }
     try:
-        r = requests.get(m3u8_url, headers=headers)
+        r = requests.get(m3u8_url, headers=headers, timeout=10)
         r.raise_for_status()
         lines = r.text.splitlines()
 
-        parsed_url = urlparse(m3u8_url)
         base_path = m3u8_url.rsplit("/", 1)[0]
-
         modified_lines = []
         for line in lines:
             line = line.strip()
@@ -81,7 +94,7 @@ def save_m3u8_content(m3u8_url, output_file='artathens.m3u8'):
             else:
                 modified_lines.append(line)
 
-        with open(output_file, 'w') as f:
+        with open(output_file, 'w', encoding='utf-8') as f:
             f.write("\n".join(modified_lines))
 
         print(f"[✔] Patched .m3u8 saved to: {output_file}")
@@ -97,8 +110,6 @@ if __name__ == "__main__":
         print(f"\n[✓] Found {len(m3u8_urls)} m3u8 URL(s):")
         for i, url in enumerate(m3u8_urls, 1):
             print(f"  {i}. {url}")
-
-        # Save the first one
         save_m3u8_content(m3u8_urls[0])
     else:
         print("\n[x] No .m3u8 URLs found.")
