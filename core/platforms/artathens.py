@@ -1,26 +1,26 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-from urllib.parse import urljoin, quote
+from urllib.parse import urljoin
 
 def update_m3u8(output_file='artathens.m3u8'):
-    target_url = "https://www.arttv.info/p/art.html"
-    # Χρησιμοποιούμε το allorigins proxy για να διαβάσουμε τη σελίδα χωρίς να μας μπλοκάρει
-    proxy_url = f"https://api.allorigins.win/get?url={quote(target_url)}"
+    main_url = "https://www.arttv.info/p/art.html"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    }
 
-    print(f"[*] Fetching page via proxy: {target_url}")
+    print(f"[*] Fetching main page: {main_url}")
     try:
-        r = requests.get(proxy_url, timeout=15)
+        r = requests.get(main_url, headers=headers, timeout=10)
         r.raise_for_status()
-        data = r.json()
-        html_content = data.get("contents", "")
+        html_content = r.text
     except Exception as e:
-        print(f"[!] Failed to fetch main page via proxy: {e}")
+        print(f"[!] Failed to fetch main page: {e}")
         return
 
     soup = BeautifulSoup(html_content, 'html.parser')
     
-    # Εντοπισμός του Rumble ID
+    # Εντοπισμός του Rumble ID από τη σελίδα
     embed_id = None
     for iframe in soup.find_all("iframe"):
         src = iframe.get("src", "")
@@ -35,24 +35,28 @@ def update_m3u8(output_file='artathens.m3u8'):
         if match:
             embed_id = match.group(1)
 
+    # Fallback αν δεν το βρει δυναμικά, βάζουμε το τελευταίο γνωστό ενεργό ID για να μη σταματάει ποτέ
     if not embed_id:
-        print("[!] Could not find any active Rumble ID on the page.")
-        return
+        embed_id = "7clc2e"
+        print("[!] Using fallback Rumble ID.")
 
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
-    print(f"[✓] Found active clean Rumble ID: {embed_id}")
+    print(f"[✓] Using clean Rumble ID: {embed_id}")
 
-    # Αφού βρήκαμε το ID, κατασκευάζουμε το m3u8 link
+    # Δοκιμάζουμε το live-hls URL με headers που μιμούνται browser
     hls_url = f"https://rumble.com/live-hls/{embed_id}/playlist.m3u8"
     print(f"[✓] Using stream URL: {hls_url}")
 
-    # Για να κατεβάσουμε το m3u8 αρχείο, χρησιμοποιούμε έναν εναλλακτικό m3u8 proxy (thingproxy)
-    proxied_hls = f"https://thingproxy.freeboard.io/fetch/{hls_url}"
+    stream_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Origin": "https://rumble.com",
+        "Referer": f"https://rumble.com/embed/{embed_id}/"
+    }
 
     try:
-        r_m3u = requests.get(proxied_hls, timeout=15)
+        r_m3u = requests.get(hls_url, headers=stream_headers, timeout=15)
         r_m3u.raise_for_status()
         content = r_m3u.text
         base_path = hls_url.rsplit("/", 1)[0]
@@ -72,13 +76,12 @@ def update_m3u8(output_file='artathens.m3u8'):
                     sub_url = urljoin(base_path + "/", sub_url)
                 
                 print(f"[*] Fetching chunklist: {sub_url}")
-                proxied_sub = f"https://thingproxy.freeboard.io/fetch/{sub_url}"
-                r_sub = requests.get(proxied_sub, timeout=15)
+                r_sub = requests.get(sub_url, headers=stream_headers, timeout=15)
                 r_sub.raise_for_status()
                 content = r_sub.text
                 base_path = sub_url.rsplit("/", 1)[0]
 
-        # Μετατροπή σχετικών paths σε từλυτα URLs
+        # Μετατροπή σχετικών paths σε απόλυτα URLs
         lines = content.splitlines()
         modified_lines = []
         for line in lines:
@@ -98,7 +101,7 @@ def update_m3u8(output_file='artathens.m3u8'):
         print(f"[✔] Successfully updated {output_file} using ID: {embed_id}!")
 
     except Exception as e:
-        print(f"[!] Error downloading m3u8 stream via proxy: {e}")
+        print(f"[!] Error downloading m3u8 stream: {e}")
 
 if __name__ == "__main__":
     update_m3u8()
