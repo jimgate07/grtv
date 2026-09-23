@@ -8,7 +8,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8 | https://702e
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ΕΡΤ NEWS HD
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8 | http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts | http://195.226.218.163/vid/ertnews/mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-webview:https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670
+webview:https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670 | https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670|weballdig
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",ΣΚΑΪ HD 
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8 | https://skai-live-gr.siliconweb.com/media/cambria4/index.m3u8 | https://skai-live-gr-cy.siliconweb.com/media/cambria4/index.m3u8 | https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|license_type=clearkey&license_key=bd2b9942dc1e45548fe68bbd53aa2f6b:700a8a4e84859fef47ec77baac3b279c&stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36}
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
@@ -64,11 +64,11 @@ https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/bro
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/sqhqANh.png",DION TV
-https://rtmp.win:3650/live/diontvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | https://diontv.gr/webtv/|weballdig
+https://rtmp.win:3650/live/diontvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | https://rtmp.fyi/live-stream-video-widget/diontv/|weballdig
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/HNpbhdt.png",EURO TV
 https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pontostv" tvg-logo="https://i.imgur.com/ZSsXQ1G.png",PONTOS TV
-https://rtmp.win:3842/live/recme1live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0&Referer=https://rtmp.win/ | https://pontostv.com/live-tv/|weballdig
+https://rtmp.win:3842/live/recme1live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0&Referer=https://rtmp.win/ | https://rtmp.fyi/live-stream-video-widget/recme1/|weballdig
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8 | http://cdn5.smart-tv-data.com/local/gnomitv/manifest.mpd
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
