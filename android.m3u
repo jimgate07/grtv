@@ -141,6 +141,22 @@ https://live.streams.ovh/hightv/hightv/playlist.m3u8
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
 webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/sqhqANh.png",DION TV
+https://rtmp.win:3650/live/diontvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/HNpbhdt.png",EURO TV
+https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pontostv" tvg-logo="https://i.imgur.com/ZSsXQ1G.png",PONTOS TV
+https://rtmp.win:3842/live/recme1live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0&Referer=https://rtmp.win/
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV BUP
+http://cdn5.smart-tv-data.com/local/gnomitv/manifest.mpd
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
+https://gwebstream.net/hls/master.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="centertv" tvg-logo="https://i.imgur.com/uV9m72n.png",CENTER TV
 https://eu1.streams.gr:8081/centertv/index.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="starbe" tvg-logo="https://i.imgur.com/5kJDAkS.png",STAR V.E.
@@ -161,14 +177,6 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 http://cdn.onestreaming.com/thrakinettv/thrakinettv/manifest.mpd
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="alfa" tvg-logo="https://i.imgur.com/K0uQd2V.png",ALFA 
 https://av.hellasnet.tv/rst/alf/index.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV
-http://verginanews.gr:8080/hls_live/stream1.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/sqhqANh.png",DION TV
-https://rtmp.win:3650/live/diontvlive.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/HNpbhdt.png",EURO TV
-https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pontostv" tvg-logo="https://i.imgur.com/ZSsXQ1G.png",PONTOS TV
-https://rtmp.win:3842/live/recme1live.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV BUP 
@@ -177,16 +185,6 @@ https://cdn5.smart-tv-data.com/local/egnatiatv_i/manifest.mpd
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV BUP
 https://cdn5.smart-tv-data.com/local/pellatv_i/manifest.mpd
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV
-https://live.streams.ovh:8081/gnomitv/index.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV BUP
-http://cdn5.smart-tv-data.com/local/gnomitv/manifest.mpd
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
-https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
-http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E BUP (O)
-https://cdn5.smart-tv-data.com/local/tv4e/manifest.mpd
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL BUP
