@@ -20,7 +20,7 @@ def update_m3u8(output_file='artathens.m3u8'):
 
     soup = BeautifulSoup(r.text, 'html.parser')
     
-    # Εντοπισμός του Rumble ID από τα iframes ή τον κώδικα της σελίδας
+    # Εντοπισμός του Rumble ID
     embed_id = None
     for iframe in soup.find_all("iframe"):
         src = iframe.get("src", "")
@@ -39,19 +39,28 @@ def update_m3u8(output_file='artathens.m3u8'):
         print("[!] Could not find any active Rumble ID on the page.")
         return
 
-    # Αφαίρεση τυχόν πρόθεσης 'v' αν υπάρχει στην αρχή (π.χ. v7clc2e -> 7clc2e)
+    # Αφαίρεση τυχόν 'v' στην αρχή
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
     print(f"[✓] Found active clean Rumble ID: {embed_id}")
 
-    # Χρησιμοποιούμε το σωστό URL χωρίς το 'v'
     hls_url = f"https://rumble.com/live-hls/{embed_id}/playlist.m3u8"
     print(f"[✓] Using stream URL: {hls_url}")
 
+    # Πλήρη headers browser για να παρακάμψουμε το 403 Forbidden
     player_headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Referer": "https://rumble.com/"
+        "Accept": "*/*",
+        "Accept-Language": "el-GR,el;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Origin": "https://rumble.com",
+        "Referer": f"https://rumble.com/embed/{embed_id}/",
+        "Sec-Ch-Ua": '"Chromium";v="122", "Not(A:Brand";v="8", "Google Chrome";v="122"',
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": '"Windows"',
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin"
     }
 
     try:
@@ -80,7 +89,7 @@ def update_m3u8(output_file='artathens.m3u8'):
                 content = r_sub.text
                 base_path = sub_url.rsplit("/", 1)[0]
 
-        # Μετατροπή σχετικών paths σε απόλυτα URLs για να παίζει απροβλημάτιστα
+        # Μετατροπή σχετικών paths σε απόλυτα URLs
         lines = content.splitlines()
         modified_lines = []
         for line in lines:
