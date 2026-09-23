@@ -1,123 +1,92 @@
 import requests
-from bs4 import BeautifulSoup
-import re
-from urllib.parse import urljoin, urlparse
 import json
+from urllib.parse import urljoin
 
-def find_all_m3u8_urls(page_url, depth=0, max_depth=3, visited=None):
-    if visited is None:
-        visited = set()
-    if page_url in visited or depth > max_depth:
-        return []
-    visited.add(page_url)
-
-    print(f"[{depth}] Scanning: {page_url}")
+def get_rumble_live_m3u8(embed_id="v7clc2e", output_file='artathens.m3u8'):
+    # Το Rumble χρησιμοποιεί ένα JSON API για να φορτώσει τα δεδομένα του player στα embeds
+    api_url = f"https://rumble.com/embedJS/u3/?request=video&v={embed_id}"
     
-    # Εμπλουτισμένα headers για να μην μας μπλοκάρει το Rumble (403 Forbidden)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-        "Accept-Language": "el-GR,el;q=0.9,en-US;q=0.8,en;q=0.7",
-        "Referer": "https://www.arttv.info/",
-        "Sec-Ch-Ua": '"Chromium";v="122", "Not(A:Brand";v="8", "Google Chrome";v="122"',
-        "Sec-Ch-Ua-Mobile": "?0",
-        "Sec-Ch-Ua-Platform": '"Windows"',
-        "Sec-Fetch-Dest": "iframe",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Fetch-Site": "cross-site"
+        "Referer": f"https://rumble.com/embed/{embed_id}/"
     }
 
+    print(f"[*] Requesting Rumble API for video: {embed_id}")
     try:
-        response = requests.get(page_url, headers=headers, timeout=10)
+        response = requests.get(api_url, headers=headers, timeout=10)
         response.raise_for_status()
-    except Exception as e:
-        print(f"    [!] Failed to fetch: {e}")
-        return []
+        
+        data = response.json()
+        
+        # Εντοπισμός των διαθέσιμων ροών (HLS streams) στο JSON response
+        # Το Rumble συνήθως αποθηκεύει τα links στο πεδίο 'ua' -> 'hls' ή 'live'
+        plex_data = data.get("ua", {})
+        hls_url = None
+        
+        # Ψάχνουμε σταδιακά για το hls link μέσα στο JSON
+        if "hls" in plex_data:
+            hls_data = plex_data["hls"]
+            if isinstance(hls_data, dict):
+                # Παίρνουμε το url από το dictionary (π.χ. αν έχει αναλύσεις)
+                for key, val in hls_data.items():
+                    if isinstance(val, dict) and "url" in val:
+                        hls_url = val["url"]
+                        break
+                    elif isinstance(val, str) and val.endswith(".m3u8"):
+                        hls_url = val
+                        break
+            elif isinstance(hls_data, str):
+                hls_url = hls_data
 
-    soup = BeautifulSoup(response.text, 'html.parser')
-    found = set()
+        # Αν δεν το βρούμε εκεί, ψάχνουμε γενικά στα ορατά πεδία
+        if not hls_url and "meta" in data and "icast" in data["meta"]:
+            hls_url = data["meta"]["icast"]
 
-    script_texts = []
-    # Look for m3u8 URLs in scripts
-    for script in soup.find_all("script"):
-        content = script.string or script.get_text()
-        if content:
-            script_texts.append(content)
-            # Normal .m3u8 URLs
-            matches = re.findall(r'(https?://[^\s\'"]+\.m3u8)', content)
-            found.update(matches)
+        if not hls_url:
+            # Δοκιμή εναλλακτικού σημείου στο JSON
+            text_data = response.text
+            import re
+            m3u8_matches = re.findall(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', text_data)
+            if m3u8_matches:
+                hls_url = m3u8_matches[0]
 
-            # Escaped .m3u8 URLs
-            escaped_matches = re.findall(r'https:\\/\\/[^\s\'"]+?\.m3u8', content)
-            for em in escaped_matches:
-                found.add(em.replace('\\/', '/'))
+        if not hls_url:
+            print("[!] Could not extract HLS url from Rumble API JSON.")
+            return
 
-            # Rumble specific JSON parsing if present
-            if "rumble.com" in page_url or "embed" in page_url:
-                json_matches = re.findall(r'["\'](https?://[^"\']+\.m3u8[^"\']*)["\']', content)
-                for jm in json_matches:
-                    found.add(jm.replace('\\/', '/'))
+        print(f"[✓] Found Master/Stream URL: {hls_url}")
 
-    # Look for m3u8 in video tags
-    for video in soup.find_all("video"):
-        for source in video.find_all("source"):
-            src = source.get("src")
-            if src and ".m3u8" in src:
-                found.add(urljoin(page_url, src))
+        # Κατεβάζουμε το m3u8 περιεχόμενο
+        r_m3u = requests.get(hls_url, headers=headers, timeout=10)
+        r_m3u.raise_for_status()
+        content = r_m3u.text
 
-    # Look for direct links
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if ".m3u8" in href:
-            found.add(urljoin(page_url, href))
-
-    # Recursively scan iframes (π.χ. Rumble embed)
-    for iframe in soup.find_all("iframe"):
-        iframe_src = iframe.get("src")
-        if iframe_src:
-            iframe_url = urljoin(page_url, iframe_src)
-            found.update(find_all_m3u8_urls(iframe_url, depth + 1, max_depth, visited))
-
-    return list(found)
-
-def save_m3u8_content(m3u8_url, output_file='artathens.m3u8'):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Referer": "https://rumble.com/"
-    }
-    try:
-        r = requests.get(m3u8_url, headers=headers, timeout=10)
-        r.raise_for_status()
-        content = r.text
-
-        # Αν είναι Master Playlist, βρίσκουμε αυτόματα το ενεργό chunklist
+        # Αν είναι Master Playlist, απομονώνουμε το chunklist για να παίζει απροβλημάτιστα
         if "#EXT-X-STREAM-INF" in content:
             print("[*] Master playlist detected. Resolving chunklist...")
             lines = content.splitlines()
-            sub_playlist_url = None
-            
+            sub_url = None
             for i, line in enumerate(lines):
-                if "#EXT-X-STREAM-INF" in line:
-                    if i + 1 < len(lines):
-                        sub_playlist_url = lines[i + 1].strip()
-                        break
+                if "#EXT-X-STREAM-INF" in line and i + 1 < len(lines):
+                    sub_url = lines[i + 1].strip()
+                    break
             
-            if sub_playlist_url:
-                if not sub_playlist_url.startswith("http"):
-                    base_path = m3u8_url.rsplit("/", 1)[0]
-                    sub_playlist_url = urljoin(base_path + "/", sub_playlist_url)
+            if sub_url:
+                if not sub_url.startswith("http"):
+                    base_path = hls_url.rsplit("/", 1)[0]
+                    sub_url = urljoin(base_path + "/", sub_url)
                 
-                print(f"[*] Fetching sub-playlist: {sub_playlist_url}")
-                r = requests.get(sub_playlist_url, headers=headers, timeout=10)
-                r.raise_for_status()
-                content = r.text
-                base_path = sub_playlist_url.rsplit("/", 1)[0]
+                print(f"[*] Fetching chunklist: {sub_url}")
+                r_sub = requests.get(sub_url, headers=headers, timeout=10)
+                r_sub.raise_for_status()
+                content = r_sub.text
+                base_path = sub_url.rsplit("/", 1)[0]
             else:
-                base_path = m3u8_url.rsplit("/", 1)[0]
+                base_path = hls_url.rsplit("/", 1)[0]
         else:
-            base_path = m3u8_url.rsplit("/", 1)[0]
+            base_path = hls_url.rsplit("/", 1)[0]
 
-        # Μετατροπή των σχετικών συνδέσμων σε απόλυτα URLs
+        # Μετατροπή σχετικών paths σε απόλυτα URLs
         lines = content.splitlines()
         modified_lines = []
         for line in lines:
@@ -131,22 +100,15 @@ def save_m3u8_content(m3u8_url, output_file='artathens.m3u8'):
             else:
                 modified_lines.append(line)
 
+        # Αποθήκευση στο αρχείο
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write("\n".join(modified_lines))
 
-        print(f"[✔] Working chunklist .m3u8 saved to: {output_file}")
+        print(f"[✔] Successfully updated {output_file}!")
+
     except Exception as e:
-        print(f"[!] Error saving .m3u8: {e}")
+        print(f"[!] Error fetching from Rumble API: {e}")
 
 if __name__ == "__main__":
-    start_url = "https://www.arttv.info/p/art.html"
-    print(f"[*] Starting scan at: {start_url}")
-    m3u8_urls = find_all_m3u8_urls(start_url)
-
-    if m3u8_urls:
-        print(f"\n[✓] Found {len(m3u8_urls)} m3u8 URL(s):")
-        for i, url in enumerate(m3u8_urls, 1):
-            print(f"  {i}. {url}")
-        save_m3u8_content(m3u8_urls[0])
-    else:
-        print("\n[x] No .m3u8 URLs found.")
+    # Το ID του βίντεο από το iframe σου (v7clc2e)
+    get_rumble_live_m3u8(embed_id="v7clc2e")
