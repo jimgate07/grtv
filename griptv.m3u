@@ -96,7 +96,7 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="vimatv" tvg-logo="https://i.imgur.com/G7EbEYA.png",VIMA TV
 https://fr.crystalweb.net:1936/vima/vima/playlist.m3u8
 #EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/6PovX6q.png",EPIRUS TV1
-https://rtmp.win:3929/live/epiruslive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | https://www.epirustv1.eu/|weballdig
+https://rtmp.win:3929/live/epiruslive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | https://rtmp.fyi/live-stream-video-widget/epirus/|weballdig
 #EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/IUDvUwa.png",ART TV (ΑΡΤΑΣ)
 https://rtmp.win:3218/live/arttvgr2live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://p1.dos.pm/ | https://p1.dos.pm/arttv/|weballdig
 #EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="corfutv" tvg-logo="https://i.imgur.com/RacHLQU.png",CORFU CHANNEL
