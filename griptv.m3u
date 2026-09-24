@@ -16,7 +16,7 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/open.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8 | https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8 | https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8 | https://emb.apl614.online/player/live.php?id=253248|weballdig
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8 | https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8 | https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD
