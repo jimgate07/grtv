@@ -163,8 +163,8 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-ucdn.broadpeak-
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8 | webview:https://www.youtube.com/channel/UC8HJZNfDPoySgW9DN3YGNaA/live
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS🇬🇧 
 webview:https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW
+#EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW
 http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts | https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
+#EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts | https://europe.tv5monde.com/fr/direct?timezone=Europe/Athens|weballdig
 
