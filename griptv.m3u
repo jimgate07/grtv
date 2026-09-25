@@ -171,4 +171,51 @@ webview:https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts | https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts | https://europe.tv5monde.com/fr/direct?timezone=Europe/Athens|weballdig
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
+https://www.mad.gr/mad-tv-player/|weballdig | https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/Xb4XJfz.png",PANIK TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Atx17Wm.png",KISS TV
+https://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iyNbA8N.png",NRG TV
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XkjxWv8.png",KLIK TV
+http://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV HD Greek Hits
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV RELAX
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA TV DJ MUSIC
+https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA LAIKA
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA MUSIC
+https://media2.streambrothers.com:19360/jrmrzudjpv/jrmrzudjpv.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA 80S
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/NlN4lmc.png",BARAZA DEEP HOUSE
+https://i6.streams.ovh/sc/barazar1/stream
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/HmxMZOd.png",REAL MUSIC TV
+https://webtv.topwebhost.gr:3302/stream/play.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO
+https://fr.crystalweb.net:1936/radioeirhnhtv/radioeirhnhtv/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0jPdDL.png",MESSINIA TV
+https://rtmp.win:3373/live/messiniatvlive.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FpC0lD9.png",RED MUSIC
+https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fvAedfp.png",HOTBEATS TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/hotbeatstv.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/auTJGLo.png",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PcqyEMT.png",NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Oc20zmZ.png",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ly7PBye.png",V2BEAT LIVE
+http://de1se01.v2beat.live/playlist.m3u8
+
+
+
+
+
 
