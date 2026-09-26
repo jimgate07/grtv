@@ -23,24 +23,24 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="vouli" tvg-logo="https://i.imgur.com/RJ5KBOl.png",ΒΟΥΛΗ 
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8 | https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1 (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
-https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
-http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
-http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1
+http://213.7.216.229:8888/udp/239.23.0.1:1234 | https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2
+http://213.7.216.229:8888/udp/239.23.0.2:1234 | http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD
+http://213.7.216.229:8888/udp/239.23.0.5:1234 | http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT 
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ  
-http://sl2.sigmatv.com/hls/live.m3u8 | https://sl3.sigmatv.com/hls/live.m3u8 | https://ottstream4.primetel.com.cy/streaming-web/SigmaLive/playlist.m3u8 | https://sl1.sigmatv.com/hls/live.m3u8
+http://sl2.sigmatv.com/hls/live.m3u8 | https://sl3.sigmatv.com/hls/live.m3u8 | https://ottstream4.primetel.com.cy/streaming-web/SigmaLive/playlist.m3u8 | https://sl1.sigmatv.com/hls/live.m3u8 | http://213.7.216.229:8888/udp/239.23.6.3:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 ΚΥΠΡΟΥ
-https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.6.1:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA ΚΥΠΡΟΥ  
-https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 | https://www.omegatv.com.cy/live/|weballdig
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.6.2:1234 | https://www.omegatv.com.cy/live/|weballdig
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ   
 https://www.alphacyprus.com.cy/live#rmpPlayer|weballdig
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΥ
-https://verginanews.gr:8443/hls_live/stream2.m3u8
+https://verginanews.gr:8443/hls_live/stream2.m3u8 | http://213.7.216.229:8888/udp/239.23.5.1:1234
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV ΑΤΤΙΚΗΣ
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT
@@ -271,6 +271,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
+#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jFVVQW0.png",ΙΩΝΙΑ TV 
+https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
