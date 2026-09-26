@@ -36,7 +36,7 @@ http://sl2.sigmatv.com/hls/live.m3u8 | https://sl3.sigmatv.com/hls/live.m3u8 | h
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 ΚΥΠΡΟΥ
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.6.1:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA ΚΥΠΡΟΥ  
-https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.6.2:1234 | https://www.omegatv.com.cy/live/|weballdig
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 | https://www.omegatv.com.cy/live/|weballdig
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ   
 https://www.alphacyprus.com.cy/live#rmpPlayer|weballdig
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΥ
