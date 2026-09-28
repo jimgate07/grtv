@@ -122,7 +122,7 @@ https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 group-title="🏺ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-id="super" tvg-logo="https://i.imgur.com/64TY2mT.png",SUPER TV (MONO TO ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ)
 webview:https://www.youtube.com/channel/UC4OD3anBwEt0N_gYmkmrtJQ/live
 #EXTINF:-1 group-title="🌾ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/tqolXjD.png",THESSALIA TV
-https://thessaliachannel.gr:3871/live/thesstvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://live.thessaliatv.gr/ | https://www.thessaliatv.gr/live/|weballdig
+https://www.thessaliatv.gr/live/|weballdig
 #EXTINF:-1 group-title="🌾ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/dldI5FS.png",ASTRA TV
 https://server.gointernet.gr/live/livestream.m3u8 | https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="🌾ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/3xGuBm6.png",TRT TV
@@ -327,20 +327,34 @@ http://65.108.62.57:8080/live/greektv1.m3u8 | https://live20.bozztv.com/akamaiss
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-fd464078-9c51-453a-b3c5-3f512cc5faa7/index.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/BI2ThMA.png",VOULI TV ΚΥΠΡΟΥ
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="📺WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
+https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",XYLAGANI TV
+https://fr.crystalweb.net:1936/xiylaganiparadosi/xiylaganiparadosi/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",XALASTRA TV
+https://alpha.streamhub.gr/tv/hls/MWAF31fK8gUQ74QsNYoZI1Ld9NPtyrzm/playlist.m3u8?prefer=live
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/o3iEgej.png",GRD CHANNEL
+https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/l4UooS6.png",NOTIOI TV
+https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/xGZpaAZ.png",NS TV
+https://rtmp.win:3882/live/nstv7live.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/niUXigD.png",HELLENIC TV
+http://188.227.164.31/tsstreamer/Hellenic_SD.ts | http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/acHtejH.png",CITY TV ΚΥΠΡΟΥ 
+https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/city_channel.html
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS ΚΥΠΡΟΥ
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/rV3HgwF.png",IME WEB TV
+https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV CY
+https://s1.cystream.net/live/faros1/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/vsa7Ctf.png",FAROS TV2 CY
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/DR7PMx6.png",DESTINATION GREECE
+https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/cTWhIMF.png",EVRIPOS NEWS
+https://media2.streambrothers.com:1936/8328/8328/playlist.m3u8
 
 
 
