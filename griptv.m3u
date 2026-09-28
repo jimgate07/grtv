@@ -28,7 +28,7 @@ http://213.7.216.229:8888/udp/239.23.0.1:1234 | https://l6.cloudskep.com/rikct/r
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2
 http://213.7.216.229:8888/udp/239.23.0.2:1234 | http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD
-http://213.7.216.229:8888/udp/239.23.0.5:1234 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8 
+http://213.7.216.229:8888/udp/239.23.0.5:1234 | http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8 
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT 
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ  
