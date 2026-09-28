@@ -20,26 +20,37 @@ def update_m3u8(output_file='artathens.m3u8'):
     soup = BeautifulSoup(html_content, 'html.parser')
     
     embed_id = None
+    
+    # 1. Ψάχνουμε σε όλα τα iframes
     for iframe in soup.find_all("iframe"):
         src = iframe.get("src", "")
+        print(f"[-] Checking iframe src: {src}")
         if "rumble.com" in src:
             match = re.search(r'(?:embed/|v=)v?([a-zA-Z0-9]+)', src)
             if match:
                 embed_id = match.group(1)
                 break
 
+    # 2. Αν δεν βρέθηκε, ψάχνουμε παντού στο κείμενο της σελίδας για rumble links
     if not embed_id:
-        match = re.search(r'rumble\.com/(?:embed/|live-hls/)v?([a-zA-Z0-9]+)', html_content)
-        if match:
-            embed_id = match.group(1)
+        matches = re.findall(r'rumble\.com/(?:embed/|live-hls/|v/)v?([a-zA-Z0-9]+)', html_content)
+        if matches:
+            embed_id = matches[0]
+
+    # 3. Τελευταία προσπάθεια: αναζήτηση για οποιοδήποτε script/url που περιέχει rumble
+    if not embed_id:
+        match_alt = re.search(r'rumble\.com/.*?([a-zA-Z0-9]{5,8})', html_content)
+        if match_alt:
+            embed_id = match_alt.group(1)
 
     if not embed_id:
-        embed_id = "7clc2e"
+        print("[!] Warning: Could not detect any Rumble ID on the page! Keeping previous or fallback.")
+        embed_id = "7clc2e" # Βάλε εδώ προσωρινά το νεο ID αν το ξέρεις χειροκίνητα
 
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
-    print(f"[✓] Clean ID found: {embed_id}")
+    print(f"[✓] Final detected ID: {embed_id}")
 
     stream_url = f"https://rumble.com/live-hls/{embed_id}/playlist.m3u8"
 
