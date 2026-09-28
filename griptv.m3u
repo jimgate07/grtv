@@ -24,11 +24,11 @@ https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="vouli" tvg-logo="https://i.imgur.com/RJ5KBOl.png",ΒΟΥΛΗ 
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8 | https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1
-http://213.7.216.229:8888/udp/239.23.0.1:1234 | https://l6.cloudskep.com/rikct/rik1/playlist.m3u8 | http://31.121.110.30:4000/play/a023/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://l6.cloudskep.com/rikct/rik1/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.0.1:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2
-http://213.7.216.229:8888/udp/239.23.0.2:1234 | http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.0.2:1234 
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD
-http://213.7.216.229:8888/udp/239.23.0.5:1234 | http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.0.5:1234 
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT 
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA ΚΥΠΡΟΥ  
@@ -293,3 +293,60 @@ https://mcv.streams.gr/stream/agiosioannistheologoslivetv/index.m3u8
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8 | https://cdn5.smart-tv-data.com/local/egnatiatv_i/manifest.mpd
+#EXTINF:-1 group-title="📺WEB TV" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8 | https://cdn5.smart-tv-data.com/local/pellatv_i/manifest.mpd
+#EXTINF:-1 group-title="📺WEB TV" tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/JCVqMzP.png",RODOPI TV
+https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV"  tvg-logo="https://i.imgur.com/bvEkbRI.png",PAME STOXIMA RACING (ΙΠΠΟΔΡΟΜΙΕΣ)
+https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
+#EXTINF:-1 group-title="📺WEB TV"  tvg-logo="https://i.imgur.com/Jtc6poN.png",ΟΠΑΠ TV
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-name="FTV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/NF9kTdg.png",NOTOS TV
+https://video.streams.ovh:8081/notos/index.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV
+https://fr.crystalweb.net:1936/marontv/marontv/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ED TV
+https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/1RC5xy4.png",XPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/5dBF1Qf.png",MONTREAL GREEK TV
+https://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV
+http://alex9954094.ddns.net:2052/test/test/93
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/nZfM2Dx.png",STENT TV
+https://stent-web-tv.b-cdn.net/hls/web/index.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/A3IpEhj.png",GREEK VOICE
+http://65.108.62.57:8080/live/greektv1.m3u8 | https://live20.bozztv.com/akamaissh101/ssh101/greektv/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/AIBdeGl.png",GREEK USA TV
+https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-fd464078-9c51-453a-b3c5-3f512cc5faa7/index.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/BI2ThMA.png",VOULI TV ΚΥΠΡΟΥ
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
