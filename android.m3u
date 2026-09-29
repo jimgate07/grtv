@@ -463,3 +463,9 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cTWhIMF.png",EVRIPOS NEWS
 https://media2.streambrothers.com:1936/8328/8328/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/lXjvUkz.png",GREECE 24
+https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xRh3LHo.png",CHANNEL 8
+https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/4YoEAIe.png",ESCAPE TV
+https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
