@@ -370,6 +370,6 @@ https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/4YoEAIe.png",ESCAPE TV
 https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/4YoEAIe.png",test
-https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-1
+webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-1
 
 
