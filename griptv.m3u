@@ -22,7 +22,7 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="vouli" tvg-logo="https://i.imgur.com/RJ5KBOl.png",ΒΟΥΛΗ 
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8 | https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
+https://ert-live.ascdn.broadpeak.io/bpk-tv/VOULITV/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8 | https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1
 http://213.7.216.229:8888/udp/239.23.0.1:1234 | https://l6.cloudskep.com/rikct/rik1/playlist.m3u8 
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2
@@ -162,13 +162,13 @@ https://cdn.istoikona.com/aeolostv/live/playlist.m3u8 | https://cdn5.smart-tv-da
 #EXTINF:-1 group-title="⚓️Β.Α. ΑΙΓΑΙΟΥ" tvg-name="alithiatv" tvg-logo="https://i.imgur.com/oI0KCOA.png",ALITHIA TV (17:00-00:00)
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8 | http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8 | http://213.7.216.229:8888/udp/239.23.0.3:1234
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8 | http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8 | http://213.7.216.229:8888/udp/239.23.0.3:1234
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS (ΚΥΠΡΟΥ)
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR INTERNATIONAL 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT 
-https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/RIK/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8 |  https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS🇬🇷
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8 | webview:https://www.youtube.com/channel/UC8HJZNfDPoySgW9DN3YGNaA/live | http://213.7.216.229:8888/udp/239.23.0.4:1234
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS🇬🇧 
@@ -238,7 +238,7 @@ https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8 | http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts | http://195.226.218.167/mega/meganews/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",EΡΤ NEWS NOHMATIKH
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews_Sign/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/bh6hLBo.png",ΕΡΤ NEWS 2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ΕΡΤ NEWS 3
@@ -250,15 +250,15 @@ http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
 http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
-http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8 
+http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8 
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",EΡΤ SPORTS 1
-http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ΕΡΤ SPORTS 2
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ΕΡΤ SPORTS 3
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ΕΡΤ SPORTS 4
-http://195.226.218.160/vid/ertnews2/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8
+http://195.226.218.160/vid/ertnews2/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
@@ -282,7 +282,7 @@ https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jFVVQW0.png",ΙΩΝΙΑ TV 
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
-http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
+http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live4/kidshd.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",CARTOON CLASSICS
