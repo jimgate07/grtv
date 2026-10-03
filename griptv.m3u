@@ -243,7 +243,17 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts | https://ert-ucdn.broadp
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ΕΡΤ NEWS 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews3/default/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (OXI 24/7)
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/CS7k4Es.png",ΣΠΟΡ FM TV 1
+http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | http://spark4.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-01/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-1
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/X4Y4E99.png",ΣΠΟΡ FM TV 2
+http://cdn5.smart-tv-data.com/skai/skaisport4/mpeg.2ts | http://spark5.smart-tv-data.com/skai/skaisport4/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-03/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-2
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/8fOwZkX.png",ΣΠΟΡ FM TV 3
+http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts | http://spark6.smart-tv-data.com/skai/skaisport3/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-02/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-3
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/koImXdB.png",ΣΠΟΡ FM TV 4
+http://cdn5.smart-tv-data.com/skai/skaisport5/mpeg.2ts | http://spark8.smart-tv-data.com/skai/skaisport5/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-04/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-4
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/9e5VGmr.png",ΣΠΟΡ FM TV 5
+http://cdn5.smart-tv-data.com/skai/skaisport5/mpeg.2ts | http://spark8.smart-tv-data.com/skai/skaisport5/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-05/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-5
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",ΣΚΑΪ HYBRID (OXI 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
