@@ -24,7 +24,7 @@ https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="vouli" tvg-logo="https://i.imgur.com/RJ5KBOl.png",ΒΟΥΛΗ 
 https://ert-live.ascdn.broadpeak.io/bpk-tv/VOULITV/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8 | https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1
-http://213.7.216.229:8888/udp/239.23.0.1:1234 | https://l6.cloudskep.com/rikct/rik1/playlist.m3u8 
+http://213.7.216.229:8888/udp/239.23.0.1:1234 | https://l6.cloudskep.com/rikct/rik1/playlist.m3u8 | https://vid1.smartscreen-data.com/RIK1/RIK1/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36&Referer=https://smartscreen-data.com/
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2
 http://213.7.216.229:8888/udp/239.23.0.2:1234 | http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD
