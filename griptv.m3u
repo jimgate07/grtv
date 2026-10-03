@@ -71,7 +71,7 @@ http://195.226.218.160/vid/ertnews2/mpeg.2ts | https://ert-live.ascdn.broadpeak.
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8 
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="meganews" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8 | http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts | http://195.226.218.167/mega/meganews/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",EΡΤ NEWS NOHMATIKH
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews_Sign/default/index.m3u8
