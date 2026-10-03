@@ -47,6 +47,40 @@ http://213.7.216.229:8888/udp/239.23.6.6:1234
 http://213.7.216.229:8888/udp/239.23.6.5:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="plustv" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV
 http://213.7.216.229:8888/udp/239.23.6.4:1234
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/CS7k4Es.png",ΣΠΟΡ FM TV 1
+http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | http://spark4.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-01/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-1
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/X4Y4E99.png",ΣΠΟΡ FM TV 2
+http://cdn5.smart-tv-data.com/skai/skaisport4/mpeg.2ts | http://spark5.smart-tv-data.com/skai/skaisport4/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-03/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-2
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/8fOwZkX.png",ΣΠΟΡ FM TV 3
+http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts | http://spark6.smart-tv-data.com/skai/skaisport3/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-02/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-3
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/koImXdB.png",ΣΠΟΡ FM TV 4
+http://cdn5.smart-tv-data.com/skai/skaisport5/mpeg.2ts | http://spark8.smart-tv-data.com/skai/skaisport5/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-04/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-4
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/9e5VGmr.png",ΣΠΟΡ FM TV 5
+http://cdn5.smart-tv-data.com/skai/skaisport5/mpeg.2ts | http://spark8.smart-tv-data.com/skai/skaisport5/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-05/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-5
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",ΣΚΑΪ HYBRID (OXI 24/7)
+http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",EΡΤ SPORTS 1
+http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ΕΡΤ SPORTS 2
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ΕΡΤ SPORTS 3
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ΕΡΤ SPORTS 4
+http://195.226.218.160/vid/ertnews2/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
+http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8 
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8 | http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts | http://195.226.218.167/mega/meganews/mpeg.2ts
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",EΡΤ NEWS NOHMATIKH
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews_Sign/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/bh6hLBo.png",ΕΡΤ NEWS 2
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ΕΡΤ NEWS 3
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews3/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1
+http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
+http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV ΑΤΤΙΚΗΣ
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT
@@ -235,40 +269,6 @@ https://webtv.topwebhost.gr:3565/stream/play.m3u8
 https://itv.streams.ovh:8081/demoflu/index.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD (ΔΕΝ ΛΕΙΤΟΥΡΓΕΙ ΣΤΗΝ ΕΛΛΑΔΑ)
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8 | http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts | http://195.226.218.167/mega/meganews/mpeg.2ts
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",EΡΤ NEWS NOHMATIKH
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews_Sign/default/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews2" tvg-logo="https://i.imgur.com/bh6hLBo.png",ΕΡΤ NEWS 2
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ΕΡΤ NEWS 3
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews3/default/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/CS7k4Es.png",ΣΠΟΡ FM TV 1
-http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | http://spark4.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-01/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-1
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/X4Y4E99.png",ΣΠΟΡ FM TV 2
-http://cdn5.smart-tv-data.com/skai/skaisport4/mpeg.2ts | http://spark5.smart-tv-data.com/skai/skaisport4/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-03/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-2
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/8fOwZkX.png",ΣΠΟΡ FM TV 3
-http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts | http://spark6.smart-tv-data.com/skai/skaisport3/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-02/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-3
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/koImXdB.png",ΣΠΟΡ FM TV 4
-http://cdn5.smart-tv-data.com/skai/skaisport5/mpeg.2ts | http://spark8.smart-tv-data.com/skai/skaisport5/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-04/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-4
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/9e5VGmr.png",ΣΠΟΡ FM TV 5
-http://cdn5.smart-tv-data.com/skai/skaisport5/mpeg.2ts | http://spark8.smart-tv-data.com/skai/skaisport5/mpeg.2ts | https://skai-live-sports-grcy.siliconweb.com/skai/gbl031026-05/playlist.m3u8 | webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-5
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",ΣΚΑΪ HYBRID (OXI 24/7)
-http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1
-http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
-http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
-#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
-http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8 
-#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",EΡΤ SPORTS 1
-http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ΕΡΤ SPORTS 2
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ΕΡΤ SPORTS 3
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8
-#EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ΕΡΤ SPORTS 4
-http://195.226.218.160/vid/ertnews2/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
