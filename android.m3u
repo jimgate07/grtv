@@ -29,6 +29,10 @@ http://195.226.218.163/vid/ertnews/mpeg.2ts
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 4
+https://cdn3.smart-tv-data.com/vid/ertnews/manifest.mpd
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS BUP 5
+https://cdn4.smart-tv-data.com/vid/ertnews/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
 https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",ΣΚΑΪ HD  
