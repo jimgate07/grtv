@@ -379,18 +379,32 @@ http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",ERT SPORTS 1 BUP
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",ERT SPORTS 1 BUP 2
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports1/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ERT SPORTS 2
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ERT SPORTS 2 BUP
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ERT SPORTS 2 BUP 2
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports2/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3 BUP
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3 BUP 2
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports3/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ERT SPORTS 4
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ERT SPORTS 4 BUP
 http://195.226.218.160/vid/ertnews2/mpeg.2ts
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ERT SPORTS 4 BUP 2
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports4/default/index.m3u8
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertsports5" tvg-logo="https://i.imgur.com/0w5PbkG.png",ERT SPORTS 5
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.m3u8
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertsports5" tvg-logo="https://i.imgur.com/0w5PbkG.png",ERT SPORTS 5 BUP
+https://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
+#EXTINF:-1 group-title="HYBRID" tvg-name="ertsports5" tvg-logo="https://i.imgur.com/0w5PbkG.png",ERT SPORTS 5 BUP 2
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports5/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live4/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
