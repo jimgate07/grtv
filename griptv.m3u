@@ -60,15 +60,15 @@ http://cdn5.smart-tv-data.com/skai/skaisport5/mpeg.2ts | http://spark8.smart-tv-
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",ΣΚΑΪ HYBRID (OXI 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",EΡΤ SPORTS 1
-http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports1/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ΕΡΤ SPORTS 2
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports2/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ΕΡΤ SPORTS 3
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports3/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ΕΡΤ SPORTS 4
-http://195.226.218.160/vid/ertnews2/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8
+http://195.226.218.160/vid/ertnews2/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports4/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports5" tvg-logo="https://i.imgur.com/0w5PbkG.png",ΕΡΤ SPORTS 5
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.m3u8
+https://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports5/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8 
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="meganews" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
