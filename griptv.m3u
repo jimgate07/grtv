@@ -102,7 +102,7 @@ https://live.streams.ovh/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="kontra" tvg-logo="https://i.imgur.com/Kny4NeR.png",KONTRA CHANNEL
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
-https://www.mad.gr/mad-tv-player/|weballdig | https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
+https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.fmp4.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.203 Mobile Safari/537.36 EdgA/131.0.2903.111&Referer=https://player.castr.com/ | https://www.mad.gr/mad-tv-player/|weballdig | https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/FovFTow.png",ΒΕΡΓΙΝΑ TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/sqhqANh.png",DION TV
@@ -214,7 +214,7 @@ http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts | https://dwamdstream102.akamaized.
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts | https://europe.tv5monde.com/fr/direct?timezone=Europe/Athens|weballdig
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
-https://www.mad.gr/mad-tv-player/|weballdig | https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
+https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.fmp4.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.203 Mobile Safari/537.36 EdgA/131.0.2903.111&Referer=https://player.castr.com/ | https://www.mad.gr/mad-tv-player/|weballdig | https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/Xb4XJfz.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Atx17Wm.png",KISS TV
