@@ -332,7 +332,7 @@ https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="📺WEB TV"  tvg-logo="https://i.imgur.com/Jtc6poN.png",ΟΠΑΠ TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-name="FTV" tvg-logo="https://i.imgur.com/9Hnb08N.png",FASHION TV GREECE
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_480854_p_0.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/NF9kTdg.png",NOTOS TV
 https://video.streams.ovh:8081/notos/index.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/9qrSvZI.png",ZOUGLA TV
