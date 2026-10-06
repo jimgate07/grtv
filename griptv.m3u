@@ -183,13 +183,13 @@ https://livetv.streams.ovh:8081/kriti/index.m3u8
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 group-title="🐚ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://i.imgur.com/6XBDcU0.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8 | https://cdn5.smart-tv-data.com/local/tvcreta/manifest.mpd
-#EXTINF:-1 group-title="🏝️ΔΩΔΕΚΑΝΗΣΟΣ ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/DDCv1El.png",AIGAIO TV
+#EXTINF:-1 group-title="🏝️ΔΩΔ/ΣΟΥ ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/DDCv1El.png",AIGAIO TV
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8 | https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
-#EXTINF:-1 group-title="🏝️ΔΩΔΕΚΑΝΗΣΟΣ ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://i.imgur.com/ajnEOPS.png",SAMIAKI TV
+#EXTINF:-1 group-title="🏝️ΔΩΔ/ΣΟΥ ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://i.imgur.com/ajnEOPS.png",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1 group-title="🏝️ΔΩΔΕΚΑΝΗΣΟΣ ΣΑΜΟΣ" tvg-name="kostv" tvg-logo="https://i.imgur.com/N9cHGyW.png",KOS TV
+#EXTINF:-1 group-title="🏝️ΔΩΔ/ΣΟΥ ΣΑΜΟΣ" tvg-name="kostv" tvg-logo="https://i.imgur.com/N9cHGyW.png",KOS TV
 https://eu1.streams.gr:8081/kostv/index.m3u8
-#EXTINF:-1 group-title="🏝️ΔΩΔΕΚΑΝΗΣΟΣ ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/NrXQOE7.png",KOSMOS TV
+#EXTINF:-1 group-title="🏝️ΔΩΔ/ΣΟΥ ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/NrXQOE7.png",KOSMOS TV
 https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
 #EXTINF:-1 group-title="🚢ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/ev6HQr0.png",SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8 | https://cdn5.smart-tv-data.com/local/syrostv1/manifest.mpd
