@@ -550,12 +550,12 @@ https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|User-Agent=Mozilla
 #EXTINF:-1 group-title="test" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
 https://spark3.smart-tv-data.com/openHD/openHD/manifest.mpd
 #EXTINF:-1 group-title="test" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
-https://spark3.smart-tv-data.com/alphaHD/alphaHD/manifest.mpd
+https://spark3.smart-tv-data.com/alphaHD/alphaHD/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://smart-tv-data.com/
 #EXTINF:-1 group-title="test" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD
-https://spark3.smart-tv-data.com/starHD/starHD/manifest.mpd|User-Agent=Roku/DVP-14.6 (14.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
+https://spark3.smart-tv-data.com/starHD/starHD/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://smart-tv-data.com/
 #EXTINF:-1 group-title="test" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1 ΚΥΠΡΟΥ
-https://vid1.smartscreen-data.com/RIK1/RIK1/manifest.mpd|User-Agent=Roku/DVP-14.6 (14.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
+https://vid1.smartscreen-data.com/RIK1/RIK1/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://smartscreen-data.com/
 #EXTINF:-1 group-title="test" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 ΚΥΠΡΟΥ
-https://vid1.smartscreen-data.com/RIK2/RIK2/manifest.mpd|User-Agent=Roku/DVP-14.6 (14.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
+https://vid1.smartscreen-data.com/RIK2/RIK2/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="test" tvg-name="plustv" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV
-https://vid1.smartscreen-data.com/PLUS/PLUS/manifest.mpd|User-Agent=Roku/DVP-14.6 (14.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
+https://vid1.smartscreen-data.com/PLUS/PLUS/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
