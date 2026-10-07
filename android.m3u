@@ -279,6 +279,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ΕΡΤ Cosmos" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS (ΚΥΠΡΟΥ)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ΕΡΤ Cosmos" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS (ΚΥΠΡΟΥ)
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR INTERNATIONAL 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS
