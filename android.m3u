@@ -453,10 +453,12 @@ https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jFVVQW0.png",ΙΩΝΙΑ TV 
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/6liuaHm.png",ΙΩΝΙΑ TV 
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/tExRZzS.png",DTP TV
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/xNqPoEJ.png",DTP TV ΠΥΛΙΑΣ
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/qnnCc25.png",DTA ΑΙΓΙΝΑΣ
+https://webinternetradio.eu:59820/dta.webm?t=1791456141346
 #EXTINF:-1 group-title="WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV BUP 
