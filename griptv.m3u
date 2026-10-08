@@ -299,12 +299,14 @@ https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8 | https
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
-#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jFVVQW0.png",ΙΩΝΙΑ TV 
+#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/6liuaHm.png",ΙΩΝΙΑ TV 
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
 https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
-#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/tExRZzS.png",DTP TV
+#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/xNqPoEJ.png",DTP TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
+#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/qnnCc25.png",DTA ΑΙΓΙΝΑΣ
+https://webinternetradio.eu:59820/dta.webm?t=1791456141346|weballdig | webview:https://webinternetradio.eu:59820/dta.webm?t=1791456141346 | https://webinternetradio.eu:59820/dta.webm?t=1791456141346
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
