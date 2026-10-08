@@ -411,6 +411,8 @@ https://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports5/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live4/kidshd.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/EdPMfYe.png",KIDS TV ΚΥΠΡΟΥ
+https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV BUP
