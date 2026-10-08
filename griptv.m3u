@@ -312,7 +312,7 @@ http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadp
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live4/kidshd.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/EdPMfYe.png",KIDS TV ΚΥΠΡΟΥ
-https://player.viloud.tv/embed/channel/1cd1acf4386c3a773d890cab3b1b224c?autoplay=1&volume=1&random=0&controls=0&title=0&share=0 | https://player.viloud.tv/embed/channel/1cd1acf4386c3a773d890cab3b1b224c?autoplay=1&volume=1&random=0&controls=0&title=0&share=0|weballdig
+webview:https://player.viloud.tv/embed/channel/1cd1acf4386c3a773d890cab3b1b224c?autoplay=1&volume=1&random=0&controls=0&title=0&share=0
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",CARTOON CLASSICS
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PksoVXP.png",MR BEAN ANIMATED
