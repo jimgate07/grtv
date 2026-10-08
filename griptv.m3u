@@ -367,6 +367,8 @@ https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-fd464078-9c51-453a-
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html
 #EXTINF:-1 group-title="📺WEB TV" tvg-name="pronews" tvg-logo="https://i.imgur.com/CZECE2D.png",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/CerhiQy.png",PRO NEWS PRIME
+https://pro.free.hr:3326/live/patraslive.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/arwviNh.png",ΞΥΛΑΓΑΝΗ TV
 https://fr.crystalweb.net:1936/xiylaganiparadosi/xiylaganiparadosi/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/XTtvsef.png",ΧΑΛΑΣΤΡΑ TV
