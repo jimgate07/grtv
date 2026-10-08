@@ -463,6 +463,8 @@ https://cdn5.smart-tv-data.com/local/egnatiatv_i/manifest.mpd
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV BUP
 https://cdn5.smart-tv-data.com/local/pellatv_i/manifest.mpd
+#EXTINF:-1 group-title="WEB TV" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV BUP 2
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Pellatv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/JCVqMzP.png",RODOPI TV
 https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"  tvg-logo="https://i.imgur.com/bvEkbRI.png",PAME STOXIMA RACING (IPPODROMIES)
@@ -543,6 +545,8 @@ https://mcv.streams.gr/stream/argolidasportstv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/THpDcdE.png",ΠΑΚΟΕ TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tExRZzS.png",DTP TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
 #EXTINF:-1 group-title="test" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ΕΡΤ1 HD 
 https://spark3.smart-tv-data.com/ert1HD/ert1HD/manifest.mpd
 #EXTINF:-1 group-title="test" tvg-name="ert2" tvg-logo="https://i.imgur.com/ZpUEkeq.png",ΕΡΤ2 SPOR HD
