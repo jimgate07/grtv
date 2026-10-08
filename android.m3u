@@ -455,6 +455,8 @@ https://neon.streams.gr:8081/lampsitv/index.m3u8
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jFVVQW0.png",ΙΩΝΙΑ TV 
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/tExRZzS.png",DTP TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV BUP 
@@ -545,8 +547,6 @@ https://mcv.streams.gr/stream/argolidasportstv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/THpDcdE.png",ΠΑΚΟΕ TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tExRZzS.png",DTP TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
 #EXTINF:-1 group-title="test" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ΕΡΤ1 HD 
 https://spark3.smart-tv-data.com/ert1HD/ert1HD/manifest.mpd
 #EXTINF:-1 group-title="test" tvg-name="ert2" tvg-logo="https://i.imgur.com/ZpUEkeq.png",ΕΡΤ2 SPOR HD
