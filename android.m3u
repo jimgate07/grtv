@@ -195,8 +195,6 @@ https://rtmp.win:3929/live/epiruslive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10
 https://rtmp.win:3218/live/arttvgr2live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://p1.dos.pm/
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="corfutv" tvg-logo="https://i.imgur.com/HzpFsT5.png",CORFU CHANNEL
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="starttv" tvg-logo="https://i.imgur.com/PYYShEj.png",START TV
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ILEKTRA TV BUP
@@ -553,29 +551,3 @@ https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL
 https://mcv2.streams.gr/stream/diamondchannel/index.m3u8
-#EXTINF:-1 group-title="test" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ΕΡΤ1 HD 
-https://spark3.smart-tv-data.com/ert1HD/ert1HD/manifest.mpd
-#EXTINF:-1 group-title="test" tvg-name="ert2" tvg-logo="https://i.imgur.com/ZpUEkeq.png",ΕΡΤ2 SPOR HD
-https://spark3.smart-tv-data.com/ert2HD/ert2HD/manifest.mpd
-#EXTINF:-1 group-title="test" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ΕΡΤ3 HD
-https://spark3.smart-tv-data.com/ert3HD/ert3HD/manifest.mpd
-#EXTINF:-1 group-title="test" tvg-name="test" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
-#EXTINF:-1 group-title="test" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",ΣΚΑΪ HD  
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&license_type=clearkey&license_key=bd2b9942dc1e45548fe68bbd53aa2f6b:700a8a4e84859fef47ec77baac3b279c
-#EXTINF:-1 group-title="test" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",ΣΚΑΪ HD 1 
-https://spark3.smart-tv-data.com/skaiHD/skaiHD/manifest.mpd
-#EXTINF:-1 group-title="test" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",ΣΚΑΪ HD 2
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36|license_type=clearkey&license_key=bd2b9942dc1e45548fe68bbd53aa2f6b:700a8a4e84859fef47ec77baac3b279c
-#EXTINF:-1 group-title="test" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
-https://spark3.smart-tv-data.com/openHD/openHD/manifest.mpd
-#EXTINF:-1 group-title="test" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
-https://spark3.smart-tv-data.com/alphaHD/alphaHD/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://smart-tv-data.com/
-#EXTINF:-1 group-title="test" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD
-https://spark3.smart-tv-data.com/starHD/starHD/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://smart-tv-data.com/
-#EXTINF:-1 group-title="test" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1 ΚΥΠΡΟΥ
-https://vid1.smartscreen-data.com/RIK1/RIK1/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://smartscreen-data.com/
-#EXTINF:-1 group-title="test" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 ΚΥΠΡΟΥ
-https://vid1.smartscreen-data.com/RIK2/RIK2/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="test" tvg-name="plustv" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV
-https://vid1.smartscreen-data.com/PLUS/PLUS/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
