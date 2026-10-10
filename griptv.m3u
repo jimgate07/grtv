@@ -297,10 +297,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8 | https
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
-#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/6liuaHm.png",ΙΩΝΙΑ TV 
-https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
-https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/xNqPoEJ.png",DTP TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/qnnCc25.png",DTA ΑΙΓΙΝΑΣ
