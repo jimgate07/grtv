@@ -313,6 +313,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/m
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ΖΟΥΖΟΥΝΙΑ
 webview:https://www.youtube.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ/live
+#EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/88ipEYP.png",TOM AND JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",ΕΚΚΛΗΣΙΑ TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",ΠΕΜΠΤΟΥΣΙΑ TV
