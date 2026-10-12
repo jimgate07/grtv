@@ -222,7 +222,7 @@ https://thessaliachannel.gr:3850/live/thesstvlive.m3u8|User-Agent=Mozilla/5.0 (L
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/dldI5FS.png",ASTRA TV
 https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/dldI5FS.png",ASTRA TV BUP
-https://server.gointernet.gr/live/livestream.m3u8
+https://server.gointernet.gr/live/livestream.flv
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://i.imgur.com/1oXpCXg.png",TRT TV
 https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="formediatv" tvg-logo="https://i.imgur.com/5fY0m97.png",FORMEDIA TV
