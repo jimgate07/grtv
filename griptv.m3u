@@ -273,6 +273,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/B4P5UXn.png",MAGIC TV
 https://itv.streams.ovh:8081/demoflu/index.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ΕΛΛΗΝΙΚΟΣ FM
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA PLUS TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD WORLD (ΔΕΝ ΛΕΙΤΟΥΡΓΕΙ ΣΤΗΝ ΕΛΛΑΔΑ)
@@ -331,6 +333,8 @@ https://thor.mental-media.gr:19360/imp/imp.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/i3722M9.png",ΦΑΡΟΣ TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/farostvchurch.m3u8
+#EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/1DgaC6p.png",ΔΙΨΩ TV
+https://live.cast-control.eu/ekpdipso/ekpdipso/chunklist_w1039152407.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",ΕΓΝΑΤΙΑ TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8 | https://cdn5.smart-tv-data.com/local/egnatiatv_i/manifest.mpd
 #EXTINF:-1 group-title="📺WEB TV" tvg-name="pella" tvg-logo="https://i.imgur.com/9RXdElf.png",PELLA TV
