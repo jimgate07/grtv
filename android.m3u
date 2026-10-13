@@ -433,6 +433,8 @@ https://mcv.streams.gr/stream/agiosioannistheologoslivetv/index.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/i3722M9.png",ΦΑΡΟΣ TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/farostvchurch.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/1DgaC6p.png",ΔΙΨΩ TV
+https://live.cast-control.eu/ekpdipso/ekpdipso/chunklist_w1039152407.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
