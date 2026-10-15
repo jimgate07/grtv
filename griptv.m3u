@@ -16,7 +16,7 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8 | https://mcdn.antenn
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8 | http://147.182.143.104:80/hls/open.m3u8|User-Agent=Roku/DVP-14.6 (14.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8 | https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8 | https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8 | http://51.79.103.218:80/hls/alpha.m3u8|User-Agent=Roku/DVP-14.6 (14.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8 | https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8 | https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8 | http://51.79.103.218:80/hls/alpha.m3u8|User-Agent=Roku/DVP-15.6 (15.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/RVs0GZa.png",MAK. HD
