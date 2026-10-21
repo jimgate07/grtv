@@ -201,6 +201,8 @@ https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",LYCHNOS BUP
+https://www.youtube.com/c/%CE%9B%CE%A5%CE%A7%CE%9D%CE%9F%CE%A3%CE%A4%CE%B7%CE%BB%CE%B5%CF%8C%CF%81%CE%B1%CF%83%CE%B7/live
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/daTOPNt.png",MESOGEIOS TV
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://p1.dos.pm/ 
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="ort" tvg-logo="https://i.imgur.com/0NwlJXS.png",ORT TV
