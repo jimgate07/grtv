@@ -386,7 +386,7 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/xGZpaAZ.png",NS TV
 https://rtmp.win:3882/live/nstv7live.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/niUXigD.png",HELLENIC TV
-http://188.227.164.31/tsstreamer/Hellenic_SD.ts | http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8 | http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/acHtejH.png",CITY TV ΚΥΠΡΟΥ 
 https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/city_channel.html
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS ΚΥΠΡΟΥ
