@@ -44,7 +44,7 @@ https://verginanews.gr:8443/hls_live/stream2.m3u8 | http://213.7.216.229:8888/ud
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/LyxR05g.png",CAPITAL
 http://213.7.216.229:8888/udp/239.23.6.6:1234 | https://vid1.smartscreen-data.com/CAPITAL/CAPITAL/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="extracy" tvg-logo="https://i.imgur.com/gOdm8hD.png",EXTRA ΚΥΠΡΟΥ
-http://213.7.216.229:8888/udp/239.23.6.5:1234 |https://vid1.smartscreen-data.com/ONECHANNELCY/ONECHANNELCY/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
+webview:https://eurovibesgreece.blogspot.com/2026/10/plustv.html | https://vid1.smartscreen-data.com/ONECHANNELCY/ONECHANNELCY/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f | http://213.7.216.229:8888/udp/239.23.6.5:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="plustv" tvg-logo="https://i.imgur.com/LZXDTGF.png",PLUS TV
 webview:https://eurovibesgreece.blogspot.com/2026/10/plus-tv.html | http://213.7.216.229:8888/udp/239.23.6.4:1234 | https://vid1.smartscreen-data.com/PLUS/PLUS/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f  
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/CS7k4Es.png",ΣΠΟΡ FM TV 1
