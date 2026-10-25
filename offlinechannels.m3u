@@ -1,6 +1,37 @@
 #EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/6liuaHm.png",ΙΩΝΙΑ TV 
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1 ΚΥΠΡΟΥ
+http://213.7.216.229:8888/udp/239.23.0.1:1234
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 ΚΥΠΡΟΥ
+http://213.7.216.229:8888/udp/239.23.0.2:1234
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 ΚΥΠΡΟΥ BUP
+https://vid1.smartscreen-data.com/RIK2/RIK2/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD ΚΥΠΡΟΥ
+http://213.7.216.229:8888/udp/239.23.0.5:1234
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/VPkG0DA.png",SIGMA ΚΥΠΡΟΥ BUP 4
+http://213.7.216.229:8888/udp/239.23.6.3:1234
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/VPkG0DA.png",SIGMA ΚΥΠΡΟΥ BUP 5
+https://vid1.smartscreen-data.com/SIGMA/SIGMA/manifest.mpd|license_type=clearkey&license_key=82dea20739312d90a0130352f4635653:c2318a6d8289d03a4394ad2918ad2e1d
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 ΚΥΠΡΟΥ BUP
+http://213.7.216.229:8888/udp/239.23.6.1:1234
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ 
+http://213.7.216.229:8888/udp/239.23.5.2:1234
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ BUP
+http://213.7.216.229:8888/udp/239.23.5.2:1234
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/ap2UIzu.png",VERGINA TV ΚΥΠΡΟΥ BUP
+http://213.7.216.229:8888/udp/239.23.5.1:1234
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/LyxR05g.png",CAPITAL
+http://213.7.216.229:8888/udp/239.23.6.6:1234
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/LyxR05g.png",CAPITAL BUP
+https://vid1.smartscreen-data.com/CAPITAL/CAPITAL/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="extracy" tvg-logo="https://i.imgur.com/gOdm8hD.png",EXTRA ΚΥΠΡΟΥ
+http://213.7.216.229:8888/udp/239.23.6.5:1234
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="plustv" tvg-logo="https://i.imgur.com/LZXDTGF.png",PLUS TV
+http://213.7.216.229:8888/udp/239.23.6.4:1234
+#EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS🇬🇷
+http://213.7.216.229:8888/udp/239.23.0.4:1234
+
 
 
 
