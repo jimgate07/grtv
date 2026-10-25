@@ -24,7 +24,7 @@ https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8 | https://mcdn.antennap
 #EXTINF:-1 group-title="🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="vouli" tvg-logo="https://i.imgur.com/RJ5KBOl.png",ΒΟΥΛΗ 
 https://ert-live.ascdn.broadpeak.io/bpk-tv/VOULITV/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8 | http://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/Vouli_World/default/index.mpd | https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.mpd
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",ΡΙΚ 1 (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
-https://l6.cloudskep.com/rikct/rik1/playlist.m3u8 | http://213.7.216.229:8888/udp/239.23.0.1:1234 | https://vid1.smartscreen-data.com/RIK1/RIK1/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
+https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",ΡΙΚ 2 (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",ΡΙΚ HD (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
@@ -194,7 +194,7 @@ http://cdn.istoikona.com/aeolostv/live/playlist.m3u8 | https://cdn5.smart-tv-dat
 #EXTINF:-1 group-title="⚓️Β.Α. ΑΙΓΑΙΟΥ" tvg-name="alithiatv" tvg-logo="https://i.imgur.com/oI0KCOA.png",ΑΛΗΘΕΙΑ TV (17:00-00:00)
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8 | http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8 | http://213.7.216.229:8888/udp/239.23.0.3:1234
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8 | http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS (ΚΥΠΡΟΥ)
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR INTERNATIONAL 
@@ -202,7 +202,7 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="riksat" tvg-logo="https://i.imgur.com/kPluFii.png",ΡΙΚ SAT 
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-live.ascdn.broadpeak.io/bpk-tv/RIK/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8 |  https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.mpd
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS🇬🇷
-https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8 | webview:https://www.youtube.com/channel/UC8HJZNfDPoySgW9DN3YGNaA/live | http://213.7.216.229:8888/udp/239.23.0.4:1234
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8 | webview:https://www.youtube.com/channel/UC8HJZNfDPoySgW9DN3YGNaA/live
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS🇬🇧 
 webview:https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW
