@@ -17,8 +17,6 @@ https://vid1.smartscreen-data.com/SIGMA/SIGMA/manifest.mpd|license_type=clearkey
 http://213.7.216.229:8888/udp/239.23.6.1:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ 
 http://213.7.216.229:8888/udp/239.23.5.2:1234
-#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA ΚΥΠΡΟΥ BUP
-http://213.7.216.229:8888/udp/239.23.5.2:1234
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/ap2UIzu.png",VERGINA TV ΚΥΠΡΟΥ BUP
 http://213.7.216.229:8888/udp/239.23.5.1:1234
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/LyxR05g.png",CAPITAL
