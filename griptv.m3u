@@ -414,4 +414,4 @@ https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL
 https://mcv2.streams.gr/stream/diamondchannel/index.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/lhPUUfk.png",GAMING LAB
-https://fr.crystalweb.net:1936/gaminglab/gaminglab/playlist.m3u8 | https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/gaminglabtv.m3u8
+https://fr.crystalweb.net:1936/gaminglab/gaminglab/playlist.m3u8 | https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/gaminglabtv.m3u8 | webview:https://www.facebook.com/stories/104953424980681/
