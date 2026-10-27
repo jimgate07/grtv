@@ -281,6 +281,14 @@ http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBC News" tvg-logo="https://i.imgur.com/4hWt6hV.png",BBC WORLD NEWS
+http://195.226.218.10/vid/bbc/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBC News" tvg-logo="https://i.imgur.com/4hWt6hV.png",BBC WORLD NEWS BUP
+https://ert-live.ascdn.broadpeak.io/bpk-tv/BBC/default/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBC News" tvg-logo="https://i.imgur.com/4hWt6hV.png",BBC WORLD NEWS BUP 2
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/BBC/default/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBC News" tvg-logo="https://i.imgur.com/4hWt6hV.png",BBC WORLD NEWS BUP 3
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Atx17Wm.png",KISS TV
 https://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iyNbA8N.png",NRG TV
