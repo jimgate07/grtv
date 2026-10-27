@@ -209,6 +209,8 @@ webview:https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts | https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts | https://europe.tv5monde.com/fr/direct?timezone=Europe/Athens|weballdig
+#EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBC News" tvg-logo="https://i.imgur.com/4hWt6hV.png",BBC WORLD NEWS
+https://ert-live.ascdn.broadpeak.io/bpk-tv/BBC/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/BBC/default/index.m3u8 | http://195.226.218.10/vid/bbc/mpeg.2ts | https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png",MAD TV
 https://www.mad.gr/mad-tv-player/|weballdig | https://x.com/i/broadcasts/1RKjpbEnNEpJw|weballdig | webview:https://x.com/i/broadcasts/1RKjpbEnNEpJw | https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.fmp4.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.203 Mobile Safari/537.36 EdgA/131.0.2903.111&Referer=https://player.castr.com/
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/Xb4XJfz.png",PANIK TV
