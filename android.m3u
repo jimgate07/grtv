@@ -349,6 +349,8 @@ https://webtv.topwebhost.gr:3565/stream/play.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ΕΛΛΗΝΙΚΟΣ FM
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ZK6wwGp.png",MULTICAST TV
+https://mcv.streams.gr/stream/multicasttv/index.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS BUP
