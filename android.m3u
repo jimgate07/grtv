@@ -463,6 +463,8 @@ https://webinternetradio.eu:59820/dta.webm?t=1791456141346
 https://mcv3.streams.gr/stream/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
 https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/MLyv8ET.png",MR BEAN
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="egnatia" tvg-logo="https://i.imgur.com/2mu9TEe.png",EGNATIA TV BUP 
@@ -557,7 +559,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL
 https://mcv2.streams.gr/stream/diamondchannel/index.m3u8
-#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/lhPUUfk.png",GAMING LAB
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/lhPUUfk.png",GAMING LAB
 https://fr.crystalweb.net:1936/gaminglab/gaminglab/playlist.m3u8
-#EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/lhPUUfk.png",GAMING LAB BUP
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/lhPUUfk.png",GAMING LAB BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/gaminglabtv.m3u8
