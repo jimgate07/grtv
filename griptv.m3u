@@ -129,8 +129,6 @@ https://av.hellasnet.tv/rst/alf/index.m3u8
 https://eu1.streams.gr:8081/centertv/index.m3u8
 #EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="starbe" tvg-logo="https://i.imgur.com/5kJDAkS.png",STAR B.E.
 https://gra1.crystalweb.net:1936/star/star/playlist.m3u8
-#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ΕΔ TV
-https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://i.imgur.com/VIMCL7k.png",ΔΙΚΤΥΟ1 (MONO TO ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ)
@@ -351,6 +349,8 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8 | https://cdn5.sma
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8 | https://cdn5.smart-tv-data.com/local/pellatv_i/manifest.mpd | https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Pellatv.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/JCVqMzP.png",RODOPI TV
 https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
+#EXTINF:-1 group-title="📺WEB TV" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ΕΔ TV
+https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV"  tvg-logo="https://i.imgur.com/bvEkbRI.png",PAME STOXIMA RACING (ΙΠΠΟΔΡΟΜΙΕΣ)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="📺WEB TV"  tvg-logo="https://i.imgur.com/Jtc6poN.png",ΟΠΑΠ TV
