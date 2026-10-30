@@ -129,6 +129,8 @@ https://av.hellasnet.tv/rst/alf/index.m3u8
 https://eu1.streams.gr:8081/centertv/index.m3u8
 #EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="starbe" tvg-logo="https://i.imgur.com/5kJDAkS.png",STAR B.E.
 https://gra1.crystalweb.net:1936/star/star/playlist.m3u8
+#EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ΕΔ TV
+https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="top" tvg-logo="https://i.imgur.com/7vK8iJN.png",TOP CHANNEL
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://i.imgur.com/VIMCL7k.png",ΔΙΚΤΥΟ1 (MONO TO ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ)
@@ -361,8 +363,6 @@ https://video.streams.ovh:8081/notos/index.m3u8
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/Jfoo0c9.png",MARON TV
 https://fr.crystalweb.net:1936/marontv/marontv/playlist.m3u8
-#EXTINF:-1 group-title="📺WEB TV" tvg-name="edamth" tvg-logo="https://i.imgur.com/I5667Zc.png",ΕΔ TV
-https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/1RC5xy4.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/5dBF1Qf.png",MONTREAL GREEK TV
