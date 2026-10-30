@@ -206,7 +206,7 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8 | https://ert-live.ascdn.broa
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",EURONEWS🇬🇷
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/euronews-greece.html
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",EURONEWS🇬🇧 
-webview:https://eurovibesgreece.blogspot.com/2026/10/euronews-english.html
+webview:https://geo.dailymotion.com/player/x1jig0.html?video=xar7p26
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",DW
 http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts | https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",TV5 MONDE EUROPE
