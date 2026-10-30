@@ -42,9 +42,9 @@ https://www.alphacyprus.com.cy/live#rmpPlayer|weballdig
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="berginacy" tvg-logo="https://i.imgur.com/ap2UIzu.png",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΥ
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="extracy" tvg-logo="https://i.imgur.com/gOdm8hD.png",EXTRA ΚΥΠΡΟΥ
-https://vid1.smartscreen-data.com/ONECHANNELCY/ONECHANNELCY/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f | webview:https://eurovibesgreece.blogspot.com/2026/10/plustv.html
+https://vid1.smartscreen-data.com/ONECHANNELCY/ONECHANNELCY/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
 #EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="plustv" tvg-logo="https://i.imgur.com/LZXDTGF.png",PLUS TV
-https://vid1.smartscreen-data.com/PLUS/PLUS/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f | webview:https://eurovibesgreece.blogspot.com/2026/10/plus-tv.html
+https://vid1.smartscreen-data.com/PLUS/PLUS/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/CS7k4Es.png",ΣΠΟΡ FM TV 1
 webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-1
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/X4Y4E99.png",ΣΠΟΡ FM TV 2 (OXI 24/7)
@@ -324,19 +324,19 @@ https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/m
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PksoVXP.png",MR BEAN ANIMATED
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ΖΟΥΖΟΥΝΙΑ
-webview:https://www.youtube.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ/live
+webview:https://eurovibesgreece.blogspot.com/2026/10/zouzouniatv.html
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/88ipEYP.png",TOM AND JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",ΕΚΚΛΗΣΙΑ TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",ΠΕΜΠΤΟΥΣΙΑ TV
-webview:https://www.youtube.com/channel/UCYjyS5OIpeVoOoXRxpzaKDg/live
+webview:https://eurovibesgreece.blogspot.com/2026/10/pemptousia%20tv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/A9K7zqS.png",ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΜΑΝΤΟΥΔΙΟΥ
 https://mcv.streams.gr/stream/agiosioannistheologoslivetv/index.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",ΛΥΧΝΟΣ
-https://thor.mental-media.gr:19360/imp/imp.m3u8 | webview:https://www.youtube.com/c/%CE%9B%CE%A5%CE%A7%CE%9D%CE%9F%CE%A3%CE%A4%CE%B7%CE%BB%CE%B5%CF%8C%CF%81%CE%B1%CF%83%CE%B7/live
+https://thor.mental-media.gr:19360/imp/imp.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/lychnostv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ΟΡΘΟΔΟΞΙΑ TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/i3722M9.png",ΦΑΡΟΣ TV
