@@ -5,9 +5,7 @@ import urllib.parse
 PAGE_ID = "100064220132182"
 
 def get_stream_id():
-    # Χρησιμοποιούμε τη γενική δημόσια αναζήτηση βίντεο της σελίδας
     target_url = f"https://m.facebook.com/{PAGE_ID}/videos/"
-    
     proxy_api = f"https://corsproxy.io/?{urllib.parse.quote(target_url)}"
     
     headers = {
@@ -19,19 +17,25 @@ def get_stream_id():
         with urllib.request.urlopen(req, timeout=15) as response:
             html_content = response.read().decode('utf-8')
             
-            # Εντοπισμός οποιουδήποτε δεκαπενταψήφιου ή εξαψήφιου αριθμού που αντιπροσωπεύει video ID στο Facebook
-            matches = re.findall(r'(\d{15,18})', html_content)
+            # Αυστηρά μοτίβα που στοχεύουν αποκλειστικά τα IDs βίντεο και όχι τυχαίους αριθμούς
+            patterns = [
+                r'"video_id"\s*:\s*"(\d+)"',          # Μέσα σε JSON δεδομένα του Facebook
+                r'/videos/(\d{10,20})/',               # Στα URL διαδρομής βίντεο
+                r'/watch/\?v=(\d{10,20})',             # Στα watch URLs
+                r'video_id=(\d{10,20})',               # Σώμα παραμέτρων
+                r'/story\.php\?story_fbid=(\d{10,20})' # Stories/Posts βίντεο
+            ]
             
-            if matches:
-                # Φιλτράρουμε τους αριθμούς εξαιρώντας το Page ID αν τυχόν εμφανίζεται
-                valid_ids = [m for m in matches if m != PAGE_ID]
-                unique_ids = list(dict.fromkeys(valid_ids))
-                
-                if unique_ids:
-                    print(f"Βρέθηκε ID βίντεο: {unique_ids[0]}")
-                    return unique_ids[0]
-                    
-            print("Δεν βρέθηκαν IDs.")
+            for pattern in patterns:
+                matches = re.findall(pattern, html_content)
+                if matches:
+                    unique_ids = [m for m in matches if m.isdigit() and m != PAGE_ID]
+                    unique_ids = list(dict.fromkeys(unique_ids))
+                    if unique_ids:
+                        print(f"Βρέθηκε έγκυρο ID βίντεο: {unique_ids[0]}")
+                        return unique_ids[0]
+                        
+            print("Δεν βρέθηκαν έγκυρα IDs με τα αυστηρά patterns.")
                 
     except Exception as e:
         print(f"Σφάλμα σύνδεσης: {e}")
