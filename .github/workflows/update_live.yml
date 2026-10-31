@@ -26,5 +26,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
+          cd ./core/platforms/
           git add live-id.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Facebook Live ID" && git push)
