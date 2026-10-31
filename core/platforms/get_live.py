@@ -2,7 +2,7 @@ import re
 import urllib.request
 import urllib.parse
 
-PAGE_ID = "100064220132182"
+PAGE_ID = "epirustv1"
 
 def get_stream_id():
     # Στοχεύουμε απευθείας την καρτέλα των live μεταδόσεων της σελίδας
