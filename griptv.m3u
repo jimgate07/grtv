@@ -55,8 +55,6 @@ webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-3
 webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-4
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/9e5VGmr.png",ΣΠΟΡ FM TV 5 (OXI 24/7)
 webview:https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-5
-#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",ΣΚΑΪ HYBRID (OXI 24/7)
-http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts | https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8 | http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",EΡΤ SPORTS 1
 http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8 | https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports1/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/qNYGMoc.png",ΕΡΤ SPORTS 2
