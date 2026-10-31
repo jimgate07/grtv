@@ -13,6 +13,8 @@ CHANNELS = {
     "lychnos": "lychnos",
     "astratelevision": "astratelevision",
     "deltatv.gr": "deltatv.gr",
+    "mesogeiostv": "mesogeiostv",
+    "vimatv": "100063980712662",
     "volcanotv": "100064220132182"
 }
 
