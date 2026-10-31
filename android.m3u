@@ -375,16 +375,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews3/default/index.m3u8
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/M2ztT2a.png",EΡΤ NEWS NOHMATIKH BUP
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (OXI 24/7)
-http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (OXI 24/7) BUP
-https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2 (OXI 24/7)
-http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2 (OXI 24/7) BUP
-https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
-#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 3 (OXI 24/7)
-http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
