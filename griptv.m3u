@@ -150,7 +150,7 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8 | webview:https
 #EXTINF:-1 group-title="🏺ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.imgur.com/Ovl7Omf.png",ΗΛΕΚΤΡΑ TV
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8 | https://183.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/tv.html
 #EXTINF:-1 group-title="🏺ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",ΛΥΧΝΟΣ
-https://thor.mental-media.gr:19360/imp/imp.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/lychnostv.html
+https://thor.mental-media.gr:19360/imp/imp.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/lychnostv.html | webview:https://eurovibesgreece.blogspot.com/2026/10/lychnostvface.html
 #EXTINF:-1 group-title="🏺ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/daTOPNt.png",ΜΕΣΟΓΕΙΟΣ TV
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://p1.dos.pm/ | https://p1.dos.pm/mesogeiostv82s/|weballdig
 #EXTINF:-1 group-title="🏺ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="ort" tvg-logo="https://i.imgur.com/0NwlJXS.png",ORT TV
