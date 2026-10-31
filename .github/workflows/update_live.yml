@@ -17,9 +17,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install yt-dlp
-        run: pip install yt-dlp
-
       - name: Run script to get live ID
         run: |
           cd ./core/platforms/
