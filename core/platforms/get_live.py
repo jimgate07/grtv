@@ -5,41 +5,39 @@ import urllib.parse
 PAGE_ID = "epirustv1"
 
 def get_stream_id():
-    # Χρησιμοποιούμε την κανονική desktop έκδοση ή το βασικό URL της σελίδας
-    # διότι τα OpenGraph tags περιέχουν πάντα το τρέχον live ID όταν η σελίδα είναι live.
-    target_url = f"https://www.facebook.com/{PAGE_ID}"
+    # Δοκιμάζουμε απευθείας το URL των βίντεο της σελίδας
+    target_url = f"https://www.facebook.com/{PAGE_ID}/videos"
     proxy_api = f"https://corsproxy.io/?{urllib.parse.quote(target_url)}"
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Accept-Language': 'el-GR,el;q=0.9,en;q=0.8'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'el-GR,el;q=0.9,en-US;q=0.8,en;q=0.7'
     }
     
     try:
         req = urllib.request.Request(proxy_api, headers=headers)
         with urllib.request.urlopen(req, timeout=15) as response:
-            html_content = response.read().decode('utf-8')
+            html_content = response.read().decode('utf-8', errors='ignore')
             
-            # Μοτίβα για να πιάσουμε το ID από τα διαθέσιμα links ή τα meta tags της σελίδας
+            # Αναζήτηση για live videos ή general video IDs στη σελίδα βίντεο
             patterns = [
-                r'videos/(\d{10,20})',
-                r'watch/\?v=(\d{10,20})',
+                r'/videos/(\d{10,20})/',
                 r'"video_id"\s*:\s*"(\d{10,20})"',
-                r'eid=([A-Za-z0-9\-_]+)',
-                r'story_fbid=(\d{10,20})'
+                r'owner_id\\":\\"' + PAGE_ID + '\\".*?video_id\\":\\"(\d{10,20})\\"',
+                r'(\d{15,20})' # Γενικό μοτίβο για μεγάλα IDs βίντεο στο Facebook
             ]
             
             for pattern in patterns:
                 matches = re.findall(pattern, html_content)
                 if matches:
-                    # Φιλτράρουμε τυχόν αριθμούς που είναι ίδιοι με το PAGE_ID αν είχαν πιαστεί κατά λάθος
                     unique_ids = [m for m in matches if m.isdigit() and m != PAGE_ID]
                     unique_ids = list(dict.fromkeys(unique_ids))
                     if unique_ids:
-                        print(f"Εντοπίστηκε ενεργό Live ID: {unique_ids[0]}")
+                        print(f"Εντοπίστηκε Live ID: {unique_ids[0]}")
                         return unique_ids[0]
                         
-            print("Δεν βρέθηκε καμία ενεργή ζωντανή μετάδοση (Live) σταδιακά.")
+            print("Δεν βρέθηκε ενεργό live.")
                 
     except Exception as e:
         print(f"Σφάλμα σύνδεσης: {e}")
