@@ -1,40 +1,33 @@
-import subprocess
-import json
-import sys
+import re
+import urllib.request
 
-# Χρησιμοποιούμε πλέον το canonical URL της σελίδας όπως το δίνει το Facebook
-PAGE_URL = "https://www.facebook.com/Volcano-TV"
+PAGE_ID = "100064220132182"
 
 def get_stream_id():
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'el-GR,el;q=0.9,en;q=0.8',
+    }
+    
+    # Χρησιμοποιούμε τη mobile σελίδα βίντεο του προφίλ σου
+    url = f"https://m.facebook.com/profile.php?id={PAGE_ID}&v=videos"
+    
     try:
-        # Χρησιμοποιούμε το yt-dlp με flat-playlist για να σαρώσουμε τα τελευταία posts/videos της σελίδας
-        cmd = ["yt-dlp", "--flat-playlist", "--dump-json", PAGE_URL]
-        result = subprocess.run(cmd, capture_output=True, text=True)
-        
-        if result.returncode != 0:
-            print(f"yt-dlp stderr: {result.stderr}", file=sys.stderr)
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req) as response:
+            html_content = response.read().decode('utf-8')
             
-        for line in result.stdout.strip().split('\n'):
-            if line:
-                try:
-                    data = json.loads(line)
-                    # Αναζήτηση ID είτε στο 'id' είτε στο 'url'
-                    video_id = data.get('id')
-                    if not video_id and 'url' in data:
-                        # Αν υπάρχει URL, εξάγουμε το ID από μέσα
-                        import re
-                        match = re.search(r'(?:videos|watch|\?v=|/posts/)(\d+)', data['url'])
-                        if match:
-                            video_id = match.group(1)
-                            
-                    if video_id and str(video_id).isdigit() and len(str(video_id)) > 5:
-                        print(f"Βρέθηκε ID βίντεο μέσω yt-dlp: {video_id}")
-                        return str(video_id)
-                except json.JSONDecodeError:
-                    continue
+            # Αναζήτηση για IDs βίντεο μέσα στον κώδικα της σελίδας
+            matches = re.findall(r'(?:/videos/|/watch/\?v=|video_id=)(\d{10,})', html_content)
+            
+            if matches:
+                unique_ids = list(dict.fromkeys(matches))
+                print(f"Βρέθηκε ID βίντεο: {unique_ids[0]}")
+                return unique_ids[0]
     except Exception as e:
-        print(f"Σφάλμα εκτέλεσης yt-dlp: {e}")
-
+        print(f"Σφάλμα σύνδεσης: {e}")
+            
     return None
 
 if __name__ == "__main__":
