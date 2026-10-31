@@ -11,6 +11,7 @@ CHANNELS = {
     "startmediacorfu": "startmediacorfu",
     "ilektratv": "100063542305429",
     "lychnos": "lychnos",
+    "astratelevision": "astratelevision",
     "volcanotv": "100064220132182"
 }
 
