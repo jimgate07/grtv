@@ -10,6 +10,7 @@ CHANNELS = {
     "corfuchannel": "corfuchannel",
     "startmediacorfu": "startmediacorfu",
     "ilektratv": "100063542305429",
+    "lychnos": "lychnos",
     "volcanotv": "100064220132182"
 }
 
