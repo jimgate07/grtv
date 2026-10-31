@@ -1,39 +1,39 @@
-import re
-import urllib.request
+import subprocess
+import json
 
-PAGE_ID = "100064220132182"
+PAGE_URL = "https://www.facebook.com/profile.php?id=100064220132182"
 
 def get_stream_id():
-    # Χρησιμοποιούμε έναν πιο «φυσικό» User-Agent σύγχρονου κινητού Android/Chrome
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'el-GR,el;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Cache-Control': 'no-cache',
-        'Pragma': 'no-cache',
-        'Connection': 'keep-alive',
-    }
-    
-    # Δοκιμάζουμε τη δημόσια σελίδα βίντεο (videos/) απευθείας
-    url = f"https://m.facebook.com/profile.php?id={PAGE_ID}&v=videos"
-    
+    # Δοκιμή πρώτα στην ενότητα των βίντεο
     try:
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as response:
-            html_content = response.read().decode('utf-8')
-            
-            # Αναζήτηση για IDs βίντεο
-            matches = re.findall(r'(?:/videos/|/watch/\?v=|video_id=)(\d{10,})', html_content)
-            
-            if matches:
-                unique_ids = list(dict.fromkeys(matches))
-                print(f"Βρέθηκε ID βίντεο: {unique_ids[0]}")
-                return unique_ids[0]
-            else:
-                print("Δεν βρέθηκαν ταιριαστά IDs στον πηγαίο κώδικα.")
+        cmd = ["yt-dlp", "--flat-playlist", "--dump-json", f"{PAGE_URL}&v=videos"]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        
+        for line in result.stdout.strip().split('\n'):
+            if line:
+                data = json.loads(line)
+                video_id = data.get('id')
+                if video_id:
+                    print(f"Βρέθηκε ID βίντεο μέσω yt-dlp: {video_id}")
+                    return str(video_id)
     except Exception as e:
-        print(f"Σφάλμα σύνδεσης: {e}")
-            
+        print(f"Σφάλμα yt-dlp στα videos: {e}")
+
+    # Δοκιμή στην ενότητα των live αν δεν βρέθηκε στα βίντεο
+    try:
+        cmd = ["yt-dlp", "--flat-playlist", "--dump-json", f"{PAGE_URL}&v=live"]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        
+        for line in result.stdout.strip().split('\n'):
+            if line:
+                data = json.loads(line)
+                video_id = data.get('id')
+                if video_id:
+                    print(f"Βρέθηκε Live ID μέσω yt-dlp: {video_id}")
+                    return str(video_id)
+    except Exception as e:
+        print(f"Σφάλμα yt-dlp στα live: {e}")
+
     return None
 
 if __name__ == "__main__":
