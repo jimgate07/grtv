@@ -353,6 +353,16 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konit
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ZK6wwGp.png",MULTICAST TV
 https://mcv.streams.gr/stream/multicasttv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/zJfS2S8.png",GREEK HITS
+https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/4oReFID.png",GREEK HITS NON STOP
+https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/cDRPq7b.png",ΤΑ ΕΛΑΦΡΟΛΑΪΚΑ ΤΗΣ ΠΑΡΕΑΣ
+https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/xQh1fEo.png",ΝΥΧΤΑ ΜΕΡΑ ΛΑΪΚΑ
+https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/xpv0SAc.png",ΛΑΪΚΑ ΤΗΣ ΤΑΒΕΡΝΑΣ
+https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/owoR8Xi.png",MEGA NEWS BUP
