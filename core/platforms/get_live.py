@@ -9,6 +9,7 @@ CHANNELS = {
     "supertvkorinthos": "supertvkorinthos",
     "corfuchannel": "corfuchannel",
     "startmediacorfu": "startmediacorfu",
+    "ilektratv": "100063542305429",
     "volcanotv": "100064220132182"
 }
 
