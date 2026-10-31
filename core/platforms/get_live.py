@@ -5,7 +5,6 @@ import urllib.parse
 PAGE_ID = "100064220132182"
 
 def get_stream_id():
-    # Στοχεύουμε απευθείας την καρτέλα των βίντεο της σελίδας
     target_url = f"https://m.facebook.com/profile.php?id={PAGE_ID}&v=videos"
     
     proxy_api = f"https://corsproxy.io/?{urllib.parse.quote(target_url)}"
@@ -19,20 +18,19 @@ def get_stream_id():
         with urllib.request.urlopen(req, timeout=15) as response:
             html_content = response.read().decode('utf-8')
             
-            # Ευρύς εντοπισμός οποιουδήποτε μεγάλου αριθμού που μοιάζει με ID βίντεο στο Facebook
-            # Ψάχνει για patterns όπως /videos/ID, /watch/?v=ID, story_fbid=ID κ.λπ.
-            matches = re.findall(r'(\d{15,20})', html_content)
+            # Ψάχνουμε αποκλειστικά και μόνο μέσα στα links των βίντεο για αριθμούς από 10 έως 20 ψηφία
+            matches = re.findall(r'(?:/videos/|/watch/\?v=|video_id=|\/video\.php\?v=)(\d{10,20})', html_content)
             
             if matches:
-                # Φιλτράρουμε για να βρούμε τα πιο πιθανά IDs (συνήθως τα FB video IDs είναι γύρω στα 15-16 ψηφία)
-                valid_ids = [m for m in matches if len(m) >= 15]
-                unique_ids = list(dict.fromkeys(valid_ids))
+                # Καθαρισμός τυχόν κενών και επιλογή του πρώτου έγκυρου ID
+                unique_ids = [m for m in matches if m.isdigit()]
+                unique_ids = list(dict.fromkeys(unique_ids))
                 
                 if unique_ids:
-                    print(f"Βρέθηκε ID βίντεο: {unique_ids[0]}")
+                    print(f"Βρέθηκε σωστό ID βίντεο: {unique_ids[0]}")
                     return unique_ids[0]
                     
-            print("Δεν βρέθηκαν κατάλληλα IDs στον κώδικα.")
+            print("Δεν βρέθηκαν έγκυρα IDs βίντεο στα αντίστοιχα links.")
                 
     except Exception as e:
         print(f"Σφάλμα σύνδεσης: {e}")
