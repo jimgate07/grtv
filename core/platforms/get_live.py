@@ -1,41 +1,39 @@
 import re
 import urllib.request
+import urllib.parse
 import json
 
 PAGE_ID = "100064220132182"
 
 def get_stream_id():
-    # Χρησιμοποιούμε το κινητό frontend του Facebook με εναλλακτικό User-Agent bot
-    url = f"https://mbasic.facebook.com/profile.php?id={PAGE_ID}&v=videos"
+    # Στόχος URL
+    target_url = f"https://m.facebook.com/profile.php?id={PAGE_ID}&v=videos"
+    
+    # Χρησιμοποιούμε έναν δωρεάν δημόσιο proxy (allorigins) για να παρακάμψουμε το IP block του GitHub
+    proxy_api = f"https://api.allorigins.win/get?url={urllib.parse.quote(target_url)}"
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Accept-Language': 'el-GR,el;q=0.9,en;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
     }
     
     try:
-        req = urllib.request.Request(url, headers=headers)
+        req = urllib.request.Request(proxy_api, headers=headers)
         with urllib.request.urlopen(req) as response:
-            html_content = response.read().decode('utf-8')
+            data = json.loads(response.read().decode('utf-8'))
+            html_content = data.get('contents', '')
             
-            # Αναζήτηση IDs βίντεο μέσα στη mbasic έκδοση (δεν μπλοκάρει με Error 400)
-            matches = re.findall(r'/video\.php\?v=(\d+)|/watch/\?v=(\d+)|/videos/(\d+)', html_content)
+            # Αναζήτηση για IDs βίντεο μέσα στο HTML που επέστρεψε ο proxy
+            matches = re.findall(r'(?:/videos/|/watch/\?v=|video_id=|\/video\.php\?v=)(\d{10,})', html_content)
             
-            # Καθαρισμός και εύρεση μοναδικών IDs
-            valid_ids = []
-            for match in matches:
-                for group in match:
-                    if group and group.isdigit() and len(group) > 8:
-                        if group not in valid_ids:
-                            valid_ids.append(group)
-                            
-            if valid_ids:
-                print(f"Βρέθηκε ID βίντεο: {valid_ids[0]}")
-                return valid_ids[0]
+            if matches:
+                unique_ids = list(dict.fromkeys(matches))
+                print(f"Βρέθηκε ID βίντεο μέσω Proxy: {unique_ids[0]}")
+                return unique_ids[0]
+            else:
+                print("Δεν βρέθηκαν IDs στον κώδικα της σελίδας.")
                 
     except Exception as e:
-        print(f"Σφάλμα σύνδεσης: {e}")
+        print(f"Σφάλμα σύνδεσης μέσω Proxy: {e}")
             
     return None
 
