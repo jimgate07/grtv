@@ -5,7 +5,8 @@ import urllib.parse
 PAGE_ID = "100064220132182"
 
 def get_stream_id():
-    target_url = f"https://m.facebook.com/{PAGE_ID}/videos/"
+    # Στοχεύουμε απευθείας την καρτέλα των live μεταδόσεων της σελίδας
+    target_url = f"https://m.facebook.com/{PAGE_ID}/live/"
     proxy_api = f"https://corsproxy.io/?{urllib.parse.quote(target_url)}"
     
     headers = {
@@ -17,13 +18,11 @@ def get_stream_id():
         with urllib.request.urlopen(req, timeout=15) as response:
             html_content = response.read().decode('utf-8')
             
-            # Αυστηρά μοτίβα που στοχεύουν αποκλειστικά τα IDs βίντεο και όχι τυχαίους αριθμούς
+            # Αναζήτηση αποκλειστικά για IDs που σχετίζονται με live ή watch links
             patterns = [
-                r'"video_id"\s*:\s*"(\d+)"',          # Μέσα σε JSON δεδομένα του Facebook
-                r'/videos/(\d{10,20})/',               # Στα URL διαδρομής βίντεο
-                r'/watch/\?v=(\d{10,20})',             # Στα watch URLs
-                r'video_id=(\d{10,20})',               # Σώμα παραμέτρων
-                r'/story\.php\?story_fbid=(\d{10,20})' # Stories/Posts βίντεο
+                r'/live/videos/.*?/(\d{10,20})',
+                r'/watch/\?v=(\d{10,20})',
+                r'"video_id"\s*:\s*"(\d{10,20})"'
             ]
             
             for pattern in patterns:
@@ -32,10 +31,10 @@ def get_stream_id():
                     unique_ids = [m for m in matches if m.isdigit() and m != PAGE_ID]
                     unique_ids = list(dict.fromkeys(unique_ids))
                     if unique_ids:
-                        print(f"Βρέθηκε έγκυρο ID βίντεο: {unique_ids[0]}")
+                        print(f"Εντοπίστηκε ενεργό Live ID: {unique_ids[0]}")
                         return unique_ids[0]
                         
-            print("Δεν βρέθηκαν έγκυρα IDs με τα αυστηρά patterns.")
+            print("Δεν βρέθηκε καμία ενεργή ζωντανή μετάδοση (Live).")
                 
     except Exception as e:
         print(f"Σφάλμα σύνδεσης: {e}")
@@ -45,8 +44,8 @@ def get_stream_id():
 if __name__ == "__main__":
     target_id = get_stream_id()
     if target_id:
-        print(f"Αποθήκευση ID: {target_id}")
+        print(f"Αποθήκευση Live ID: {target_id}")
         with open("live-id.txt", "w") as f:
             f.write(target_id)
     else:
-        print("Δεν βρέθηκε κανένα βίντεο.")
+        print("Δεν ενημερώθηκε το αρχείο διότι δεν υπάρχει live.")
