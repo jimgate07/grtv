@@ -43,7 +43,7 @@ if __name__ == "__main__":
     target_id = get_stream_id()
     if target_id:
         print(f"Αποθήκευση ID: {target_id}")
-        with open("core/platforms/live-id.txt", "w") as f:
+        with open("live-id.txt", "w") as f:
             f.write(target_id)
     else:
         print("Δεν βρέθηκε κανένα βίντεο.")
