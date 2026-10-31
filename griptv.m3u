@@ -330,7 +330,7 @@ webview:https://eurovibesgreece.blogspot.com/2026/10/zouzouniatv.html
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/88ipEYP.png",TOM AND JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",ΕΚΚΛΗΣΙΑ TV HD
-https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/eklisia-tv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",ΠΕΜΠΤΟΥΣΙΑ TV
 webview:https://eurovibesgreece.blogspot.com/2026/10/pemptousia%20tv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/A9K7zqS.png",ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΜΑΝΤΟΥΔΙΟΥ
