@@ -4,36 +4,35 @@ import urllib.request
 PAGE_ID = "100064220132182"
 
 def get_stream_id():
+    # Χρησιμοποιούμε έναν πιο «φυσικό» User-Agent σύγχρονου κινητού Android/Chrome
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Accept-Language': 'el-GR,el;q=0.9,en;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'el-GR,el;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
+        'Connection': 'keep-alive',
     }
     
-    # Δοκιμάζουμε απευθείας τη standard mobile σελίδα προφίλ
-    urls = [
-        f"https://m.facebook.com/profile.php?id={PAGE_ID}",
-        f"https://m.facebook.com/profile.php?id={PAGE_ID}&v=videos",
-        f"https://m.facebook.com/profile.php?id={PAGE_ID}&v=live"
-    ]
+    # Δοκιμάζουμε τη δημόσια σελίδα βίντεο (videos/) απευθείας
+    url = f"https://m.facebook.com/profile.php?id={PAGE_ID}&v=videos"
     
-    for url in urls:
-        try:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req) as response:
-                html_content = response.read().decode('utf-8')
-                
-                # Αναζήτηση για IDs βίντεο σε διάφορες μορφές links του Facebook
-                # Ψάχνει για /videos/ID, /watch/?v=ID ή video_id=ID
-                matches = re.findall(r'(?:/videos/|/watch/\?v=|video_id=)(\d{10,})', html_content)
-                
-                if matches:
-                    # Αφαιρούμε τα διπλότυπα κρατώντας τη σειρά εμφάνισης
-                    unique_ids = list(dict.fromkeys(matches))
-                    print(f"Βρέθηκε ID βίντεο: {unique_ids[0]}")
-                    return unique_ids[0]
-        except Exception as e:
-            print(f"Σφάλμα στο URL {url}: {e}")
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req) as response:
+            html_content = response.read().decode('utf-8')
+            
+            # Αναζήτηση για IDs βίντεο
+            matches = re.findall(r'(?:/videos/|/watch/\?v=|video_id=)(\d{10,})', html_content)
+            
+            if matches:
+                unique_ids = list(dict.fromkeys(matches))
+                print(f"Βρέθηκε ID βίντεο: {unique_ids[0]}")
+                return unique_ids[0]
+            else:
+                print("Δεν βρέθηκαν ταιριαστά IDs στον πηγαίο κώδικα.")
+    except Exception as e:
+        print(f"Σφάλμα σύνδεσης: {e}")
             
     return None
 
