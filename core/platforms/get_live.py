@@ -2,7 +2,7 @@ import re
 import urllib.request
 
 # Βάλτε το username της σελίδας σας στο Facebook
-PAGE_NAME = "mplkh.official"
+PAGE_NAME = "100063980712662"
 
 def get_live_id():
     url = f"https://www.facebook.com/{PAGE_NAME}/live/"
