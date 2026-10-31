@@ -5,13 +5,12 @@ import urllib.parse
 PAGE_ID = "epirustv1"
 
 def get_stream_id():
-    # Δοκιμάζουμε απευθείας το URL των βίντεο της σελίδας
     target_url = f"https://www.facebook.com/{PAGE_ID}/videos"
     proxy_api = f"https://corsproxy.io/?{urllib.parse.quote(target_url)}"
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         'Accept-Language': 'el-GR,el;q=0.9,en-US;q=0.8,en;q=0.7'
     }
     
@@ -20,12 +19,12 @@ def get_stream_id():
         with urllib.request.urlopen(req, timeout=15) as response:
             html_content = response.read().decode('utf-8', errors='ignore')
             
-            # Αναζήτηση για live videos ή general video IDs στη σελίδα βίντεο
+            # Αυστηρά μοτίβα που στοχεύουν αποκλειστικά ζωντανές ή βιντεοσκοπημένες ροές
             patterns = [
-                r'/videos/(\d{10,20})/',
-                r'"video_id"\s*:\s*"(\d{10,20})"',
-                r'owner_id\\":\\"' + PAGE_ID + '\\".*?video_id\\":\\"(\d{10,20})\\"',
-                r'(\d{15,20})' # Γενικό μοτίβο για μεγάλα IDs βίντεο στο Facebook
+                r'/live/videos/\D*?/(\d{10,20})',
+                r'/videos/\D*?/(\d{10,20})',
+                r'video_id\\":\\"(\d{10,20})\\"',
+                r'bvid\\":\\"(\d{10,20})\\"'
             ]
             
             for pattern in patterns:
@@ -34,10 +33,10 @@ def get_stream_id():
                     unique_ids = [m for m in matches if m.isdigit() and m != PAGE_ID]
                     unique_ids = list(dict.fromkeys(unique_ids))
                     if unique_ids:
-                        print(f"Εντοπίστηκε Live ID: {unique_ids[0]}")
+                        print(f"Εντοπίστηκε έγκυρο Live ID: {unique_ids[0]}")
                         return unique_ids[0]
                         
-            print("Δεν βρέθηκε ενεργό live.")
+            print("Δεν βρέθηκε έγκυρο live ID.")
                 
     except Exception as e:
         print(f"Σφάλμα σύνδεσης: {e}")
