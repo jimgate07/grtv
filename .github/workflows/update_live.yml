@@ -19,7 +19,7 @@ jobs:
           python-version: '3.10'
 
       - name: Run script to get live ID
-        run: python get_live.py
+        run: cd ./core/platforms/ python get_live.py
 
       - name: Commit and push if it changed
         run: |
