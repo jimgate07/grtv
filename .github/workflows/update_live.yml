@@ -3,7 +3,7 @@ name: Update Facebook Live ID
 on:
   schedule:
     # Τρέχει αυτόματα κάθε 30 λεπτά
-    - cron: '*/30 * * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Επιτρέπει και χειροκίνητη εκτέλεση (Run workflow) από το GitHub
 
 jobs:
