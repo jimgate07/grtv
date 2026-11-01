@@ -114,7 +114,7 @@ https://live.streams.ovh:8081/gnomitv/index.m3u8 | http://cdn5.smart-tv-data.com
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/Qx5MEbl.png",TV 100
 https://gwebstream.net/hls/master.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
-http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/4e-tv.html
 #EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/eW2YGnv.png",ΔΕΛΤΑ TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/delta-tv.html
 #EXTINF:-1 group-title="⛰️ΑΝ.ΜΑΚ θΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://i.imgur.com/KO2JtRn.png",ENA CHANNEL
@@ -346,7 +346,7 @@ webview:https://eurovibesgreece.blogspot.com/2026/10/pemptousia%20tv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/A9K7zqS.png",ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΜΑΝΤΟΥΔΙΟΥ
 https://mcv.streams.gr/stream/agiosioannistheologoslivetv/index.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/L5kqm86.png",4E
-http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/4e-tv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/d6gaydU.png",ΛΥΧΝΟΣ
 https://thor.mental-media.gr:19360/imp/imp.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/lychnostv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/aCehw3g.png",ΟΡΘΟΔΟΞΙΑ TV
