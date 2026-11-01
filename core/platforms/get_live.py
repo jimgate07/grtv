@@ -16,6 +16,7 @@ CHANNELS = {
     "mesogeiostv": "mesogeiostv",
     "vimatv": "100063980712662",
     "centertv": "centertv",
+    "tv4egr": "tv4egr",
     "volcanotv": "100064220132182"
 }
 
