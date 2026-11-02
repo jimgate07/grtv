@@ -18,6 +18,7 @@ CHANNELS = {
     "centertv": "centertv",
     "tv4egr": "tv4egr",
     "starvoreiouellados": "100063815432884",
+    "besttv": "bestkalamata",
     "volcanotv": "100064220132182"
 }
 
