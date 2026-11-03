@@ -19,6 +19,7 @@ CHANNELS = {
     "tv4egr": "tv4egr",
     "starvoreiouellados": "100063815432884",
     "besttv": "bestkalamata",
+    "verginacy": "Verginatvcy.cy",
     "volcanotv": "100064220132182"
 }
 
