@@ -82,7 +82,7 @@ http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV ΑΤΤΙΚΗΣ
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT
-https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8 
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/alert-tv.html
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="bluesky" tvg-logo="https://i.imgur.com/mLrrVZn.png",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8 | https://cdn5.smart-tv-data.com/bluesky/blueskyHD/playlist.m3u8 | https://cdn5.smart-tv-data.com/bluesky/bluesky-live/manifest.mpd | http://195.226.218.165/bluesky/blueskyHD/mpeg.2ts
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="onetv" tvg-logo="https://i.imgur.com/12Pk9r4.png",ONE CHANNEL
@@ -92,7 +92,7 @@ http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/LfQbGxa.png",ΝΑΥΤΕΜΠΟΡΙΚΗ TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://i.imgur.com/X9ysWNd.png",ACTION 24 
-https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8 | http://speech10.anixa.tv/action24/Action24/mpeg.2ts
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8 | http://speech10.anixa.tv/action24/Action24/mpeg.2ts | webview:https://eurovibesgreece.blogspot.com/2026/11/action24.html
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="hightv" tvg-logo="https://i.imgur.com/GHZJGPb.png",HIGH TV
 https://live.streams.ovh/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="kontra" tvg-logo="https://i.imgur.com/Kny4NeR.png",KONTRA CHANNEL
@@ -326,21 +326,23 @@ https://mcv3.streams.gr/stream/dipolotv/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
 https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/MLyv8ET.png",MR BEAN
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/mr-bean_01725587833.html
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts | https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/QlhJ01l.png",KIDS TV
 http://65.108.62.57:8080/live4/kidshd.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/EdPMfYe.png",KIDS TV ΚΥΠΡΟΥ
 webview:https://player.viloud.tv/embed/channel/1cd1acf4386c3a773d890cab3b1b224c?autoplay=1&volume=1&random=0&controls=0&title=0&share=0
+#EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ΖΟΥΖΟΥΝΙΑ
+webview:https://eurovibesgreece.blogspot.com/2026/10/zouzouniatv.html
+#EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/cxuoK4i.png",ΠΕΠΠΑ ΤΟ ΓΟΥΡΟΥΝΑΚΙ
+webview:https://eurovibesgreece.blogspot.com/2026/11/peppa-pig-greek-.html
+#EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/krhEcnS.png",ΜΠΛΟΥΪ
+webview:https://eurovibesgreece.blogspot.com/2026/11/Bluey.html
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/5cZSHiJ.png",CARTOON CLASSICS
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/index.m3u8
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PksoVXP.png",MR BEAN ANIMATED
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/23YlJEG.png",ΖΟΥΖΟΥΝΙΑ
-webview:https://eurovibesgreece.blogspot.com/2026/10/zouzouniatv.html
-#EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/krhEcnS.png",ΜΠΛΟΥΪ
-webview:https://eurovibesgreece.blogspot.com/2026/11/Bluey.html
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/mr-bean-animated.html
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/88ipEYP.png",TOM AND JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",ΕΚΚΛΗΣΙΑ TV HD
