@@ -92,7 +92,7 @@ http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/LfQbGxa.png",ΝΑΥΤΕΜΠΟΡΙΚΗ TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://i.imgur.com/X9ysWNd.png",ACTION 24 
-https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8 | http://speech10.anixa.tv/action24/Action24/mpeg.2ts | webview:https://eurovibesgreece.blogspot.com/2026/11/action24.html
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8 | http://speech10.anixa.tv/action24/Action24/mpeg.2ts | https://cdn1.smart-tv-data.com/action24/Action24/mpeg.2ts | webview:https://eurovibesgreece.blogspot.com/2026/11/action24.html
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="hightv" tvg-logo="https://i.imgur.com/GHZJGPb.png",HIGH TV
 https://live.streams.ovh/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="kontra" tvg-logo="https://i.imgur.com/Kny4NeR.png",KONTRA CHANNEL
