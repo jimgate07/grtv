@@ -279,8 +279,8 @@ https://webtv.topwebhost.gr:3565/stream/play.m3u8
 https://itv.streams.ovh:8081/demoflu/index.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ΕΛΛΗΝΙΚΟΣ FM
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
-#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA PLUS TV
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA TV
+https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8 | https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ZK6wwGp.png",MULTICAST TV
 https://mcv.streams.gr/stream/multicasttv/index.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/zJfS2S8.png",GREEK HITS
