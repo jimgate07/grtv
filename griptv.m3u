@@ -80,7 +80,7 @@ http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
 http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/C3H8Miw.png",APT TV ΑΤΤΙΚΗΣ
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8
+https://www.arttv.info/p/art.html|weballdig
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://i.imgur.com/rObfnzr.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/alert-tv.html
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="bluesky" tvg-logo="https://i.imgur.com/mLrrVZn.png",BLUE SKY
