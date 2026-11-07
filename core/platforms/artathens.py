@@ -21,24 +21,28 @@ def update_m3u8(output_file='artathens.m3u8'):
 
     embed_id = None
     
-    # Αναζήτηση ακριβώς για το μοτίβο του embed: rumble.com/embed/v7fteuo/ ή παρόμοια
+    # 1. Αναζήτηση για rumble.com/embed/ εντός JavaScript strings ή HTML
+    # Πιάνει περιπτώσεις όπως: src=\"https://rumble.com/embed/v7fteuo/...\" ή απλό URL
     match = re.search(r'rumble\.com/embed/v?([a-zA-Z0-9]+)', page_content)
     if match:
         embed_id = match.group(1)
-        print(f"[+] Found Rumble embed ID: {embed_id}")
+        print(f"[+] Found Rumble ID via embed pattern: {embed_id}")
 
-    # Εναλλακτικό fallback αν δεν πιαστεί από το παραπάνω
+    # 2. Γενική αναζήτηση για IDs μέσα σε JavaScript variables ή URLs του Rumble
     if not embed_id:
-        matches = re.findall(r'rumble\.com/(?:embed/|live-hls/|v/)v?([a-zA-Z0-9]+)', page_content)
+        # Ψάχνει για patterns τυπου rumble.com/... και παίρνει το αλριθμητικό ID
+        matches = re.findall(r'rumble\.com/(?:embed/|live-hls/|v/)?v?([a-zA-Z0-9]{5,8})', page_content)
         if matches:
-            embed_id = matches[0]
-            print(f"[+] Found ID via alternative pattern: {embed_id}")
+            valid_ids = [m for m in matches if m not in ['embed', 'live', 'hls', 'pub']]
+            if valid_ids:
+                embed_id = valid_ids[0]
+                print(f"[+] Found ID via general pattern: {embed_id}")
 
     if not embed_id:
         print("[!] Error: Could not detect any Rumble ID on the page!")
         return
 
-    # Καθαρισμός: αν ξεκινάει από 'v' (π.χ. αν το group το έπιασε μαζί με το v)
+    # Καθαρισμός αν τυχόν ξεκινάει από 'v'
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
