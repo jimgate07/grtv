@@ -1,10 +1,8 @@
 import requests
-from bs4 import BeautifulSoup
 import re
 
 def update_m3u8(output_file='artathens.m3u8'):
     target_url = "https://www.arttv.info/p/art.html"
-    # Χρήση του Jina AI Proxy για αποφυγή του 429 Too Many Requests από το GitHub Actions
     main_url = f"https://r.jina.ai/{target_url}"
     
     headers = {
@@ -16,40 +14,34 @@ def update_m3u8(output_file='artathens.m3u8'):
     try:
         r = requests.get(main_url, headers=headers, timeout=15)
         r.raise_for_status()
-        html_content = r.text
+        page_content = r.text
     except Exception as e:
         print(f"[!] Failed to fetch main page: {e}")
         return
 
-    soup = BeautifulSoup(html_content, 'html.parser')
-    
     embed_id = None
     
-    # 1. Ψάχνουμε σε όλα τα iframes
-    for iframe in soup.find_all("iframe"):
-        src = iframe.get("src", "")
-        print(f"[-] Checking iframe src: {src}")
-        if "rumble.com" in src:
-            match = re.search(r'(?:embed/|v=)v?([a-zA-Z0-9]+)', src)
-            if match:
-                embed_id = match.group(1)
-                break
+    # Ψάχνουμε για διάφορα μοτίβα του Rumble στο κείμενο (π.χ. embed/, v/, live-hls/)
+    patterns = [
+        r'rumble\.com/embed/([a-zA-Z0-9]+)',
+        r'rumble\.com/v/([a-zA-Z0-9]+)',
+        r'rumble\.com/live-hls/([a-zA-Z0-9]+)',
+        r'rumble\.com/.*?/([a-zA-Z0-9]{5,8})'
+    ]
 
-    # 2. Αν δεν βρέθηκε, ψάχνουμε παντού στο κείμενο της σελίδας για rumble links
-    if not embed_id:
-        matches = re.findall(r'rumble\.com/(?:embed/|live-hls/|v/)v?([a-zA-Z0-9]+)', html_content)
+    for pattern in patterns:
+        matches = re.findall(pattern, page_content)
         if matches:
-            embed_id = matches[0]
-
-    # 3. Τελευταία προσπάθεια: αναζήτηση για οποιοδήποτε script/url που περιέχει rumble
-    if not embed_id:
-        match_alt = re.search(r'rumble\.com/.*?([a-zA-Z0-9]{5,8})', html_content)
-        if match_alt:
-            embed_id = match_alt.group(1)
+            # Φιλτράρουμε τυχόν άσχετα matches (κρατάμε αλριθμητικά IDs συνήθως 5-8 χαρακτήρων)
+            valid_ids = [m for m in matches if len(m) >= 4]
+            if valid_ids:
+                embed_id = valid_ids[0]
+                print(f"[+] Found match with pattern '{pattern}': {embed_id}")
+                break
 
     if not embed_id:
         print("[!] Warning: Could not detect any Rumble ID on the page! Keeping fallback.")
-        embed_id = "7clc2e" # Fallback ID αν αποτύχει η αυτόματη ανίχνευση
+        embed_id = "7clc2e" # Fallback ID
 
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
