@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 import re
 
 def update_m3u8(output_file='artathens.m3u8'):
@@ -14,25 +15,36 @@ def update_m3u8(output_file='artathens.m3u8'):
     try:
         r = requests.get(main_url, headers=headers, timeout=15)
         r.raise_for_status()
-        # Διορθώνουμε τυχόν escaped slashes (\/) που φέρνει το Jina από τη JS/HTML
-        page_content = r.text.replace(r'\/', '/')
+        html_content = r.text
     except Exception as e:
         print(f"[!] Failed to fetch main page: {e}")
         return
 
     embed_id = None
     
-    # Αναζήτηση ακριβώς για το μοτίβο του embed/v/live-hls του Rumble
-    match = re.search(r'rumble\.com/(?:embed|v|live-hls)/v?([a-zA-Z0-9]+)', page_content)
-    if match:
-        embed_id = match.group(1)
-        print(f"[+] Found Rumble ID match: {embed_id}")
+    # 1. Προσπάθεια με BeautifulSoup (όπως η αρχική σου λογική)
+    soup = BeautifulSoup(html_content, 'html.parser')
+    for iframe in soup.find_all("iframe"):
+        src = iframe.get("src", "")
+        if "rumble.com" in src:
+            match = re.search(r'embed/v?([a-zA-Z0-9]+)', src)
+            if match:
+                embed_id = match.group(1)
+                print(f"[+] Found ID via BeautifulSoup iframe: {embed_id}")
+                break
+
+    # 2. Αν δεν βρέθηκε από τα iframes, δοκιμάζουμε απευθείας Regex στο κείμενο
+    if not embed_id:
+        match = re.search(r'rumble\.com/embed/v?([a-zA-Z0-9]+)', html_content)
+        if match:
+            embed_id = match.group(1)
+            print(f"[+] Found ID via text regex: {embed_id}")
 
     if not embed_id:
         print("[!] Error: Could not detect any Rumble ID on the page!")
         return
 
-    # Αν το ID ξεκινάει από 'v' (π.χ. v7fteuo), το αφαιρούμε για να μείνει το καθαρό 7fteuo
+    # Καθαρισμός: αν ξεκινάει από 'v' (π.χ. v7fteuo), το αφαιρούμε για να μείνει το καθαρό ID
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
