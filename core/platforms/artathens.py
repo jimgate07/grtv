@@ -21,27 +21,24 @@ def update_m3u8(output_file='artathens.m3u8'):
 
     embed_id = None
     
-    # Αναζήτηση για οποιοδήποτε pattern rumble.com/embed/ ή παρόμοιο στο κείμενο του Jina
-    match = re.search(r'rumble\.com/(?:embed|v|live-hls)/v?([a-zA-Z0-9]+)', page_content)
+    # Πολύ απλό και άμεσο regex: ψάχνει οπουδήποτε στο κείμενο για rumble.com/embed/v7fteuo
+    match = re.search(r'rumble\.com/embed/v?([a-zA-Z0-9]+)', page_content)
     if match:
         embed_id = match.group(1)
-        print(f"[+] Found Rumble ID: {embed_id}")
+        print(f"[+] Found ID via direct match: {embed_id}")
 
-    # Αν δεν το βρει έτσι, ψάχνουμε για οποιοδήποτε string ακολουθεί το rumble.com/
+    # Εναλλακτικά, αν υπάρχει οπουδήποτε στο κείμενο
     if not embed_id:
-        matches = re.findall(r'rumble\.com/[^\s"\'<>)]+', page_content)
-        for m in matches:
-            sub_match = re.search(r'([a-zA-Z0-9]{5,8})', m)
-            if sub_match and sub_match.group(1) not in ['embed', 'live', 'hls', 'html']:
-                embed_id = sub_match.group(1)
-                print(f"[+] Found ID via generic link scan: {embed_id}")
-                break
+        matches = re.findall(r'embed/v?([a-zA-Z0-9]{6,8})', page_content)
+        if matches:
+            embed_id = matches[0]
+            print(f"[+] Found ID via secondary match: {embed_id}")
 
     if not embed_id:
         print("[!] Error: Could not detect any Rumble ID on the page!")
         return
 
-    # Καθαρισμός: αν ξεκινάει από 'v' (π.χ. v7fteuo), το αφαιρούμε για να μείνει το καθαρό 7fteuo
+    # Καθαρισμός: αν ξεκινάει από 'v' (π.χ. v7fteuo), το αφαιρούμε για να μείνει το 7fteuo
     if embed_id.lower().startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
