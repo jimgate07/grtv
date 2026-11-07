@@ -21,28 +21,24 @@ def update_m3u8(output_file='artathens.m3u8'):
 
     embed_id = None
     
-    # Ψάχνουμε για διάφορα μοτίβα του Rumble στο κείμενο (π.χ. embed/, v/, live-hls/)
-    patterns = [
-        r'rumble\.com/embed/([a-zA-Z0-9]+)',
-        r'rumble\.com/v/([a-zA-Z0-9]+)',
-        r'rumble\.com/live-hls/([a-zA-Z0-9]+)',
-        r'rumble\.com/.*?/([a-zA-Z0-9]{5,8})'
-    ]
+    # Αναζήτηση ακριβώς για το μοτίβο του embed: rumble.com/embed/v7fteuo/ ή παρόμοια
+    match = re.search(r'rumble\.com/embed/v?([a-zA-Z0-9]+)', page_content)
+    if match:
+        embed_id = match.group(1)
+        print(f"[+] Found Rumble embed ID: {embed_id}")
 
-    for pattern in patterns:
-        matches = re.findall(pattern, page_content)
+    # Εναλλακτικό fallback αν δεν πιαστεί από το παραπάνω
+    if not embed_id:
+        matches = re.findall(r'rumble\.com/(?:embed/|live-hls/|v/)v?([a-zA-Z0-9]+)', page_content)
         if matches:
-            # Φιλτράρουμε τυχόν άσχετα matches (κρατάμε αλριθμητικά IDs συνήθως 5-8 χαρακτήρων)
-            valid_ids = [m for m in matches if len(m) >= 4]
-            if valid_ids:
-                embed_id = valid_ids[0]
-                print(f"[+] Found match with pattern '{pattern}': {embed_id}")
-                break
+            embed_id = matches[0]
+            print(f"[+] Found ID via alternative pattern: {embed_id}")
 
     if not embed_id:
-        print("[!] Warning: Could not detect any Rumble ID on the page! Keeping fallback.")
-        embed_id = "7clc2e" # Fallback ID
+        print("[!] Error: Could not detect any Rumble ID on the page!")
+        return
 
+    # Καθαρισμός: αν ξεκινάει από 'v' (π.χ. αν το group το έπιασε μαζί με το v)
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
