@@ -1,52 +1,42 @@
 import requests
-from bs4 import BeautifulSoup
 import re
 
 def update_m3u8(output_file='artathens.m3u8'):
-    target_url = "https://www.arttv.info/p/art.html"
-    # Χρήση του AllOrigins proxy για να πάρουμε το raw HTML με όλα τα iframes
-    proxy_url = f"https://api.allorigins.win/raw?url={target_url}"
+    # Χρήση του επίσημου JSON Feed του Blogspot (γρήγορο, χωρίς proxy και χωρίς 429 errors)
+    feed_url = "https://www.arttv.info/feeds/posts/default?max-results=3&alt=json"
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     }
 
-    print(f"[*] Fetching via AllOrigins proxy: {target_url}")
+    print(f"[*] Fetching Blogspot JSON feed: {feed_url}")
     try:
-        r = requests.get(proxy_url, headers=headers, timeout=15)
+        r = requests.get(feed_url, headers=headers, timeout=15)
         r.raise_for_status()
-        html_content = r.text
-        print(f"[DEBUG] HTML content length: {len(html_content)} characters")
+        data = r.json()
     except Exception as e:
-        print(f"[!] Failed to fetch page: {e}")
+        print(f"[!] Failed to fetch feed: {e}")
         return
 
     embed_id = None
     
-    # 1. Αναζήτηση στα iframes της σελίδας
-    soup = BeautifulSoup(html_content, 'html.parser')
-    for iframe in soup.find_all("iframe"):
-        src = iframe.get("src", "")
-        print(f"[-] Found iframe src: {src}")
-        if "rumble.com" in src:
-            match = re.search(r'embed/v?([a-zA-Z0-9]+)', src)
-            if match:
-                embed_id = match.group(1)
-                print(f"[+] Found ID via iframe: {embed_id}")
-                break
-
-    # 2. Εναλλακτικό: Regex απευθείας στο raw HTML
-    if not embed_id:
-        match = re.search(r'rumble\.com/embed/v?([a-zA-Z0-9]+)', html_content)
+    # Ψάχνουμε στις τελευταίες αναρτήσεις του feed για το Rumble ID
+    entries = data.get('feed', {}).get('entry', [])
+    for entry in entries:
+        content_html = entry.get('content', {}).get('$t', '')
+        
+        # Αναζήτηση για το iframe ή το embed link του Rumble μέσα στο περιεχόμενο της ανάρτησης
+        match = re.search(r'rumble\.com/embed/v?([a-zA-Z0-9]+)', content_html)
         if match:
             embed_id = match.group(1)
-            print(f"[+] Found ID via regex: {embed_id}")
+            print(f"[+] Found Rumble ID in feed entry: {embed_id}")
+            break
 
     if not embed_id:
-        print("[!] Error: Could not detect any Rumble ID on the page!")
+        print("[!] Error: Could not detect any Rumble ID in the blog feed!")
         return
 
-    # Καθαρισμός: αν ξεκινάει από 'v' (π.χ. v7fteuo), το αφαιρούμε για να μείνει το καθαρό ID
+    # Καθαρισμός: αν ξεκινάει από 'v' (π.χ. v7fteuo), το αφαιρούμε για να μείνει το καθαρό 7fteuo
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
 
