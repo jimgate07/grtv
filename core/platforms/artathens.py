@@ -3,14 +3,18 @@ from bs4 import BeautifulSoup
 import re
 
 def update_m3u8(output_file='artathens.m3u8'):
-    main_url = "https://www.arttv.info/p/art.html"
+    target_url = "https://www.arttv.info/p/art.html"
+    # Χρήση του Jina AI Proxy για αποφυγή του 429 Too Many Requests από το GitHub Actions
+    main_url = f"https://r.jina.ai/{target_url}"
+    
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,xml"
     }
 
-    print(f"[*] Fetching main page: {main_url}")
+    print(f"[*] Fetching via Jina proxy: {target_url}")
     try:
-        r = requests.get(main_url, headers=headers, timeout=10)
+        r = requests.get(main_url, headers=headers, timeout=15)
         r.raise_for_status()
         html_content = r.text
     except Exception as e:
@@ -44,8 +48,8 @@ def update_m3u8(output_file='artathens.m3u8'):
             embed_id = match_alt.group(1)
 
     if not embed_id:
-        print("[!] Warning: Could not detect any Rumble ID on the page! Keeping previous or fallback.")
-        embed_id = "7clc2e" # Βάλε εδώ προσωρινά το νεο ID αν το ξέρεις χειροκίνητα
+        print("[!] Warning: Could not detect any Rumble ID on the page! Keeping fallback.")
+        embed_id = "7clc2e" # Fallback ID αν αποτύχει η αυτόματη ανίχνευση
 
     if embed_id.startswith('v') and embed_id[1:].isalnum():
         embed_id = embed_id[1:]
