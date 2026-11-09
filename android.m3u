@@ -385,6 +385,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8
 http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
 http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
+#EXTINF:-1 group-title="HYBRID" tvg-logo="https://i.imgur.com/4JcNWky.png",Η ΔΙΚΗ ΣΤΟΝ ΣΚΑΪ LIVE
+http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",ERT SPORTS 1
 http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 group-title="HYBRID" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",ERT SPORTS 1 BUP
