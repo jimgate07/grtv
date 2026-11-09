@@ -75,6 +75,8 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts | https://ert-ucdn.broadp
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.m3u8
 #EXTINF:-1 group-title="📡HYBRID" tvg-name="ertnews3" tvg-logo="https://i.imgur.com/PSUnKSy.png",ΕΡΤ NEWS 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews3/default/index.m3u8
+#EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/4JcNWky.png",Η ΔΙΚΗ ΣΤΟΝ ΣΚΑΪ LIVE
+http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
 #EXTINF:-1 group-title="📡HYBRID" tvg-logo="https://i.imgur.com/ljD846h.png",BEST TV HYBRID 2
