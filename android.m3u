@@ -561,7 +561,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/4YoEAIe.png",ESCAPE TV
 https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Jm0SnfX.png",ARGOLIDA SPORT TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tMuefDo.png",NEXT MEDIA TV
 https://mcv.streams.gr/stream/argolidasportstv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/z00S2GJ.png",PYLOS TV
 https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8
