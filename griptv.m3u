@@ -108,7 +108,7 @@ https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/sqhqANh.png",DION TV
 https://rtmp.win:3650/live/diontvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/ | https://rtmp.fyi/live-stream-video-widget/diontv/|weballdig
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/HNpbhdt.png",EURO TV
-https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8 | https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="europeone" tvg-logo="https://i.imgur.com/ZSsXQ1G.png",PONTOS TV
 https://rtmp.win:3842/live/recme1live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0&Referer=https://rtmp.win/ | https://rtmp.fyi/live-stream-video-widget/recme1/|weballdig
 #EXTINF:-1 group-title="♖ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/TkXmv3c.png",GNOMI TV
@@ -184,7 +184,7 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 group-title="🐚ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://i.imgur.com/6XBDcU0.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8 | https://cdn5.smart-tv-data.com/local/tvcreta/manifest.mpd
 #EXTINF:-1 group-title="🏝️ΔΩΔ/ΣΟΥ ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/DDCv1El.png",ΑΙΓΑΙΟ TV
-https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8 | https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
+https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8 | hhttps://183.giatvcdn.com/ssh101/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1 group-title="🏝️ΔΩΔ/ΣΟΥ ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://i.imgur.com/ajnEOPS.png",ΣΑΜΙΑΚΗ TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="🏝️ΔΩΔ/ΣΟΥ ΣΑΜΟΣ" tvg-name="kostv" tvg-logo="https://i.imgur.com/N9cHGyW.png",KOS TV
@@ -246,7 +246,7 @@ https://webtv.topwebhost.gr:3302/stream/play.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/0qdSp3k.png",AVANTI TV
 https://avantitv.siliconweb.com/dmg/avantitv/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1LOGZCn.png",ONAR TV
-https://live20.bozztv.com/akamaissh101/ssh101/onarradiotv/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/onarradiotv/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/a3xSkJX.png",JACKSON PALACE TV
 https://rtmp.streams.ovh:8081/jacksonmusictv/index.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",ΝΑΣΟΣ TV RADIO
@@ -268,7 +268,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ly7PBye.png",V2BEAT LIVE
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/SjhOgKR.png",ΤΗΛΕΜΟΥΣΙΚΗ
-https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8 | http://65.108.62.57:8080/live2/greekmusic.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/tilemousiki/playlist.m3u8 | http://65.108.62.57:8080/live2/greekmusic.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/VbbjDTD.png",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/sWXNv2b.png",RELOAD RADIO
@@ -314,7 +314,7 @@ https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/6STBhNL.png",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/1DxMmHL.png",ΔΙΑΒΑΤΑ TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8 | https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8 | https://183.giatvcdn.com/ssh101/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jUr8BZA.png",ΛΑΜΨΗ TV
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/jnYZpBu.png",CHOICE TV
@@ -326,7 +326,7 @@ https://webinternetradio.eu:59820/dta.webm?t=1791456141346
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/XXBLUuD.png",DIPOLO TV
 https://mcv3.streams.gr/stream/dipolotv/index.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
-https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="🎥ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/MLyv8ET.png",MR BEAN
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/mr-bean_01725587833.html
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png",ΕΡΤ KIDS TV
@@ -346,7 +346,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/m
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PksoVXP.png",MR BEAN ANIMATED
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/11/mr-bean-animated.html
 #EXTINF:-1 group-title="🧸ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/88ipEYP.png",TOM AND JERRY
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/lwiQPJm.png",ΕΚΚΛΗΣΙΑ TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8 | webview:https://eurovibesgreece.blogspot.com/2026/10/eklisia-tv.html
 #EXTINF:-1 group-title="⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/b7HmM4Q.png",ΠΕΜΠΤΟΥΣΙΑ TV
@@ -438,7 +438,7 @@ https://mcv.streams.gr/stream/argolidasportstv/index.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/THpDcdE.png",ΠΑΚΟΕ TV
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/z00S2GJ.png",PYLOS TV
-https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/28061968/playlist.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/BmwbYWg.png",DIAMOND CHANNEL
 https://mcv2.streams.gr/stream/diamondchannel/index.m3u8
 #EXTINF:-1 group-title="📺WEB TV" tvg-logo="https://i.imgur.com/lhPUUfk.png",GAMING LAB
