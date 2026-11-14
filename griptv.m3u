@@ -283,6 +283,8 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8 | https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ZK6wwGp.png",MULTICAST TV
 https://mcv.streams.gr/stream/multicasttv/index.m3u8
+#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/iHYxdaq.png",EUROVISION SONG CONTEST NON STOP HITS
+webview:https://eurovibesgreece.blogspot.com/2026/11/eurovision.html
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/zJfS2S8.png",GREEK HITS
 webview:https://eurovibesgreece.blogspot.com/2026/10/greek-hits-tv.html
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/4oReFID.png",GREEK HITS NON STOP
