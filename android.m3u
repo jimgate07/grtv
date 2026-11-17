@@ -439,6 +439,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Ortho
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/farostvchurch.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/1DgaC6p.png",ΔΙΨΩ TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/chunklist_w1039152407.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.imgur.com/vFC5dpz.png",ΦΩΣ TV
+https://183.giatvcdn.com/ssh101/ssh101/fostv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
