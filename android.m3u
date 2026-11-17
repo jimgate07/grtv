@@ -344,7 +344,7 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/UIROSlU.png",TOP WEBHOST TV
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA TV
-https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/jsFmjcW.png",KONITSA TV BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7ntpFnb.png",ΕΛΛΗΝΙΚΟΣ FM
