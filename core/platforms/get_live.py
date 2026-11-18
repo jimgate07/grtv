@@ -20,6 +20,7 @@ CHANNELS = {
     "starvoreiouellados": "100063815432884",
     "besttv": "bestkalamata",
     "verginacy": "Verginatvcy.cy",
+    "tharriTV": "tharriTV",
     "volcanotv": "100064220132182"
 }
 
