@@ -353,6 +353,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konit
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ZK6wwGp.png",MULTICAST TV
 https://mcv.streams.gr/stream/multicasttv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ASEona5.png",DIGITAL TV (ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ)
+https://183.giatvcdn.com/giatv/giatv-MYTV/MYTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/zJfS2S8.png",GREEK HITS
 https://github.com/jimgate07/grtv/raw/refs/heads/master/Greek%20iptv.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/4oReFID.png",GREEK HITS NON STOP
