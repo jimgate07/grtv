@@ -135,7 +135,7 @@ https://gra1.crystalweb.net:1936/star/star/playlist.m3u8 | webview:https://eurov
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="flashtv" tvg-logo="https://i.imgur.com/toF5zyo.png",FLASH TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8 | https://flash-tv.gr/live/|weballdig
-#EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://i.imgur.com/VIMCL7k.png",ΔΙΚΤΥΟ1 (MONO TO ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ 20:00-21:00)
+#EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="diktyo1" tvg-logo="https://i.imgur.com/VIMCL7k.png",ΔΙΚΤΥΟ1 (MONO TO ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ 21:00-22:00)
 webview:https://eurovibesgreece.blogspot.com/2026/10/diktyo1.html
 #EXTINF:-1 group-title="🌊ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/DbDvmup.png",ΑΧΕΛΩΟΣ TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
