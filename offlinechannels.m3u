@@ -43,7 +43,8 @@ https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="🏞️ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-id="flashtv" tvg-logo="https://i.imgur.com/toF5zyo.png",FLASH TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8 | https://flash-tv.gr/live/|weballdig
-
+#EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/jrm4osR.png",ATTICA TV (ΜΟΝΟ Η ΕΚΠΟΜΠΗ ΑΝΤΙΘΕΣΕΙΣ 20:00-22:00)
+webview:https://eurovibesgreece.blogspot.com/2026/10/attica-tv.html
 
 
 
