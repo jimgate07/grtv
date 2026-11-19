@@ -45,7 +45,8 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8 | https://flash-tv.gr/live/|weballdig
 #EXTINF:-1 group-title="🏛ΑΤΤΙΚΗ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/jrm4osR.png",ATTICA TV (ΜΟΝΟ Η ΕΚΠΟΜΠΗ ΑΝΤΙΘΕΣΕΙΣ 20:00-22:00)
 webview:https://eurovibesgreece.blogspot.com/2026/10/attica-tv.html
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/D9mqsMn.png",BCI CINEMA
