@@ -198,7 +198,7 @@ webview:https://eurovibesgreece.blogspot.com/2026/10/volcano-tv_02081094755.html
 #EXTINF:-1 group-title="⚓️Β.Α. ΑΙΓΑΙΟΥ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/cxciffB.png",AEOLOS TV
 http://cdn.istoikona.com/aeolostv/live/playlist.m3u8 | https://cdn5.smart-tv-data.com/local/aeolostv/manifest.mpd
 #EXTINF:-1 group-title="⚓️Β.Α. ΑΙΓΑΙΟΥ" tvg-name="alithiatv" tvg-logo="https://i.imgur.com/oI0KCOA.png",ΑΛΗΘΕΙΑ TV (LIVE ΜΟΝΟ 17:00-00:00)
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8 | https://www.alithia.gr/tv/live|weballdig
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos/default/index.m3u8 | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8 | http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 group-title="🌍ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/9QZjC3x.png",ΕΡΤ COSMOS (ΚΥΠΡΟΥ)
