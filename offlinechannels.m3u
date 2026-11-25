@@ -47,6 +47,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8 | h
 webview:https://eurovibesgreece.blogspot.com/2026/10/attica-tv.html
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/4gI62xU.png",NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾ΚΥΠΡΙΑKA" tvg-name="extracy" tvg-logo="https://i.imgur.com/gOdm8hD.png",EXTRA ΚΥΠΡΟΥ
+https://vid1.smartscreen-data.com/ONECHANNELCY/ONECHANNELCY/manifest.mpd|license_type=clearkey&license_key=11111111000000000033555555555555:472e7eee2ad8dd1f9ec537ee545d8b5f
 
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/D9mqsMn.png",BCI CINEMA
