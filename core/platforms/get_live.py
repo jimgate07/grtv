@@ -20,6 +20,7 @@ CHANNELS = {
     "besttv": "bestkalamata",
     "verginacy": "Verginatvcy.cy",
     "tharriTV": "tharriTV",
+    "diktyo1": "diktyo1",
     "volcanotv": "100064220132182"
 }
 
