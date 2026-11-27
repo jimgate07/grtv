@@ -245,8 +245,6 @@ https://webtv.topwebhost.gr:3302/stream/play.m3u8
 https://avantitv.siliconweb.com/dmg/avantitv/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1LOGZCn.png",ONAR TV
 https://183.giatvcdn.com/ssh101/ssh101/onarradiotv/playlist.m3u8
-#EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/a3xSkJX.png",JACKSON PALACE TV
-https://rtmp.streams.ovh:8081/jacksonmusictv/index.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FKV0hAw.png",ΝΑΣΟΣ TV RADIO
 https://fr.crystalweb.net:1936/radioeirhnhtv/radioeirhnhtv/playlist.m3u8
 #EXTINF:-1 group-title="🎵ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0jPdDL.png",MESSINIA TV
